@@ -6,7 +6,6 @@ pub struct Migration;
 #[async_trait::async_trait]
 impl MigrationTrait for Migration {
     async fn up(&self, manager: &SchemaManager) -> Result<(), DbErr> {
-
         manager
             .create_table(
                 Table::create()
@@ -21,17 +20,31 @@ impl MigrationTrait for Migration {
                     )
                     .col(ColumnDef::new(User::Name).string().not_null())
                     .col(ColumnDef::new(User::Icon).string().not_null())
-                    .col(ColumnDef::new(User::Username).string().not_null().unique_key())
+                    .col(
+                        ColumnDef::new(User::Username)
+                            .string()
+                            .not_null()
+                            .unique_key(),
+                    )
                     .col(ColumnDef::new(User::Password).string().not_null())
-                    .col(ColumnDef::new(User::IsVerified).boolean().not_null().default(false))
-                    .col(ColumnDef::new(User::CreatedAt).date_time().not_null().extra("DEFAULT NOW()".into()))
+                    .col(
+                        ColumnDef::new(User::IsVerified)
+                            .boolean()
+                            .not_null()
+                            .default(false),
+                    )
+                    .col(
+                        ColumnDef::new(User::CreatedAt)
+                            .date_time()
+                            .not_null()
+                            .extra("DEFAULT NOW()".into()),
+                    )
                     .to_owned(),
             )
             .await
     }
 
     async fn down(&self, manager: &SchemaManager) -> Result<(), DbErr> {
-
         manager
             .drop_table(Table::drop().table(User::Table).to_owned())
             .await

@@ -6,7 +6,6 @@ pub struct Migration;
 #[async_trait::async_trait]
 impl MigrationTrait for Migration {
     async fn up(&self, manager: &SchemaManager) -> Result<(), DbErr> {
-
         manager
             .create_table(
                 Table::create()
@@ -20,16 +19,25 @@ impl MigrationTrait for Migration {
                             .primary_key(),
                     )
                     .col(ColumnDef::new(CardGroup::Name).string().not_null())
-                    .col(ColumnDef::new(CardGroup::IsPublic).boolean().not_null().default(false))
+                    .col(
+                        ColumnDef::new(CardGroup::IsPublic)
+                            .boolean()
+                            .not_null()
+                            .default(false),
+                    )
                     .col(ColumnDef::new(CardGroup::CreatorId).integer().not_null())
-                    .col(ColumnDef::new(CardGroup::CreatedAt).date_time().not_null().extra("DEFAULT NOW()".into()))
+                    .col(
+                        ColumnDef::new(CardGroup::CreatedAt)
+                            .date_time()
+                            .not_null()
+                            .extra("DEFAULT NOW()".into()),
+                    )
                     .to_owned(),
             )
             .await
     }
 
     async fn down(&self, manager: &SchemaManager) -> Result<(), DbErr> {
-
         manager
             .drop_table(Table::drop().table(CardGroup::Table).to_owned())
             .await
@@ -44,5 +52,5 @@ enum CardGroup {
     Name,
     IsPublic,
     CreatorId,
-    CreatedAt
+    CreatedAt,
 }
