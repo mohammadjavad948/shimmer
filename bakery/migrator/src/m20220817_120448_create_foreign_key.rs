@@ -63,6 +63,41 @@ impl MigrationTrait for Migration {
     }
 
     async fn down(&self, manager: &SchemaManager) -> Result<(), DbErr> {
+        manager.drop_foreign_key(
+            ForeignKey::drop()
+                .name("FK_user_card_owner")
+                .table(Card::Table)
+                .to_owned()
+        ).await?;
+
+        manager.drop_foreign_key(
+            ForeignKey::drop()
+                .name("FK_card_card_group")
+                .table(Card::Table)
+                .to_owned()
+        ).await?;
+
+        manager.drop_foreign_key(
+            ForeignKey::drop()
+                .name("FK_card_pocket")
+                .table(CardsInPocket::Table)
+                .to_owned()
+        ).await?;
+
+        manager.drop_foreign_key(
+            ForeignKey::drop()
+                .name("FK_user_pocket")
+                .table(CardsInPocket::Table)
+                .to_owned()
+        ).await?;
+
+        manager.drop_foreign_key(
+            ForeignKey::drop()
+                .name("FK_user_card_group_owner")
+                .table(CardGroup::Table)
+                .to_owned()
+        ).await?;
+
         Ok(())
     }
 }
