@@ -43,7 +43,7 @@ impl MigrationTrait for Migration {
 
 /// Learn more at https://docs.rs/sea-query#iden
 #[derive(Iden)]
-enum Card {
+pub enum Card {
     Table,
     Id,
     Question,

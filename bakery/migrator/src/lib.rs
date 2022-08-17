@@ -4,6 +4,7 @@ mod m20220816_111225_create_user;
 mod m20220816_123945_create_card_group;
 mod m20220816_124525_create_card;
 mod m20220816_174157_create_cards_in_pocket;
+mod m20220817_120448_create_foreign_key;
 
 pub struct Migrator;
 
@@ -15,6 +16,7 @@ impl MigratorTrait for Migrator {
             Box::new(m20220816_123945_create_card_group::Migration),
             Box::new(m20220816_124525_create_card::Migration),
             Box::new(m20220816_174157_create_cards_in_pocket::Migration),
+            Box::new(m20220817_120448_create_foreign_key::Migration),
         ]
     }
 }
