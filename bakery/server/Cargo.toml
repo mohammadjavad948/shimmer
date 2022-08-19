@@ -6,3 +6,12 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+axum = "0"
+hyper = { version = "0", features = ["full"] }
+tokio = { version = "1", features = ["full"] }
+tower = "0"
+sea-orm = { version = "^0", features = [ "sqlx-postgres", "runtime-tokio-rustls", "macros" ] }
+serde_json = "1.0"
+serde= { version = "1.0", features = ["derive"] }
+database = { path = "../database" }
+migrator = { path = "../migrator" }
