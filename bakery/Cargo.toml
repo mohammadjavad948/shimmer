@@ -2,5 +2,6 @@
 
 members = [
   "migrator",
-  "database"
+  "database",
+  "server"
 ]
