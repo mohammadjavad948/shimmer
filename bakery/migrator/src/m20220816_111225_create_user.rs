@@ -19,7 +19,6 @@ impl MigrationTrait for Migration {
                             .primary_key(),
                     )
                     .col(ColumnDef::new(User::Name).string().not_null())
-                    .col(ColumnDef::new(User::Icon).string().not_null())
                     .col(
                         ColumnDef::new(User::Username)
                             .string()
@@ -57,7 +56,6 @@ pub enum User {
     Table,
     Id,
     Name,
-    Icon,
     Username,
     Password,
     CreatedAt,

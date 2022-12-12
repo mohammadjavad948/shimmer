@@ -11,6 +11,7 @@ pub struct Model {
     pub user_id: i32,
     pub start_date: DateTime,
     pub level: i32,
+    pub history: Json,
     pub created_at: DateTime,
 }
 

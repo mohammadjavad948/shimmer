@@ -6,3 +6,5 @@ pub mod card;
 pub mod card_group;
 pub mod cards_in_pocket;
 pub mod user;
+
+pub use sea_orm;
