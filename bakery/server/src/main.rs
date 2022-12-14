@@ -4,6 +4,7 @@ use router::routes;
 use state::State;
 use std::sync::Arc;
 
+mod actions;
 mod router;
 mod state;
 
