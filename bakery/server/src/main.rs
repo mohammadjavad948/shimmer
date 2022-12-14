@@ -5,6 +5,7 @@ use state::State;
 use std::sync::Arc;
 
 mod actions;
+mod middleware;
 mod router;
 mod state;
 
