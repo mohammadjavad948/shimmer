@@ -3,6 +3,7 @@ use sea_orm_migration::prelude::*;
 use crate::{
     m20220816_111225_create_user::User, m20220816_123945_create_card_group::CardGroup,
     m20220816_124525_create_card::Card, m20220816_174157_create_cards_in_pocket::CardsInPocket,
+    m20221225_142400_create_session::Session,
 };
 
 #[derive(DeriveMigrationName)]
@@ -52,6 +53,18 @@ impl MigrationTrait for Migration {
                 ForeignKey::create()
                     .name("FK_user_pocket")
                     .from(CardsInPocket::Table, CardsInPocket::UserId)
+                    .to(User::Table, User::Id)
+                    .on_delete(ForeignKeyAction::Cascade)
+                    .on_update(ForeignKeyAction::Cascade)
+                    .to_owned(),
+            )
+            .await?;
+
+        manager
+            .create_foreign_key(
+                ForeignKey::create()
+                    .name("FK_user_session")
+                    .from(Session::Table, Session::UserId)
                     .to(User::Table, User::Id)
                     .on_delete(ForeignKeyAction::Cascade)
                     .on_update(ForeignKeyAction::Cascade)
