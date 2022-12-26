@@ -16,3 +16,4 @@ database = { path = "../database" }
 migrator = { path = "../migrator" }
 jsonwebtoken = "8"
 sha2 = "0"
+pwhash="1"

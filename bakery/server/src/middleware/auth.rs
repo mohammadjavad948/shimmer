@@ -48,8 +48,8 @@ pub struct UserInfo {
 }
 
 #[derive(Debug, Serialize, Deserialize)]
-struct AuthHeader {
-    id: i32,
+pub struct JWTPayload {
+    pub id: i32,
 }
 
 pub async fn auth_middleware<B>(
@@ -71,7 +71,7 @@ pub async fn auth_middleware<B>(
     validation.required_spec_claims = HashSet::new();
 
     // decode token
-    let token_message = decode::<AuthHeader>(
+    let token_message = decode::<JWTPayload>(
         auth_header,
         &DecodingKey::from_secret(secret.as_ref()),
         &validation,
