@@ -12,6 +12,7 @@ use axum::{
 };
 use sha2::{Digest, Sha256};
 
+use crate::helpers::hash_token;
 use crate::state::State;
 
 pub async fn get_user_data(
@@ -78,23 +79,16 @@ pub async fn auth_middleware<B>(
     )
     .map_err(|_| StatusCode::UNAUTHORIZED)?;
 
-    let mut hash = Sha256::new();
-    hash.update(auth_header.as_bytes());
-
-    let hash_result = hash.finalize();
+    let hash = hash_token(auth_header.to_string());
 
     let state: &Arc<State> = req
         .extensions()
         .get()
         .ok_or(StatusCode::INTERNAL_SERVER_ERROR)?;
 
-    let session = get_user_session(
-        &state.db,
-        token_message.claims.id,
-        format!("{:x}", hash_result),
-    )
-    .await?
-    .ok_or(StatusCode::UNAUTHORIZED)?;
+    let session = get_user_session(&state.db, token_message.claims.id, hash)
+        .await?
+        .ok_or(StatusCode::UNAUTHORIZED)?;
 
     let user = UserInfo {
         user_id: session.user_id,

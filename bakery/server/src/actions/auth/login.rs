@@ -1,8 +1,8 @@
-use crate::{middleware::auth::JWTPayload, state::State};
+use crate::{helpers::hash_token, middleware::auth::JWTPayload, state::State};
 use axum::{http::StatusCode, Extension, Json};
 use database::{
-    sea_orm::{ColumnTrait, EntityTrait, QueryFilter},
-    user,
+    sea_orm::{ActiveModelTrait, ColumnTrait, EntityTrait, QueryFilter},
+    session, user,
 };
 use jsonwebtoken::{encode, EncodingKey, Header};
 use pwhash::bcrypt;
@@ -50,6 +50,19 @@ pub async fn login(
             &EncodingKey::from_secret(secret.as_ref()),
         )
         .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
+
+        let hash = hash_token(token.clone());
+
+        let session = session::ActiveModel {
+            user_id: database::sea_orm::ActiveValue::Set(user.id),
+            session_hash: database::sea_orm::ActiveValue::Set(hash),
+            ..Default::default()
+        };
+
+        session
+            .insert(&state.db)
+            .await
+            .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
 
         return Ok(Response { user, token });
     }
