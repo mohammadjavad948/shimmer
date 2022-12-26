@@ -29,13 +29,13 @@ pub async fn signup(
     let secret = std::env::var("SECRET").map_err(|_| StatusCode::UNAUTHORIZED)?;
     //get user
     let user = user::Entity::find()
-        .filter(user::Column::Username.eq(payload.username))
+        .filter(user::Column::Username.eq(payload.username.clone()))
         .one(&state.db)
         .await
         .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
 
     // if user exists return error
-    if let Some(user) = user {
+    if let Some(_) = user {
         return Err(StatusCode::BAD_REQUEST);
     }
 
