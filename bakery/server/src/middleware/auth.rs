@@ -10,7 +10,6 @@ use axum::{
     middleware::Next,
     response::Response,
 };
-use sha2::{Digest, Sha256};
 
 use crate::helpers::hash_token;
 use crate::state::State;

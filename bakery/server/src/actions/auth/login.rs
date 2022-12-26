@@ -21,7 +21,6 @@ pub struct Response {
     pub token: String,
 }
 
-#[axum_macros::debug_handler]
 pub async fn login(
     Extension(state): Extension<Arc<State>>,
     Json(payload): Json<Payload>,
