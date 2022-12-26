@@ -1,0 +1,3896 @@
+[
+    {
+      "id": 3652,
+      "student_id": 871,
+      "question_id": 4176,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4176,
+        "text": "لوزه‌ها، تیموس، طحال، آپاندیس و مغزاستخوان مجموعا به آنها .................... می‌گویند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: لوزه‌ها، تیموس، طحال، آپاندیس و مغزاستخوان که مجموعا به آنها اندام لنفی میگویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8333,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8333,
+            "text": "اندام لنفی",
+            "question_id": 4176,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8334,
+            "text": "گره لنفی",
+            "question_id": 4176,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4176,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3653,
+      "student_id": 871,
+      "question_id": 4177,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4177,
+        "text": "مویرگ‌های .................. دارای فضای بین یاخته‌ای زیادی هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگرچه دستگاه لنفی در مقابله با عوامل بیماری‌زا نقش دارد، ولی مویرگ‌های آن با داشتن فضای بین یاخته‌ای بزرگ در پخش یاخته‌های سرطانی در قسمت‌های مختلف بدن نیز موثر است. سخن ما: بچه‌ها تو صفحه 66 گفته در مویرگ‌های ناپیوسته فاصله بین یاخته‌های بافت پوشش زیاد است صفحه 70 هم گفته در مویرگ لنفی فضای بین یاخته‌ای زیادی داریم پس می‌تونیم نتیجه بگیریم مویرگ‌های دستگاه لنفی همون مویرگ‌های ناپیوسته هستن.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8335,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8335,
+            "text": "دستگاه لنفی",
+            "question_id": 4177,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8336,
+            "text": "دستگاه تنفسی",
+            "question_id": 4177,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4177,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3654,
+      "student_id": 871,
+      "question_id": 4178,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4178,
+        "text": "دستگاه لنفی در پخش یاخته‌های سرطانی در قسمت‌های مختلف بدن موثر است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: اگرچه دستگاه لنفی در مقابله با عوامل بیماری‌زا نقش دارد، ولی مویرگ‌های آن با داشتن فضای بین یاخته‌ای بزرگ در پخش یاخته‌های سرطانی در قسمت‌های مختلف بدن نیز موثر است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8337,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8337,
+            "text": "صحیح",
+            "question_id": 4178,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8338,
+            "text": "غلط",
+            "question_id": 4178,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4178,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3655,
+      "student_id": 871,
+      "question_id": 4179,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4179,
+        "text": "در هنگام ورزش یا استراحت، برون‌ده قلب باید تغییر یابد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در حالت عادی ضربان عادی قلب و برون‌ده ناشی از آن، نیاز اکسیژن و مواد مغذی اندام‌های بدن را برطرف می‌کند، اما در هنگام ورزش یا استراحت برون‌ده قلب باید تغییر یابد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8339,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8339,
+            "text": "صحیح",
+            "question_id": 4179,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8340,
+            "text": "غلط",
+            "question_id": 4179,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4179,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3656,
+      "student_id": 871,
+      "question_id": 4180,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4180,
+        "text": "تنظیم فالیت قلب در شرایط مختلف به وسیله ..................... انجام می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: افزایش  و کاهش فعالیت قلب متناسب با شرایط، به وسیله اعصاب دستگاه عصبی خودمختار انجام می‌شود. سخن ما: بعدا میخونیم که دستگاه عصبی خودمختار فعالیت ماهیچه‌های صاف و غده‌ها و ماهیچه‌ قلبی را تنظیم می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8341,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8341,
+            "text": "اعصاب دستگاه خودمختار",
+            "question_id": 4180,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8342,
+            "text": "اعصاب دستگاه محیطی",
+            "question_id": 4180,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4180,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3657,
+      "student_id": 871,
+      "question_id": 4181,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4181,
+        "text": "مرکز هماهنگی اعصاب خودمختار در بصل‌النخاع و .................. قرار دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: افزایش  و کاهش فعالیت قلب متناسب با شرایط، به وسیله اعصاب دستگاه عصبی خودمختار انجام می‌شود. مرکز هماهنگی این اعصاب در بصل‌النخاع و پل مغزی و در نزدیکی مرکز تنفس قرار دارد و همکاری این مراکز نیاز بدن به مواد مغذی و اکسیژن را در شرایط خاص به خوبی تامین می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8344,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8343,
+            "text": "نخاع",
+            "question_id": 4181,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8344,
+            "text": "پل مغزی",
+            "question_id": 4181,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4181,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3658,
+      "student_id": 871,
+      "question_id": 4182,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4182,
+        "text": "در حالت‌های ویژه روانی مثل استرس و ترس ترشح بعضی هورمون‌ها از غدد فوق کلیه افزایش می‌یابد و با اثر بر قلب و ................ ضربان قلب و فشار خون را افزایش می‌دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: درحالت‌های ویژه فشار روانی و استرس و ترس ترشح بعضی هورمون‌ها از غدد درون‌ریز مثل فوق کلیه افزایش می‌یابد، این هورمون‌ها با اثر بر بعضی اندام‌ها مثل قلب و کلیه ضربان قلب و فشار خون را افزایش می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8345,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8345,
+            "text": "کلیه",
+            "question_id": 4182,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8346,
+            "text": "مغز",
+            "question_id": 4182,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4182,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3659,
+      "student_id": 871,
+      "question_id": 4184,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4184,
+        "text": "ورود بعضی مواد مانند .................... به درون مایعات بدن باعث تنگی رگ‌ها می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: ورود بعضی مواد مانند یون کلسیم به درون مایعات بدن نیز باعث تنگی رگ‌ها می‌شود. که باعث تنظیم موضغی جریان خون می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8350,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8349,
+            "text": "کربن‌دی‌اکسید",
+            "question_id": 4184,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8350,
+            "text": "یون کلسیم",
+            "question_id": 4184,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4184,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3660,
+      "student_id": 871,
+      "question_id": 4185,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4185,
+        "text": "کربن‌دی‌اکسید با اثر بر ماهیچه‌ صاف دیواره سرخرگ‌های کوچک، ..................... را باز می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: کربن‌دی‌اکسید از جمله مواد گشادکننده رگی است که با اثر بر ماهیچه صاف دیواره رگ‌ها, سرخرگ‌های کوچک را گشاد و بنداره‌های مویرگی را باز می‌کند تا میزان جریان خون در آنها افزایش یابد. تغییر مقدار این مواد در بافت باعث تنظیم موضعی جریان خون در بافت می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8351,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8351,
+            "text": "بنداره‌های مویرگی",
+            "question_id": 4185,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8352,
+            "text": "دریچه‌های لانه‌کبوتری",
+            "question_id": 4185,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4185,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3661,
+      "student_id": 871,
+      "question_id": 4186,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4186,
+        "text": "گیرنده‌های فشاری در ...................... قرار دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گیرنده‌های فشاری در دیواره سرخرگ‌های گردش عمومی قرار دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8353,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8353,
+            "text": "سرخرگ‌های گردش عمومی",
+            "question_id": 4186,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8354,
+            "text": "سرخرگ‌های گردش ششی",
+            "question_id": 4186,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4186,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3662,
+      "student_id": 871,
+      "question_id": 4187,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4187,
+        "text": "گیرنده های حساس به کمبود اکسیژن و افزایش کربن‌دی‌اکسید و یون هیدروژن ...................... نام دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گیرنده‌های حساس به کمبود اکسیژن و افزایش کربن‌دی‌اکسید و یون هیدروژن گیرنده شیمیایی نام دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8356,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:35:34.000000Z",
+        "options": [
+          {
+            "id": 8355,
+            "text": "گیرنده‌های فشاری",
+            "question_id": 4187,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8356,
+            "text": "گیرنده‌های شیمیایی",
+            "question_id": 4187,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4187,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3663,
+      "student_id": 871,
+      "question_id": 4188,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4188,
+        "text": "گیرنده‌های شیمیایی پس از تحریک به مراکز عصبی پیام می‌فرستند تا فشار ................. در حد طبیعی حفظ شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گیرنده‌های شیمیایی پس از تحریک به مراکز عصبی پیام می‌فرستند تا فشار سرخرگی در حد طبیعی حفظ، و نیازهای بدن در شرایط خاص تامین شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8357,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8357,
+            "text": "سرخرگی",
+            "question_id": 4188,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8358,
+            "text": "سیاهرگی",
+            "question_id": 4188,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4188,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3664,
+      "student_id": 871,
+      "question_id": 4189,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4189,
+        "text": "خون نوعی بافت ................. است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: خون نوعی بافت پیوندی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8359,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8359,
+            "text": "پیوندی",
+            "question_id": 4189,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8360,
+            "text": "پوششی",
+            "question_id": 4189,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4189,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3665,
+      "student_id": 871,
+      "question_id": 4190,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4190,
+        "text": "خون در رگ‌ها به صورت ...................... جریان دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: خون نوعی بافت پیوندی است. که به صورت یک‌طرفه و منظم جریان دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8361,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8361,
+            "text": "یک‌طرفه",
+            "question_id": 4190,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8362,
+            "text": "دوطرفه",
+            "question_id": 4190,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4190,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3666,
+      "student_id": 871,
+      "question_id": 4191,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4191,
+        "text": "خون به ................ بخش تقسیم می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: خون دارای دو بخش است: خوناب که حالت مایع دارد و بخش یاخته‌ای که گویچه قرمز، گویچه‌های سفید و گرده‌ها را شامل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8363,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8363,
+            "text": "دو",
+            "question_id": 4191,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8364,
+            "text": "سه",
+            "question_id": 4191,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4191,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3667,
+      "student_id": 871,
+      "question_id": 4192,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4192,
+        "text": "بخش .................. خون حالت مایع دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: خون دارای دو بخش است: خوناب که حالت مایع دارد و بخش یاخته‌ای که گویچه قرمز، گویچه‌های سفید و گرده‌ها را شامل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8365,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8365,
+            "text": "خوناب",
+            "question_id": 4192,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8366,
+            "text": "یاخته‌های خونی",
+            "question_id": 4192,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4192,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3668,
+      "student_id": 871,
+      "question_id": 4193,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4193,
+        "text": "پلاکت‌ها جز بخش .................. خون هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: خون دارای دو بخش است: خوناب که حالت مایع دارد و بخش یاخته‌ای که گویچه قرمز، گویچه‌های سفید و گرده‌ها(پلاکت‌ها) را شامل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8367,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8367,
+            "text": "یاخته‌ای",
+            "question_id": 4193,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8368,
+            "text": "خوناب",
+            "question_id": 4193,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4193,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3669,
+      "student_id": 871,
+      "question_id": 4194,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4194,
+        "text": "با .................. بخش‌های خون از هم جدا می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر مقداری از خون را سانتریفیوژ کنیم دو بخش خون از هم جدا می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8369,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8369,
+            "text": "سانتریفیوژ",
+            "question_id": 4194,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8370,
+            "text": "سانتریول",
+            "question_id": 4194,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4194,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3670,
+      "student_id": 871,
+      "question_id": 4195,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4195,
+        "text": "بیشتر حجم خون را بخش ..................... خون تشکیل می‌دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: معمولاً در فرد سالم و بالغ 55 درصد حجم خون را خوناب و 45 درصد را یاخته‌های خونی تشکیل می‌دهد. سخن ما: خب طبق سخن کتاب بیشتر حجم خون را خوناب تشکیل میده.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8372,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8371,
+            "text": "یاخته‌ای",
+            "question_id": 4195,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8372,
+            "text": "خوناب",
+            "question_id": 4195,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4195,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3671,
+      "student_id": 871,
+      "question_id": 4198,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4198,
+        "text": "خون از طریق انتقال ................ ارتباط شیمیایی بین یاخته‌های بدن را ممکن می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: از وظایف خون انتقال مواد غذایی، اکسیژن، کربن‌دی‌اکسید، هورمون‌ها و مواد دیگر است و از همین طریق ارتباط شیمیایی بین یاخته‌های بدن را ممکن می‌سازد و به تنظیم دمای بدن و یکسان کردن دما در نواحی مختلف بدن کمک می‎کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8378,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8377,
+            "text": "مواد مغذی",
+            "question_id": 4198,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8378,
+            "text": "هورمون‌ها",
+            "question_id": 4198,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4198,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3672,
+      "student_id": 871,
+      "question_id": 4199,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4199,
+        "text": "تنظیم دمای بدن و یکسان کردن ما در قسمت‌های مختلف بدن از وظایف ................ است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: خون به تنظیم دمای بدن و یکسان کردن  دمای نواحی مختلف بدن کمک می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8379,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8379,
+            "text": "خون",
+            "question_id": 4199,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8380,
+            "text": "لنف",
+            "question_id": 4199,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4199,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3673,
+      "student_id": 871,
+      "question_id": 4200,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4200,
+        "text": "بیش از 90 درصد .................. از آب تشکیل شده است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بیش از 90 درصد خوناب از آب است که در آن پروتئین‌ها، مواد مغذی، یون‌ها، و مواد دفعی حل شده‌اند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8381,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8381,
+            "text": "بخش خوناب",
+            "question_id": 4200,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8382,
+            "text": "بخش یاخته‌ای خون",
+            "question_id": 4200,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4200,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3674,
+      "student_id": 871,
+      "question_id": 4201,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4201,
+        "text": "در ................... خون پروتئین‌ها، مواد غذایی، مواد دفعی حل شده‌اند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بیش از 90 درصد خوناب از آب است که در آن پروتئین‌ها، مواد مغذی، یون‌ها، و مواد دفعی حل شده‌اند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8383,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8383,
+            "text": "بخش خوناب",
+            "question_id": 4201,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8384,
+            "text": " بخش یاخته‌ای",
+            "question_id": 4201,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4201,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3675,
+      "student_id": 871,
+      "question_id": 4202,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4202,
+        "text": "................... نقش‌های گوناگونی از جمله حفظ فشار اسمزی، انتقال مواد، تنظیم PH و ایمنی بدن را بر عهده دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: پروتئین‌های خوناب نقش‌های گوناگونی از جمله حفظ فشار اسمزی خون، انتقال مواد، تنظیم PH، انعقاد خون و ایمنی بدن دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8386,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8385,
+            "text": "بخش یاخته‌ای خون",
+            "question_id": 4202,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8386,
+            "text": "بخش پروتئین‌های خوناب",
+            "question_id": 4202,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4202,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3676,
+      "student_id": 871,
+      "question_id": 4203,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4203,
+        "text": "آلبومین در .................. نقش دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: آلبومین در حفظ فشار اسمزی خون و انتقال بعضی داروها مثل پنی‌سیلین نقش دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8387,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8387,
+            "text": "انتقال بعضی داروها",
+            "question_id": 4203,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8388,
+            "text": "انعقاد خون",
+            "question_id": 4203,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4203,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3677,
+      "student_id": 871,
+      "question_id": 4204,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4204,
+        "text": "حفظ فشار اسمزی خون از وظایف .................. است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: آلبومین در حفظ فشار اسمزی خون و انتقال بعضی داروها مثل پنی‌سیلین نقش دارد. فیبرینوژن در انعقاد خون نقش دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8390,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8389,
+            "text": "فیبرینوژن",
+            "question_id": 4204,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8390,
+            "text": "آلبومین",
+            "question_id": 4204,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4204,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3678,
+      "student_id": 871,
+      "question_id": 4205,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4205,
+        "text": "فیبرینوژن در ................. نقش دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: فیبرینوژن در انعقاد خون نقش دارد. سخن ما: حفظ فشار اسمزی از وظایف آلبومین است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8391,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8391,
+            "text": "انعقاد خون",
+            "question_id": 4205,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8392,
+            "text": "حفظ فشار اسمزی",
+            "question_id": 4205,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4205,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3679,
+      "student_id": 871,
+      "question_id": 4206,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4206,
+        "text": " گلوبولین‌ها در ایمنی و مبارزه با عوامل بیماری‌زا اهمییت دارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گلوبولین‌ها در ایمنی و مبارزه با عوامل بیماری‌زا اهمییت دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8393,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8393,
+            "text": "صحیح",
+            "question_id": 4206,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8394,
+            "text": "غلط",
+            "question_id": 4206,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4206,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3680,
+      "student_id": 871,
+      "question_id": 4208,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4208,
+        "text": "هموگلوبین در ................... نقش دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: انواع گلوبولین‌ها و هموگلوبین با جذب و انتقال یون‌ها می‌توانند در تنظیم PH خون موثر باشند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8397,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8397,
+            "text": "تنظیمPH",
+            "question_id": 4208,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8398,
+            "text": "مبارزه با عوامل بیماری‌زا",
+            "question_id": 4208,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4208,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3681,
+      "student_id": 871,
+      "question_id": 4209,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:31.000000Z",
+      "updated_at": "2022-12-26T06:40:31.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4209,
+        "text": "وجود یون‌های سدیم و ................. در خوناب، در فعالیت یاخته‌های بدن نقش کلیدی دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: وجود یون‌های سدیم و پتاسیم در خوناب اهمییت زیادی دارد چون در فعالیت یاخته‎های بدن نقش کلیدی را دارند",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8399,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8399,
+            "text": "پتاسیم",
+            "question_id": 4209,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8400,
+            "text": "کلسیم",
+            "question_id": 4209,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4209,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3682,
+      "student_id": 871,
+      "question_id": 4210,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4210,
+        "text": "گرده‌ها ................. هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: خون شامل دو بخش خوناب و یاخته‌های خونی است که بخش دوم خون شامل گویچه‌های قرمز، گویچه‌های سفید و گرده ها هستند که دو گروه اول یاخته‌های خونی و گرده‌ها هم قطعاتی از یاخته هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8401,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8401,
+            "text": "قطعاتی از یاخته‌",
+            "question_id": 4210,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8402,
+            "text": "یاخته کامل",
+            "question_id": 4210,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4210,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3683,
+      "student_id": 871,
+      "question_id": 4211,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4211,
+        "text": "در فرد بالغ تولید یاخته های خونی و گرده ها در .................... انجام می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در یک فرد بالغ تولید یاخته‌های خونی و گرده‌ها در مغز و استخوان انجام می‌شود. در مغز استخوان یاخته‌های بنیادی وجود دارند که با تقسیمات خود، این بخش خون(بخش یاخته‌ای خون) را تولید می‎کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8404,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:32:14.000000Z",
+        "options": [
+          {
+            "id": 8403,
+            "text": "طحال",
+            "question_id": 4211,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8404,
+            "text": "مغزاستخوان",
+            "question_id": 4211,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 969,
+            "book_id": 166,
+            "start_page": 70,
+            "end_page": 72,
+            "label": "گفتار1. هم ایسـتایی و کلیه ها",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:08.000000Z",
+            "pivot": {
+              "question_id": 4211,
+              "sbox_id": 969
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3684,
+      "student_id": 871,
+      "question_id": 4232,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4232,
+        "text": "یاخته‌های خونی که ضمن گردش در خون، در بافت‌های مختلف نیز پراکنده می‌شوند ................... نام دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: یاخته‌های خونی که ضمن گردش در بدن در بافت‌های مختلف نیز پراکنده می‌شوند، گویچه‌های سفید هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8445,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8445,
+            "text": "گویچه ‎های سفید",
+            "question_id": 4232,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-08-14T21:28:59.000000Z"
+          },
+          {
+            "id": 8446,
+            "text": "گویچه‌های قرمز",
+            "question_id": 4232,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4232,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3685,
+      "student_id": 871,
+      "question_id": 4233,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4233,
+        "text": "گویچه‌های ................. در دفاع از بدن در برابر عوامل خارجی نقش دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: نقش اصلی گویچه‌های سفید، دفاع از بدن در برابر عوامل خارجی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8448,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8447,
+            "text": "قرمز",
+            "question_id": 4233,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8448,
+            "text": "سفید",
+            "question_id": 4233,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4233,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3686,
+      "student_id": 871,
+      "question_id": 4234,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4234,
+        "text": "گرده‌ها فاقد هسته هستند.",
+        "type": "true-false",
+        "answer": "گویچه‌ها قطعات یاخته‌ای بی‌رنگ و بدون‌ هسته‌ هستند و پر از ترکیبات فعال هستتند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8449,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8449,
+            "text": "صحیح",
+            "question_id": 4234,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8450,
+            "text": "غلط",
+            "question_id": 4234,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4234,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3687,
+      "student_id": 871,
+      "question_id": 4235,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4235,
+        "text": "گرده‌ها در ...................... تولید می‌شوند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گرده‌ها در مغزاستخوان زمانی تولید می‌شوند که بخش میا‌ن‌یاخته‌ای یاخته‌های بزرگی به نام مگاکاریوسیت قطعه‌قطعه و وارد جریان خون می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8451,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8451,
+            "text": "مغزاستخوان",
+            "question_id": 4235,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8452,
+            "text": "طحال",
+            "question_id": 4235,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4235,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3688,
+      "student_id": 871,
+      "question_id": 4236,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4236,
+        "text": "گرده‌ها از گویچه‌های قرمز خون کوچکتر هستند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گرده‌‌ها قطعات یاخته‌ای بی‌رنگ و بدون هسته‌ای هستند که درون خود دانه‌های زیادی دارند و از گویچه‌های قرمز خون کوچکتر هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8453,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8453,
+            "text": "صحیح",
+            "question_id": 4236,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8454,
+            "text": "غلط",
+            "question_id": 4236,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4236,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3689,
+      "student_id": 871,
+      "question_id": 4237,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4237,
+        "text": "زمانی که میان‌یاخته‌ای یاخته‌های بزرگی به نام مگاکاریوسیت قطعه‌قطعه و وارد جریان خون می‌شود، ...................... به وجود می‌آید.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گرده‌ها در مغزاستخوان زمانی تولید می‌شوند که بخش میا‌ن‌یاخته‌ای یاخته‌های بزرگی به نام مگاکاریوسیت قطعه‌قطعه و وارد جریان خون می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8456,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8455,
+            "text": "یاخته‌های خونی",
+            "question_id": 4237,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8456,
+            "text": "گرده‌ها",
+            "question_id": 4237,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4237,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3690,
+      "student_id": 871,
+      "question_id": 4238,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4238,
+        "text": "اگر سیتوپلاسم یاخته مگاکاریوسیت قطعه‌قطعه و وارد جریان خون شود درون هر یک از این قطعات ........................... وجود دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گرده‌ها در مغزاستخوان زمانی تولید می‌شوند که بخش میا‌ن‌یاخته‌ای یاخته‌های بزرگی به نام مگاکاریوسیت قطعه‌قطعه و وارد جریان خون می‌شود. درون هر یک از این قطعات، دانه‌های کوچک پر از ترکیبات فعال وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8457,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8457,
+            "text": "دانه‌های کوچک پر از ترکیبات فعال",
+            "question_id": 4238,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8458,
+            "text": "دانه‌هایی پر از ترکیبات غیرفعال",
+            "question_id": 4238,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4238,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3691,
+      "student_id": 871,
+      "question_id": 4239,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4239,
+        "text": "در فرایند لخته‌ شدن خون ترکیبات فعال از ................... آزاد می‌شوند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گرده‌ها در مغز استخوان زمانی تولید می‌شوند که بخش میان‌یاخته‌ای یاخته‌های بزرگی به نام مگاکاریوسیت قطعه‌قطعه و به جریان خون وارد می‌شود، درون هر یک از این قطعات دانه‌های کوچک پر از ترکیبات فعال وجود دارد و با آزاد شدن یکی از این ترکیبات از گرده‌ها و ورود به خوناب، فرایندی آغاز می‌شود که منجر به تشکیل لخته در محل خون‌ریزی می‌گردد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8459,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8459,
+            "text": "گرده‌ها",
+            "question_id": 4239,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8460,
+            "text": "مگاکاریوسیت",
+            "question_id": 4239,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4239,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3692,
+      "student_id": 871,
+      "question_id": 4240,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4240,
+        "text": "در جلوگیری از خون‌ریزی‌های محدود، گرده‌ها .......................",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گرده‌ها به چند طریق ار هدر رفتن خون جلوگیری می‌کنند، در خون‌ریزی‌های محدود، که دیواره رگ‌ها آسیب جزئی می‌بیند، گرده‌ها دور هم جمع می‌شوند و به هم می‌چسبند و ایجاد درپوش می‌کنند. این درپوش جلوی خروج خون از  رگِ آسیب دیده را می‌گیرد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8461,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8461,
+            "text": "درپوش ایجاد",
+            "question_id": 4240,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8462,
+            "text": "فیبرینوژن ترشح",
+            "question_id": 4240,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4240,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3693,
+      "student_id": 871,
+      "question_id": 4241,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4241,
+        "text": "در خون‌ریزی‌های .................... گرده‌ها در تولید لخته نقش اصلی را بر عهده دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در خون‌ریزی‌های شدیدتر، گرده‌ها نقش اصلی را بر عهده دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8463,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8463,
+            "text": "شدیدتر",
+            "question_id": 4241,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8464,
+            "text": "محدود",
+            "question_id": 4241,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4241,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3694,
+      "student_id": 871,
+      "question_id": 4242,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4242,
+        "text": "وجود .................... در انجام انعقاد خون و تشکیل لخته لازم است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: وجود ویتامین K و یون Ca در انجام روند انعقاد خون و تشکیل لخته لازم است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8466,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8465,
+            "text": "یون K",
+            "question_id": 4242,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8466,
+            "text": "ویتامین K",
+            "question_id": 4242,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4242,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3695,
+      "student_id": 871,
+      "question_id": 4243,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4243,
+        "text": "بافت‌ها و گرده‌های آسیب دیده ................... ترشح می‌کنند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بافت‌ها و گرده‌های آسیب دیده، ترشح آنزیم پروترومبیناز را دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8467,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8467,
+            "text": "آنزیم پروترومبیناز",
+            "question_id": 4243,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8468,
+            "text": "اریتروپویتین",
+            "question_id": 4243,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4243,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3696,
+      "student_id": 871,
+      "question_id": 4244,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4244,
+        "text": "..................... با اثر بر فیبرینوژن در ایجاد لخته دخالت دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: ترومبین با اثر بر فیبرینوژن آن را به فیبرین تبدیل می‌کند و فیبرین و گویچه‌های قرمز لخته را ایجاد می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8469,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8469,
+            "text": "ترومبین",
+            "question_id": 4244,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8470,
+            "text": "پروترومبین",
+            "question_id": 4244,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4244,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3697,
+      "student_id": 871,
+      "question_id": 4245,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4245,
+        "text": "..................... به همراه گویچه‌های قرمز خون، لخته را ایجاد می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: فیبرین به  همراه گویچه‌های قرمز، لخته را ایجاد می‌کنند. سخن ما‌: فیبرینوژن با اثر ترومبین به فیبرین تبدیل میشه و بعد فیبرین و گویچه‌های قرمز لخته رو ایجاد میکنن.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8472,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8471,
+            "text": "فیبرینوژن",
+            "question_id": 4245,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8472,
+            "text": "فیبرین",
+            "question_id": 4245,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 970,
+            "book_id": 166,
+            "start_page": 73,
+            "end_page": 75,
+            "label": "گفتار2. تشـکیل ادرار و تخلیـۀ آن",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:30.000000Z",
+            "pivot": {
+              "question_id": 4245,
+              "sbox_id": 970
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3698,
+      "student_id": 871,
+      "question_id": 4246,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4246,
+        "text": "در ..................... تبادل گازها، تغذیه و دفع بین محیط و یاخته، از سطح آن انجام می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در تک‌یاخته‌ای‌ها تبادل گازها، تغذیه و دفع بین محیط و یاخته از سطح آن انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8474,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8473,
+            "text": "پریاخته‌ای‌ها",
+            "question_id": 4246,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8474,
+            "text": "تک‌یاخته‌ای‌ها",
+            "question_id": 4246,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4246,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3699,
+      "student_id": 871,
+      "question_id": 4247,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4247,
+        "text": "یاخته‌های یقه‌دار دارای ..................... هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در اسفنج‌ها عامل حرکت آب، یاخته‌های یقه‌دار هستند که تاژک دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8476,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8475,
+            "text": "مژک",
+            "question_id": 4247,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8476,
+            "text": "تاژک",
+            "question_id": 4247,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4247,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3700,
+      "student_id": 871,
+      "question_id": 4249,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4249,
+        "text": "..................... در عروس دریایی انشعابات متعددی دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در مرجانیان مثل هیدر آب شیرین، کیسه گوارشی علاوه بر گوارش، وظیفه گردش مواد را نیز بر عهده دارد. در عروس دریایی این سامانه انشعابات متعددی دارد که به گردش مواد در چتر و بازوی جانور کمک می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8479,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8479,
+            "text": "حفره گوارشی",
+            "question_id": 4249,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8480,
+            "text": "لوله گوارش",
+            "question_id": 4249,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4249,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3701,
+      "student_id": 871,
+      "question_id": 4250,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4250,
+        "text": "در .................... انشعابات حفره گوارشی به تمامی بدن نفوذ می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در مرجانیان مثل هیدر آب شیرین کیسه گوارشی پر از مایعات علاوه بر گوارش وظیفه گردش مواد را نیز بر  عهده دارد . در عروس دریایی این سامانه انشعابات متعددی دارد که به گردش مواد در چتر و بازوی جانور کمک می‌کند. در کرم‌های پهن آزادزی مثل پلاناریا، انشعابات آن به تمامی نواحی بدن نفوذ می‌کند به طوری که فاصله انتشار مواد تا یاخته‌ها بسیار کوتاه است. در این جانوران حرکات بدن به جابه‌جایی مواد کمک میکند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8481,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8481,
+            "text": "کرم پهن",
+            "question_id": 4250,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8482,
+            "text": "کرم لوله‌ای",
+            "question_id": 4250,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4250,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3702,
+      "student_id": 871,
+      "question_id": 4251,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4251,
+        "text": "در جانوری مانند ..................... حرکات بدن به جابه‌جایی مواد کمک می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در کرم‌های پهن آزادزی مثل پلاناریا، انشعابات کیسه گوارشی به تمامی نواحی بدن نفوذ می‌کند به طوری که فاصله   انتشار مواد تا یاخته‌ها بسیار کوتاه است.در این جانوران حرکات بدن به جابه‌جایی مواد کمک می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8483,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8483,
+            "text": "پلاناریا",
+            "question_id": 4251,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8484,
+            "text": "کرم لوله‌ای",
+            "question_id": 4251,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4251,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3703,
+      "student_id": 871,
+      "question_id": 4254,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4254,
+        "text": "سامانه گردش خون باز و گردش خون بسته در جانوران ................. دیده می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در جانوران پیچیده‌تر، دستگاه اختصاصی برای گردش مواد شکل می‌گیرد که در آن مایعی برای جا‌به‌جایی مواد وجود دارد. در این جانوران دو نوع سامانه گردش مواد باز و بسته مشاهده می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8490,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8489,
+            "text": "ابتدایی‌تر",
+            "question_id": 4254,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8490,
+            "text": "پیچیده‌تر",
+            "question_id": 4254,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4254,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3704,
+      "student_id": 871,
+      "question_id": 4255,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4255,
+        "text": "در سامانه گردش باز، قلب ................... را به حفره‌های بدن پمپ می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در سامانه باز قلب مایعی را به نام همولنف را به حفره‌های بدن پمپ می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8492,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8491,
+            "text": "خون",
+            "question_id": 4255,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8492,
+            "text": "همولنف",
+            "question_id": 4255,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4255,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3705,
+      "student_id": 871,
+      "question_id": 4256,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4256,
+        "text": "همولنف، نقش‌های خون، لنف و ..................... را بر عهده دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: همولنف نقش‌های خون، لنف و آب میان‌بافتی را بر عهده دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8493,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8493,
+            "text": "آب میان‌بافتی",
+            "question_id": 4256,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8494,
+            "text": "آب میان‌یاخته‌ای",
+            "question_id": 4256,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4256,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3706,
+      "student_id": 871,
+      "question_id": 4258,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4258,
+        "text": "در سامانه .................... همولنف مستقیما به فضای بین یاخته‌ای وارد می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در سامانه گردش باز قلب مایعی را به نام همولنف را به حفره‌های بدن پمپ می‌کند. این جانوران مویرگ ندارند و همولنف مستقیما به فضای بین یاخته‌های بدن وارد می‌شود و در مجاورت آنها جریان می‌یابد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8497,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8497,
+            "text": "گردش باز",
+            "question_id": 4258,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8498,
+            "text": "گردش بسته",
+            "question_id": 4258,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4258,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3707,
+      "student_id": 871,
+      "question_id": 4260,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4260,
+        "text": "ساده‌ترین سامانه گردشی بسته در .................... وجود دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: ساده‎ترین سامانه گردش بسته در کرم‌های حلقوی نظیر کرم خاکی وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8502,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8501,
+            "text": "کرم لوله‌ای",
+            "question_id": 4260,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8502,
+            "text": "کرم حلقوی",
+            "question_id": 4260,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4260,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3708,
+      "student_id": 871,
+      "question_id": 4261,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4261,
+        "text": "در سامانه .................... مویرگ‌ها در کنار یاخته ها و با کمک آب میان‌بافتی، تبادل مواد غذایی و دفعی و گازها را انجام می‌دهند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در سامانه گردش بسته مویرگ‌ها در کنار یاخته‎ها و با کمک آب میان‌بافتی، تبادل مواد غذایی و دفعی و گازها را انجام می‌دهند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8504,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:24:56.000000Z",
+        "options": [
+          {
+            "id": 8503,
+            "text": "گردش باز",
+            "question_id": 4261,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8504,
+            "text": "گردش بسته",
+            "question_id": 4261,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4261,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3709,
+      "student_id": 871,
+      "question_id": 4262,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4262,
+        "text": "تمام مهره‌داران ................... دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تمام مهره‌داران سامانه گردش بسته دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8505,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8505,
+            "text": "سامانه گردش بسته",
+            "question_id": 4262,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8506,
+            "text": "سامانه گردش باز",
+            "question_id": 4262,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4262,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3710,
+      "student_id": 871,
+      "question_id": 4263,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4263,
+        "text": "در .................. خون ضمن یک بار گردش در بدن یک‌بار از قلب عبور می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در گردش ساده مثل ماهی و نوزاد دوزیستان، خون، ضمن یک‌ بار گردش در بدن، یک بار از قلب دو حفره‎ای عبور می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8507,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8507,
+            "text": "گردش ساده",
+            "question_id": 4263,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8508,
+            "text": "گردش مضاعف",
+            "question_id": 4263,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4263,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3711,
+      "student_id": 871,
+      "question_id": 4264,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4264,
+        "text": "مزییت  سیستم .................، انتقال خون اکسیژن دار به تمام مویرگ‌های اندام‌ها است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در گردش ساده مثل ماهی و نوزاد دوزیستان، خون، ضمن یک‌ بار گردش در بدن، یک بار از قلب دو حفره‎ای عبور می‌کند. مزییت این سیستم، انتقال یکباره خون اکسیژن‌دار به تمام مویرگ‌های اندام‌هاست.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8510,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8509,
+            "text": "گردش مضاعف",
+            "question_id": 4264,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8510,
+            "text": "گردش ساده",
+            "question_id": 4264,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4264,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3712,
+      "student_id": 871,
+      "question_id": 4265,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4265,
+        "text": "در .................... خون ضمن یک‌ بار گردش در بدن، دو بار از قلب عبور می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در گردش مضاعف که در سایر مهره‌داران دیده می‌شود، خون ضمن یک بار گردش در بدن، دو بار از قلب عبور می‌کند. سخن ما: اینجا منظورش همه مهره‌داران به جز ماهی و نوزاد دوزیست هست که گردش ساده داشتن.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8512,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8511,
+            "text": "گردش ساده",
+            "question_id": 4265,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8512,
+            "text": "گردش مضاعف",
+            "question_id": 4265,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4265,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3713,
+      "student_id": 871,
+      "question_id": 4266,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4266,
+        "text": "در گردش ................ قلب به صورت دو تلمبه عمل می‌کند",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در گردش مضاعف قلب به صورت دو تلمبه عمل می‌کند: یک تلمبه با فشار کمتر برای تبادلات گازی و تلمبه دیگر با فشار بیشتر برای گردش عمومی، فعالیت می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8514,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8513,
+            "text": "ساده",
+            "question_id": 4266,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8514,
+            "text": "مضاعف",
+            "question_id": 4266,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4266,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3714,
+      "student_id": 871,
+      "question_id": 4267,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4267,
+        "text": "در گردش مضاعف، تلمبه با فشار کمتر برای ................... صورت می‌گیرد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در گردش مضاعف قلب به صورت دو تلمبه عمل می‌کند: یک تلمبه با فشار کمتر برای تبادلات گازی و تلمبه دیگر با فشار بیشتر برای گردش عمومی، فعالیت می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8515,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8515,
+            "text": "تبادلات گازی",
+            "question_id": 4267,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8516,
+            "text": "گردش عمومی",
+            "question_id": 4267,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4267,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3715,
+      "student_id": 871,
+      "question_id": 4268,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4268,
+        "text": "سامانه گردش مضاعف از ................ به بعد شکل گرفته است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: سامانه گردش مضاعف از دوزیستان به بعد شکل گرفته است. سخن ما: ماهی‌ها و نوزاد دوزیستان سامانه گردش ساده داشتن.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8517,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8517,
+            "text": "دوزیستان",
+            "question_id": 4268,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8518,
+            "text": "خزندگان",
+            "question_id": 4268,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4268,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3716,
+      "student_id": 871,
+      "question_id": 4269,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4269,
+        "text": "بطن دوزیستان خون را یکباره به شش‌ها و .................... و سپس به بقیه بدن تلمبه می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دوزیستان قلب سه حفره‌ای با دو دهلیز ئ یک بطن دارند که بطن، خون را یک بار به شش‌ها و پوست و سپس به بقیه بدن تلمبه می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8520,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8519,
+            "text": "قلب",
+            "question_id": 4269,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8520,
+            "text": "پوست",
+            "question_id": 4269,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4269,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3717,
+      "student_id": 871,
+      "question_id": 4270,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل5: تنظیم اسمزی و دفع مواد زائد",
+      "question": {
+        "id": 4270,
+        "text": "جدایی کامل بطن‌ها در پرندگان و پستانداران و برخی خزندگان رخ داده که این حالت ................... را آسان می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: جدایی کامل بطن‌ها در پرندگان و پستانداران و برخی خزندگان رخ داده که این حالت، حفظ فشار در سامانه گردشی مضاعف آسان می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8522,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8521,
+            "text": "حفظ فشار در سامانه گردش ساده",
+            "question_id": 4270,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8522,
+            "text": "حفظ فشار در سامانه گردش مضاعف",
+            "question_id": 4270,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 971,
+            "book_id": 166,
+            "start_page": 76,
+            "end_page": 78,
+            "label": "گفتار3. تنوع دفع و تنظیم اسمزی در جانداران",
+            "type": "اختصاصی",
+            "hardness": 60,
+            "parent_id": 968,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:52:42.000000Z",
+            "pivot": {
+              "question_id": 4270,
+              "sbox_id": 971
+            }
+          }
+        ]
+      }
+    }
+  ]

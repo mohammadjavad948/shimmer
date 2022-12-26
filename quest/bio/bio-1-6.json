@@ -1,0 +1,3619 @@
+[
+    {
+      "id": 3718,
+      "student_id": 871,
+      "question_id": 4287,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4287,
+        "text": "................. بیشترین گونه‌های گیاهی روی زمین را نشان می‌دهند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: نهاندانگان بیشترین گونه‌های گیاهی روی زمین را نشان می‌دهند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8555,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8555,
+            "text": "نهاندانگان",
+            "question_id": 4287,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8556,
+            "text": "بازدانگان",
+            "question_id": 4287,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4287,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3719,
+      "student_id": 871,
+      "question_id": 4288,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4288,
+        "text": "گیاهان منبع غذایی برای مردم‌اند، تامین کننده مواد اولیه صنایعی مانند داروسازی و پوشاک نیز هستند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گیاهان منبع غذایی برای مردم‌اند، تامین کننده مواد اولیه صنایعی مانند داروسازی و پوشاک نیز هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8557,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8557,
+            "text": "صحیح",
+            "question_id": 4288,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8558,
+            "text": "غلط",
+            "question_id": 4288,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4288,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3720,
+      "student_id": 871,
+      "question_id": 4289,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4289,
+        "text": "تفاوت یاخته گیاهی و جانوری در داشتن سبزدیسه و ................. است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تفاوت یاخته گیاهی و جانوری در داشتن سبزدیسه و دیواره است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8560,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8559,
+            "text": "راکیزه",
+            "question_id": 4289,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8560,
+            "text": "دیواره یاخته‌ای",
+            "question_id": 4289,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4289,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3721,
+      "student_id": 871,
+      "question_id": 4290,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4290,
+        "text": "یاخته، اولین بار در بافت ................. مشاهده شد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: یاخته، اولین بار در بافت چوب پنبه مشاهده شد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8561,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8561,
+            "text": "چوب پنبه",
+            "question_id": 4290,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8562,
+            "text": "پارانشیم",
+            "question_id": 4290,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4290,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3722,
+      "student_id": 871,
+      "question_id": 4291,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4291,
+        "text": "چوب پنبه از یاخته‌های ................ تشکیل شده.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: چوب پنبه از یاخته‌های مرده تشکیل شده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8564,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8563,
+            "text": "زنده",
+            "question_id": 4291,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8564,
+            "text": "مرده",
+            "question_id": 4291,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4291,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3723,
+      "student_id": 871,
+      "question_id": 4292,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4292,
+        "text": "یاخته‌های بافت ................ به صورت مجموعه‌ای از حفره‌ها دیده می‌شود که دیواره‌هایی آنها را از هم جدا کرده است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: یاخته‌های بافت چوب پنبه به صورت مجموعه‌ای از حفره‌ها دیده می‌شود که دیواره‌هایی آنها را از هم جدا کرده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8565,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8565,
+            "text": "چوب پنبه",
+            "question_id": 4292,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8566,
+            "text": "اسکلرانشیم",
+            "question_id": 4292,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4292,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3724,
+      "student_id": 871,
+      "question_id": 4293,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4293,
+        "text": "................. تنها بخش باقیمانده از یاخته گیاهی در بافتی مرده هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیواره‌ها تنها بخش باقیمانده از یاخته گیاهی در بافتی مرده هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8568,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8567,
+            "text": "آوندها",
+            "question_id": 4293,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8568,
+            "text": "دیواره‌ها",
+            "question_id": 4293,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4293,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3725,
+      "student_id": 871,
+      "question_id": 4294,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4294,
+        "text": "دیواره یاخته‌ای در بافت‌های زنده گیاهی بخشی به نام ............... را در بر می‌گیرد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیواره یاخته‌ای در بافت‌های زنده گیاهی بخشی به نام پرتوپلاست را در بر می‌گیرد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8569,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8569,
+            "text": "پرتوپلاست",
+            "question_id": 4294,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8570,
+            "text": "پلاسمودسم",
+            "question_id": 4294,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4294,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3726,
+      "student_id": 871,
+      "question_id": 4296,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4296,
+        "text": "حفظ شکل یاخته‌ها، استحکام یاخته‌ها و در نتیجه استحکام پیکر گیاه وظیفه ................ یاخته است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیواره عملکردهای متفاوتی دارد. حفظ شکل یاخته‌ها، استحکام یاخته‌ها و در نتیجه استحکام پیکر گیاه، واپایش تبادل مواد بین یاخته‌ها در گیاه و جلوگیری از ورود عوامل بیماری‌زا؛ از کارهای دیواره یاخته است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8574,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8573,
+            "text": "پرتوپلاست",
+            "question_id": 4296,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8574,
+            "text": "دیواره",
+            "question_id": 4296,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4296,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3727,
+      "student_id": 871,
+      "question_id": 4297,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4297,
+        "text": "دیواره یاخته گیاهی از ورود عوامل بیماری‌زا جلوگیری می‌کند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: دیواره عملکردهای متفاوتی دارد. حفظ شکل یاخته‌ها، استحکام یاخته‌ها و در نتیجه استحکام پیکر گیاه، واپایش تبادل مواد بین یاخته‌ها در گیاه و جلوگیری از ورود عوامل بیماری‌زا؛ از کارهای دیواره یاخته است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8575,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8575,
+            "text": "صحیح",
+            "question_id": 4297,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8576,
+            "text": "غلط",
+            "question_id": 4297,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4297,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3728,
+      "student_id": 871,
+      "question_id": 4298,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4298,
+        "text": "در تقسیم یاخته گیاهی بعد از تقسیم هسته، لایه‌ای به نام ................. تشکیل می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در تقسیم یاخته گیاهی بعد از تقسیم هسته، لایه‌ای به نام تیغه میانی تشکیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8578,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8577,
+            "text": "دیواره",
+            "question_id": 4298,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8578,
+            "text": "تیغه میانی",
+            "question_id": 4298,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4298,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3729,
+      "student_id": 871,
+      "question_id": 4299,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4299,
+        "text": "................ سیتوپلاسم را به دو قسمت تقسیم می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تیغه میانی، سیتوپلاسم را به دو قسمت تقسیم می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8579,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8579,
+            "text": "تیغه میانی",
+            "question_id": 4299,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8580,
+            "text": "دیواره نخستین",
+            "question_id": 4299,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4299,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3730,
+      "student_id": 871,
+      "question_id": 4300,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4300,
+        "text": "تیغه میانی از پلی‌ساکاریدی به نام ................. تشکیل شده.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تیغه میانی از پلی‌ساکاریدی به نام پکتین تشکیل شده.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8581,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8581,
+            "text": "پکتین",
+            "question_id": 4300,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8582,
+            "text": "کاروتنوئید",
+            "question_id": 4300,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4300,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3731,
+      "student_id": 871,
+      "question_id": 4301,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4301,
+        "text": "...................... هر یک از یاخته‌های تازه تشکیل شده، لایه یا لایه‌های دیگری به نام دیواره نخستین می‌سازد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: پرتوپلاست هر یک از یاخته‌های تازه تشکیل شده، لایه یا لایه‌های دیگری به نام دیواره نخستین می‌سازد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8584,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8583,
+            "text": "دیواره",
+            "question_id": 4301,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8584,
+            "text": "پرتوپلاست",
+            "question_id": 4301,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4301,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3732,
+      "student_id": 871,
+      "question_id": 4302,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4302,
+        "text": "در دیواره نخستین رشته‌های .................. وجود دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دیواره نخستین، رشته‌های سلولز وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8585,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8585,
+            "text": "سلولز",
+            "question_id": 4302,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8586,
+            "text": "پروتئینی",
+            "question_id": 4302,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4302,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3733,
+      "student_id": 871,
+      "question_id": 4304,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4304,
+        "text": "دیواره نخستین مانند قالبی .................. را در بر می‌گیرد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیواره نخستین مانند قالبی پرتوپلاست را در بر می‌گیرد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8590,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8589,
+            "text": "سبزدیسه",
+            "question_id": 4304,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8590,
+            "text": "پرتوپلاست",
+            "question_id": 4304,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4304,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3734,
+      "student_id": 871,
+      "question_id": 4305,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4305,
+        "text": "دیواره نخستین مانع رشد پرتوپلاست ...............",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیواره نخستین مانند قالبی پرتوپلاست را در بر می‌گیرد. اما مانع رشد آن نمی‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8592,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8591,
+            "text": "می‌شود",
+            "question_id": 4305,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8592,
+            "text": "نمی‌شود",
+            "question_id": 4305,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4305,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3735,
+      "student_id": 871,
+      "question_id": 4306,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4306,
+        "text": "دیواره نخستین قابلیت کشش و گسترش دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: دیواره نخستین مانند قالبی پرتوپلاست را در بر می‌گیرد. اما مانع رشد آن نمی‌شود. زیرا قابلیت گسترش و کشش دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8593,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8593,
+            "text": "صحیح",
+            "question_id": 4306,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8594,
+            "text": "غلط",
+            "question_id": 4306,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4306,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3736,
+      "student_id": 871,
+      "question_id": 4307,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4307,
+        "text": "در بعضی یاخته‌های گیاهی، به جز دیواره نخستین لایه‌های دیگری نیز ساخته می‌شوند که به مجموع آنها .............. می‌گویند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در بعضی یاخته‌های گیاهی، به جز دیواره نخستین لایه‌های دیگری نیز ساخته می‌شوند که به مجموع آنها دیواره پسین می‌گویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8595,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8595,
+            "text": "دیواره پسین",
+            "question_id": 4307,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8596,
+            "text": "تیغه میانی",
+            "question_id": 4307,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4307,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3737,
+      "student_id": 871,
+      "question_id": 4308,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4308,
+        "text": "استحکام و تراکم دیواره ................... بیشتر است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: استحکام و تراکم دیواره پسین از دیواره نخستین بیشتر است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8597,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8597,
+            "text": "پسین",
+            "question_id": 4308,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8598,
+            "text": "نخستین",
+            "question_id": 4308,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4308,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3738,
+      "student_id": 871,
+      "question_id": 4309,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4309,
+        "text": "رشد دیواره بعد از تشکیل دیواره ................ متوقف می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: رشد دیواره بعد از تشکیل دیواره پسین متوقف می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8600,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8599,
+            "text": "نخستین",
+            "question_id": 4309,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8600,
+            "text": "پسین",
+            "question_id": 4309,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4309,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3739,
+      "student_id": 871,
+      "question_id": 4310,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4310,
+        "text": "دیواره یاخته‌ای، دور تا دور یاخته را می‌پوشاند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: دیواره یاخته‌ای، دور تا دور یاخته را می‌پوشاند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8601,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8601,
+            "text": "صحیح",
+            "question_id": 4310,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8602,
+            "text": "غلط",
+            "question_id": 4310,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4310,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3740,
+      "student_id": 871,
+      "question_id": 4311,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4311,
+        "text": "در یاخته‌های گیاهی کانال‌های میان‌یاخته‌ای از یاخته‌ای به یاخته دیگر کشیده شده‌اند، به این کانال‌ها ............... می‌گویند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در یاخته‌های گیاهی کانال‌های میان‌یاخته‌ای از یاخته‌ای به یاخته دیگر کشیده شده‌اند، به این کانال‌ها پلاسمودسم می‌گویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8603,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8603,
+            "text": "پلاسمودسم",
+            "question_id": 4311,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8604,
+            "text": "پرتوپلاست",
+            "question_id": 4311,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4311,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3741,
+      "student_id": 871,
+      "question_id": 4312,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4312,
+        "text": "در یاخته‌های گیاهی مواد غذایی و ترکیبات دیگر می‌توانند از راه پلاسمودسم‌ها از یاخته‌ای به یاخته دیگر بروند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در یاخته‌های گیاهی مواد غذایی و ترکیبات دیگر می‌توانند از راه پلاسمودسم‌ها از یاخته‌ای به یاخته دیگر بروند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8605,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8605,
+            "text": "صحیح",
+            "question_id": 4312,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8606,
+            "text": "غلط",
+            "question_id": 4312,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4312,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3742,
+      "student_id": 871,
+      "question_id": 4313,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4313,
+        "text": "لان‌ها در مناطقی به نام پلاسمودسم به فراوانی وجود دارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: پلاسمودسم‌ها در مناطقی از دیواره به نام لان، به فراوانی وجود دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8608,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8607,
+            "text": "صحیح",
+            "question_id": 4313,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8608,
+            "text": "غلط",
+            "question_id": 4313,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4313,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3743,
+      "student_id": 871,
+      "question_id": 4314,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4314,
+        "text": ".............. به منطقه‌ای گفته می‌شود که دیواره یاخته‌ای در آنجا نازک مانده است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: لان به منطقه‌ای گفته می‌شود که دیواره یاخته‌ای در آنجا نازک مانده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8610,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8609,
+            "text": "پلاسمودسم",
+            "question_id": 4314,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8610,
+            "text": "لان",
+            "question_id": 4314,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4314,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3744,
+      "student_id": 871,
+      "question_id": 4315,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4315,
+        "text": "ترکیبات شیمیایی دیواره در یاخته‌های متفاوت، متناسب با کاری که انجام می‌دهند، و حتی در طول عمر یک یاخته فرق می‌کند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ترکیبات شیمیایی دیواره در یاخته‌های متفاوت، متناسب با کاری که انجام می‌دهند، و حتی در طول عمر یک یاخته فرق می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8611,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8611,
+            "text": "صحیح",
+            "question_id": 4315,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8612,
+            "text": "غلط",
+            "question_id": 4315,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4315,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3745,
+      "student_id": 871,
+      "question_id": 4316,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4316,
+        "text": "دیواره آوندهای چوبی به علت تشکیل ماده‌ای به نام ................، چوبی شده است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیواره آوندهای چوبی به علت تشکیل ماده‌ای به نام لیگنین، چوبی شده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8613,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8613,
+            "text": "لیگنین",
+            "question_id": 4316,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8614,
+            "text": "پکتین",
+            "question_id": 4316,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4316,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3746,
+      "student_id": 871,
+      "question_id": 4317,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4317,
+        "text": ".................. یاخته‌ها لیگنین می‌‌سازد و آن را به دیواره یاخته‌ای اضاف می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: پرتوپلاست یاخته‌ها لیگنین می‌‌سازد و آن را به دیواره یاخته‌ای اضاف می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8616,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8615,
+            "text": "دیواره نخستین",
+            "question_id": 4317,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8616,
+            "text": "پرتوپلاست",
+            "question_id": 4317,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4317,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3747,
+      "student_id": 871,
+      "question_id": 4318,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4318,
+        "text": "لیگنین سبب استحکام بیشتتر دیواره می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: لیگنین سبب استحکام بیشتر دیواره می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8617,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8617,
+            "text": "صحیح",
+            "question_id": 4318,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8618,
+            "text": "غلط",
+            "question_id": 4318,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4318,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3748,
+      "student_id": 871,
+      "question_id": 4327,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4327,
+        "text": "کوتین و چوب پنبه از ترکیبات .................... هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: کوتین و چوب پنبه از ترکیبات لیپیدی هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8635,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8635,
+            "text": "لیپیدی",
+            "question_id": 4327,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8636,
+            "text": "پروتئینی",
+            "question_id": 4327,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4327,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3749,
+      "student_id": 871,
+      "question_id": 4328,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4328,
+        "text": "یکی از ویژگی‌های یاخته گیاهی داشتن اندامکی به نام واکوئول است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: یکی از ویژگی‌های یاخته گیاهی داشتن اندامکی به نام واکوئول است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8637,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:16:51.000000Z",
+        "options": [
+          {
+            "id": 8637,
+            "text": "صحیح",
+            "question_id": 4328,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8638,
+            "text": "غلط",
+            "question_id": 4328,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4328,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3750,
+      "student_id": 871,
+      "question_id": 4329,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4329,
+        "text": "در اندامک واکوئول مایعی به نام شیره واکوئول وجود دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در اندامک واکوئول مایعی به نام شیره واکوئول وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8639,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:16:41.000000Z",
+        "options": [
+          {
+            "id": 8639,
+            "text": "صحیح",
+            "question_id": 4329,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8640,
+            "text": "غلط",
+            "question_id": 4329,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4329,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3751,
+      "student_id": 871,
+      "question_id": 4330,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4330,
+        "text": "مقدار و ترکیب شیره واکوئول ، از گیاهی به گیاه دیگر و حتی از بافتی به بافت دیگر متفاوت است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: مقدار و ترکیب شیره واکوئول ، از گیاهی به گیاه دیگر و حتی از بافتی به بافت دیگر متفاوت است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8641,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:16:23.000000Z",
+        "options": [
+          {
+            "id": 8641,
+            "text": "صحیح",
+            "question_id": 4330,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8642,
+            "text": "غلط",
+            "question_id": 4330,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4330,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3752,
+      "student_id": 871,
+      "question_id": 4331,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4331,
+        "text": "بعضی یاخته‌های گیاهی واکوئول درشتی دارند که بیشتر حجم یاخته را اشغال می‌کند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: بعضی یاخته‌های گیاهی واکوئول درشتی دارند که بیشتر حجم یاخته را اشغال می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8643,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:15:16.000000Z",
+        "options": [
+          {
+            "id": 8643,
+            "text": "صحیح",
+            "question_id": 4331,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8644,
+            "text": "غلط",
+            "question_id": 4331,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4331,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3753,
+      "student_id": 871,
+      "question_id": 4332,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4332,
+        "text": "........................... سبب می‌شود که پرتوپلاست به دیواره بچسبد و به آن فشار آورد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: وقتی مقدار آب در محیط بیشتر از مقدار آن در یاخته باشد، واکوئول حجیم و پرآب‌اند و سبب می‌شود که پرتوپلاست به دیواره بچسبد و به آن فشار آورد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8645,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:15:47.000000Z",
+        "options": [
+          {
+            "id": 8645,
+            "text": "بیشتر بودن آب محیط نسبت به درون یاخته",
+            "question_id": 4332,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8646,
+            "text": "کم بودن آب در محیط اطراف یاخته",
+            "question_id": 4332,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4332,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3754,
+      "student_id": 871,
+      "question_id": 4333,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4333,
+        "text": "در حالت تورژسانس، دیواره یاخته ای کشیده می‌شود ...............",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: وقتی مقدار آب در محیط بیشتر از مقدار آن در یاخته باشد، کریچه‌ها حجیم و پرآب‌اند و سبب می‌شود که پرتوپلاست به دیواره بچسبد و به آن فشار آورد. دیواره یاخته‌ای در برابر این فشار تا حدی کشیده می‌شود اما پاره نمی‌شود. یاخته در این وضعیت در حال تورژسانس یا تورم است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8648,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8647,
+            "text": "و پاره می‌شود",
+            "question_id": 4333,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8648,
+            "text": "اما پاره نمی‌شود",
+            "question_id": 4333,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4333,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3755,
+      "student_id": 871,
+      "question_id": 4334,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4334,
+        "text": "حالت تورم در بافت‌های گیاهی سبب می‌شود که اندام‌های .............. استوار بمانند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: حالت تورم در بافت‌های گیاهی سبب می‌شود که اندام‌های غیر چوبی مانند برگ و گیاهان علفی استوار بمانند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8650,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8649,
+            "text": "چوبی",
+            "question_id": 4334,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8650,
+            "text": "غیر چوبی",
+            "question_id": 4334,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4334,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3756,
+      "student_id": 871,
+      "question_id": 4335,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4335,
+        "text": "اگر به هر علتی آب محیط یاخته گیاهی کم باشد، حجم واکوئول کاهش می‌یابد و پروتوپلاست جمع می‌شود و از دیواره فاصله می‌گیرد که به این حالت ................ می‌گویند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر به هر علتی آب محیط یاخته گیاهی کم باشد، حجم واکوئول کاهش می‌یابد و پروتوپلاست جمع می‌شود و از دیواره فاصله می‌گیرد که به این حالت پلاسمولیز می‌گویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8651,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:14:59.000000Z",
+        "options": [
+          {
+            "id": 8651,
+            "text": "پلاسمولیز",
+            "question_id": 4335,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8652,
+            "text": "تورژسانس",
+            "question_id": 4335,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4335,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3757,
+      "student_id": 871,
+      "question_id": 4336,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4336,
+        "text": "اگر پلاسمولیز طولانی باشد، پژمردگی ..................",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر پلاسمولیز طولانی باشد، پژمردگی حتی با آبیاری فراوان نیز رفع نمی‌شود و گیاه به دنبال مرگ یاخته‌هایش می‌میرد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8654,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8653,
+            "text": "با آبیاری فراوان رفع می‌شود",
+            "question_id": 4336,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8654,
+            "text": "حتی با آبیاری فراوان رفع نمی‌شود",
+            "question_id": 4336,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4336,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3758,
+      "student_id": 871,
+      "question_id": 4337,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4337,
+        "text": "واکوئول محل ذخیره آب، ترکیبات اسیدی، رنگی و ............... است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: واکوئول محل ذخیره آب، ترکیبات اسیدی، رنگی و پروتئینی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8655,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:14:47.000000Z",
+        "options": [
+          {
+            "id": 8655,
+            "text": "پروتئینی",
+            "question_id": 4337,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8656,
+            "text": "نوکلئیک اسیدی",
+            "question_id": 4337,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4337,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3759,
+      "student_id": 871,
+      "question_id": 4338,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4338,
+        "text": "آنتوسیانین در ..................... به مقدار فراوانی وجود دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: آنتوسیانین در ریشه چغندر قرمز، کلم بنفش و میوه‌هایی مانند پرتقال توسرخ، به فراوانی وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8657,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8657,
+            "text": "ریشه چغندر قرمز",
+            "question_id": 4338,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8658,
+            "text": "گوجه فرنگی",
+            "question_id": 4338,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4338,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3760,
+      "student_id": 871,
+      "question_id": 4339,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4339,
+        "text": "رنگ آنتوسیانین در  PHهای متفاوت تغییر می‌کند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: رنگ آنتوسیانین در  PHهای متفاوت تغییر می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8659,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8659,
+            "text": "صحیح",
+            "question_id": 4339,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8660,
+            "text": "غلط",
+            "question_id": 4339,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4339,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3761,
+      "student_id": 871,
+      "question_id": 4340,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4340,
+        "text": "................ یکی از پروتئین‌هایی است که در کریچه ذخیره می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گلوتن یکی از پروتئین‌هایی است که در کریچه ذخیره می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8662,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8661,
+            "text": "آنتوسیانین",
+            "question_id": 4340,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8662,
+            "text": "گلوتن",
+            "question_id": 4340,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4340,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3762,
+      "student_id": 871,
+      "question_id": 4341,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4341,
+        "text": "گلوتن در بذر گندم و جو ذخیره می‌شود و هنگام رویش بذر برای رشد و نمو رویان به مصرف می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گلوتن در بذر گندم و جو ذخیره می‌شود و هنگام رویش بذر برای رشد و نمو رویان به مصرف می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8663,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8663,
+            "text": "صحیح",
+            "question_id": 4341,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8664,
+            "text": "غلط",
+            "question_id": 4341,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4341,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3763,
+      "student_id": 871,
+      "question_id": 4342,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4342,
+        "text": "گلوتن ارزش غذایی دارد اما بعضی افراد با خوردن فراورده‌های گلوتن‌دار دچار اختلال رشد و مشکلات جدی در سلامت می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گلوتن ارزش غذایی دارد اما بعضی افراد با خوردن فراورده‌های گلوتن‌دار دچار اختلال رشد و مشکلات جدی در سلامت می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8665,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8665,
+            "text": "صحیح",
+            "question_id": 4342,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8666,
+            "text": "غلط",
+            "question_id": 4342,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4342,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3764,
+      "student_id": 871,
+      "question_id": 4343,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4343,
+        "text": "بعضی رنگ‌ها به علت وجود مواد رنگی در واکوئول است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: بعضی رنگ‌ها به علت وجود مواد رنگی در واکوئول است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8667,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:14:40.000000Z",
+        "options": [
+          {
+            "id": 8667,
+            "text": "صحیح",
+            "question_id": 4343,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8668,
+            "text": "غلط",
+            "question_id": 4343,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4343,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3765,
+      "student_id": 871,
+      "question_id": 4344,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4344,
+        "text": "رنگ زرد یا نارنجی ریشه هویج، مربوط به ترکیبات رنگی در ............. است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: رنگ زرد یا نارنجی ریشه هویج، مربوط به ترکیبات رنگی در دیسه است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8670,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8669,
+            "text": "واکوئول",
+            "question_id": 4344,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-08-14T21:13:30.000000Z"
+          },
+          {
+            "id": 8670,
+            "text": "دیسه",
+            "question_id": 4344,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4344,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3766,
+      "student_id": 871,
+      "question_id": 4345,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4345,
+        "text": "سبزدیسه(کلروپلاست)، به مقدار فراوانی سبزینه دارد به همین علت گیاهان سبز دیده می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: سبزدیسه(کلروپلاست)، به مقدار فراوانی سبزینه دارد به همین علت گیاهان سبز دیده می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8671,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8671,
+            "text": "صحیح",
+            "question_id": 4345,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8672,
+            "text": "غلط",
+            "question_id": 4345,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4345,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3767,
+      "student_id": 871,
+      "question_id": 4346,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4346,
+        "text": "دیسه‌هایی که رنگیزه ذخیره می‌کنند ................. نام دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در نوعی دیسه رنگیزه‌هایی با نام کاروتنوئیدها ذخیره می‌شوند، به این دیسه‌ها، رنگ دیسه(کروموپلاست) می‌گویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8673,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8673,
+            "text": "کروموپلاست",
+            "question_id": 4346,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8674,
+            "text": "کلروپلاست",
+            "question_id": 4346,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4346,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3768,
+      "student_id": 871,
+      "question_id": 4347,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4347,
+        "text": "رنگ دیسه‌ها در یاخته‌های ریشه گیاه هویج، مقدار فراوانی .............. دارند که نارنجی است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: رنگ دیسه‌ها در یاخته‌های ریشه گیاه هویج، مقدار فراوانی کاروتن دارند که نارنجی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8676,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:14:19.000000Z",
+        "options": [
+          {
+            "id": 8675,
+            "text": "آنتوسیانین",
+            "question_id": 4347,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8676,
+            "text": "کارتن",
+            "question_id": 4347,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4347,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3769,
+      "student_id": 871,
+      "question_id": 4348,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4348,
+        "text": "ترکیبات رنگی در واکوئول و رنگ دیسه، پاداکسنده( آنتی اکسیدان) اند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ترکیبات رنگی در واکوئول و رنگ دیسه، پاداکسنده( آنتی اکسیدان) اند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8677,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-08-14T21:13:08.000000Z",
+        "options": [
+          {
+            "id": 8677,
+            "text": "صحیح",
+            "question_id": 4348,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8678,
+            "text": "غلط",
+            "question_id": 4348,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4348,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3770,
+      "student_id": 871,
+      "question_id": 4349,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4349,
+        "text": "ترکیبات پاداکسنده در پیشگیری از سرطان و نیز بهبود کارکرد مغز و اندام‌های دیگر نقش مثبتی دارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ترکیبات پاداکسنده در پیشگیری از سرطان و نیز بهبود کارکرد مغز و اندام‌های دیگر نقش مثبتی دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8679,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8679,
+            "text": "صحیح",
+            "question_id": 4349,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8680,
+            "text": "غلط",
+            "question_id": 4349,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4349,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3771,
+      "student_id": 871,
+      "question_id": 4350,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4350,
+        "text": "همه دیسه‌ها رنگیزه دارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: بعضی دیسه‌ها رنگیزه ندارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8682,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8681,
+            "text": "صحیح",
+            "question_id": 4350,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8682,
+            "text": "غلط",
+            "question_id": 4350,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4350,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3772,
+      "student_id": 871,
+      "question_id": 4351,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4351,
+        "text": "در دیسه‌های یاخته‌های بخش خوراکی سیب‌زمینی مقدار فراوانی ............... ذخیره شده است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در یاخته‌های بخش خوراکی سیب‌زمینی مقدار فراوانی نشاسته ذخیره شده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8684,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8683,
+            "text": "رنگیزه",
+            "question_id": 4351,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8684,
+            "text": "نشاسته",
+            "question_id": 4351,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4351,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3773,
+      "student_id": 871,
+      "question_id": 4352,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4352,
+        "text": "در دیسه‌های یاخته‌های بخش خوراکی سیب‌زمینی مقدار فراوانی نشاسته ذخیره شده است. به همین علت به آن ............. می‌گویند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دیسه‌های یاخته‌های بخش خوراکی سیب‌زمینی مقدار فراوانی نشاسته ذخیره شده است. به همین علت به آن آمیلوپلاست می‌گویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8685,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8685,
+            "text": "آمیلوپلاست",
+            "question_id": 4352,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8686,
+            "text": "کروموپلاست",
+            "question_id": 4352,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4352,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3774,
+      "student_id": 871,
+      "question_id": 4353,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4353,
+        "text": "ذخیره نشاسته، هنگام رویش جوانه‌های سیب‌زمینی، برای رشد جوانه‌ها و تشکیل پایه‌های جدید از گیاه سیب زمینی مصرف می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ذخیره نشاسته، هنگام رویش جوانه‌های سیب‌زمینی، برای رشد جوانه‌ها و تشکیل پایه‌های جدید از گیاه سیب زمینی مصرف می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8687,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8687,
+            "text": "صحیح",
+            "question_id": 4353,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8688,
+            "text": "غلط",
+            "question_id": 4353,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4353,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3775,
+      "student_id": 871,
+      "question_id": 4354,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4354,
+        "text": "سبزدیسه‌ها ............... هم دارند که با رنگ سبزینه پوشیده می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: سبزدیسه‌ها کاروتنوئید هم دارند که با رنگ سبزینه پوشیده می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8690,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8689,
+            "text": "لیکوپن",
+            "question_id": 4354,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8690,
+            "text": "کاروتنوئید",
+            "question_id": 4354,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4354,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3776,
+      "student_id": 871,
+      "question_id": 4355,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4355,
+        "text": "با ....................... ساختار سبزدیسه‌ها در بعضی گیاهان تغییر می‌کند و به رنگ‌دیسه تبدیل می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در پاییز با کاهش طول روز و کم شدن نور، ساختار سبزدیسه‌ها در بعضی گیاهان تغییر می‌کند و به رنگ‌دیسه تبدیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8691,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8691,
+            "text": "کاهش طول روز و کم شدن نور",
+            "question_id": 4355,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8692,
+            "text": "کاهش طول شب و زیاد شدن نور",
+            "question_id": 4355,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4355,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3777,
+      "student_id": 871,
+      "question_id": 4356,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4356,
+        "text": "در پاییز با کاهش طول روز و کم شدن نور، سبزینه در برگ تجزیه می‌شود و مقدار کاروتنوئیدها افزایش می‌یابد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در پاییز با کاهش طول روز و کم شدن نور، سبزینه در برگ تجزیه می‌شود و مقدار کاروتنوئیدها افزایش می‌یابد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8693,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8693,
+            "text": "صحیح",
+            "question_id": 4356,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8694,
+            "text": "غلط",
+            "question_id": 4356,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 975,
+            "book_id": 166,
+            "start_page": 90,
+            "end_page": 96,
+            "label": "گفتار3. ساختار گیاهان",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 972,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:45.000000Z",
+            "pivot": {
+              "question_id": 4356,
+              "sbox_id": 975
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3778,
+      "student_id": 871,
+      "question_id": 4271,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:40:32.000000Z",
+      "updated_at": "2022-12-26T06:40:32.000000Z",
+      "chapter": "زیست شناسی(1) فصل6: از یاخته تا گیاه",
+      "question": {
+        "id": 4271,
+        "text": "تک تک یاخته‌های ما در محیط ..................... زندگی می‍کنند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تک تک یاخته‌های ما در محیط مایع زندگی می‍کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 8524,
+        "description": null,
+        "created_at": "2022-07-19T15:10:59.000000Z",
+        "updated_at": "2022-07-19T15:10:59.000000Z",
+        "options": [
+          {
+            "id": 8523,
+            "text": "جامد",
+            "question_id": 4271,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          },
+          {
+            "id": 8524,
+            "text": "مایع",
+            "question_id": 4271,
+            "created_at": "2022-07-19T15:10:59.000000Z",
+            "updated_at": "2022-07-19T15:10:59.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 972,
+            "book_id": 166,
+            "start_page": 79,
+            "end_page": 96,
+            "label": "فصل6: از یاخته تا گیاه",
+            "type": "اختصاصی",
+            "hardness": 73,
+            "parent_id": 0,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:53:59.000000Z",
+            "pivot": {
+              "question_id": 4271,
+              "sbox_id": 972
+            },
+            "book": {
+              "id": 166,
+              "dars": "زیست شناسی(1) ",
+              "maghta": "دوره دوم دبیرستان",
+              "paye": "دهم",
+              "reshte": "علوم تجربی",
+              "dars_type": "اختصاصی",
+              "code": 110216,
+              "published_at": 1399,
+              "number_of_chapters": 7,
+              "En_name": "zist1",
+              "group_name": "زیست شناسی",
+              "En_group_name": "zist",
+              "zarib": "12",
+              "sakhti": "1",
+              "created_at": "2021-07-11T07:13:02.000000Z",
+              "updated_at": "2021-07-11T07:13:02.000000Z"
+            }
+          }
+        ]
+      }
+    }
+  ]

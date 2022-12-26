@@ -1,0 +1,4899 @@
+[
+    {
+      "id": 4272,
+      "student_id": 871,
+      "question_id": 4836,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4836,
+        "text": "هورمون‌های تیروئیدی میزان تجزیه ............. و  انرژی در دسترس را تنظیم می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون‌های تیروئیدی میزان تجزیه گلوکز و انرژی در دسترس را تنظیم می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9654,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9653,
+            "text": "سدیم",
+            "question_id": 4836,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9654,
+            "text": "گلوکز",
+            "question_id": 4836,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4836,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4273,
+      "student_id": 871,
+      "question_id": 4837,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4837,
+        "text": "همه یاخته‌های بدن، یاخته‌های هدف هورمون‌های .............. هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب:همه یاخته‌های بدن، یاخته‌های هدف هورمون‌های تیروئیدی هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9655,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9655,
+            "text": "تیروئیدی",
+            "question_id": 4837,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9656,
+            "text": "کلسی‌تونین",
+            "question_id": 4837,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4837,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4274,
+      "student_id": 871,
+      "question_id": 4838,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4838,
+        "text": "در دوران جنینی و کودکی، T3 برای نمو ................. لازم است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دوران جنینی و کودکی، T3 برای نمو دستگاه عصبی مرکزی لازم است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9657,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9657,
+            "text": "دستگاه عصبی مرکزی",
+            "question_id": 4838,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9658,
+            "text": "دستگاه حرکتی",
+            "question_id": 4838,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4838,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4275,
+      "student_id": 871,
+      "question_id": 4839,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4839,
+        "text": "فقدان .............. به عقب ماندگی ذهنی و جسمی می‌انجامد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دوران جنینی و کودکی، T3 برای نمو دستگاه عصبی مرکزی لازم است. بنابراین فقدان آن به اختلالات نمو دستگاه عصبی مرکزی و عقب ماندگی ذهنی و جسمی می‌انجامد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9660,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9659,
+            "text": "کلسی‌تونین",
+            "question_id": 4839,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9660,
+            "text": "هورمون‌های تیروئیدی",
+            "question_id": 4839,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4839,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4276,
+      "student_id": 871,
+      "question_id": 4840,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4840,
+        "text": "اگر ................ در غذا به اندازه کافی نباشد، آنگاه هورمون تیروئیدی به اندازه کافی ساخته نمی‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر ید در غذا به اندازه کافی نباشد، آنگاه هورمون‌های تیروئیدی به اندازه کافی ساخته نمی‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9662,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9661,
+            "text": "سدیم",
+            "question_id": 4840,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9662,
+            "text": "ید",
+            "question_id": 4840,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4840,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4277,
+      "student_id": 871,
+      "question_id": 4841,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4841,
+        "text": "اگر هورمون تیروئیدی به میزان کافی ساخته نشود در این حالت غده هیپوفیز با ترشح هورمون ................. باعث رشد بیشتر غده می‌شود تا ید بیشتری جذب کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر ید در غذا به اندازه کافی نباشد، آنگاه هورمون‌های تیروئیدی به اندازه کافی ساخته نمی‌شود. در این حالت غده هیپوفیز با ترشح هورمون محرک تیروئید، باعث رشد بیشتر غده تیروئید می‌شود تا ید بیشتری جذب کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9663,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9663,
+            "text": "محرک تیروئید",
+            "question_id": 4841,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9664,
+            "text": "آزادکننده",
+            "question_id": 4841,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4841,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4278,
+      "student_id": 871,
+      "question_id": 4842,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4842,
+        "text": "فعالیت بیشتر غده تیروئید منجر به بزرگ شدن آن می‌شود که به آن ............. می‌گویند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: فعالیت بیشتر غده تیروئید منجر به بزرگ شدن آن می‌شود که به آن گواتر می‌گویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9665,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9665,
+            "text": "گواتر",
+            "question_id": 4842,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9666,
+            "text": "مالتیپل اسکلروزیس",
+            "question_id": 4842,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4842,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4279,
+      "student_id": 871,
+      "question_id": 4843,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4843,
+        "text": "ید در غذاهای دریایی فراوان است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ید در غذاهای دریایی فراوان است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9667,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9667,
+            "text": "صحیح",
+            "question_id": 4843,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9668,
+            "text": "غلط",
+            "question_id": 4843,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4843,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4280,
+      "student_id": 871,
+      "question_id": 4844,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4844,
+        "text": "مقدار ید در فراوده‌های کشاورزی و دامی یک منطقه به مقدار ید .............. بستگی دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: مقدار ید در فراورده‌های کشاورزی و دامی یک منطقه به مقدار ید خاک بستگی دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9670,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9669,
+            "text": "آب",
+            "question_id": 4844,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9670,
+            "text": "خاک",
+            "question_id": 4844,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4844,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4281,
+      "student_id": 871,
+      "question_id": 4845,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4845,
+        "text": "با توجه به میزان ید در خاک کشور ما، برنامه متکی به فراورده‌های غیردریایی نیز می‌تواند فراهم کننده ید مورد نیاز بدن باشد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: با توجه به کمبود ید در خاک کشور ما همچون بسیاری از دیگر کشورها، برنامه غذایی متکی به فراورده‌های غیر دریایی نمی‌تواند فراهم کننده ید مورد نیاز بدن باشد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9672,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9671,
+            "text": "صحیح",
+            "question_id": 4845,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9672,
+            "text": "غلط",
+            "question_id": 4845,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4845,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4282,
+      "student_id": 871,
+      "question_id": 4846,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4846,
+        "text": "زمانی که کلسیم در خوناب زیاد است، هورمون .............. از برداشت کلسیم از استخوان‌ها جلوگیری می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: زمانی که کلسیم در خوناب زیاد است هورمون کلسی‌تونین از برداشت کلسیم از استخوان جلوگیری می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9673,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9673,
+            "text": "کلسی‌تونین",
+            "question_id": 4846,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9674,
+            "text": "اکسیی‌توسین",
+            "question_id": 4846,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4846,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4283,
+      "student_id": 871,
+      "question_id": 4847,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4847,
+        "text": "غده‌های پاراتیروئید به تعداد چهار عدد در پشت ................ قرار دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: غده‌های پاراتیروئیدی به تعداد چهار عدد در پشت غده تیروئید قرار دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9675,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9675,
+            "text": "غده تیروئید",
+            "question_id": 4847,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9676,
+            "text": "غده تیموس",
+            "question_id": 4847,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4847,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4284,
+      "student_id": 871,
+      "question_id": 4848,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4848,
+        "text": "غده‌های پاراتیروئیدی، هورمون ................ ترشح می‌کنند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: غده‌های پاراتیروئیدی، هورمون پاراتیروئیدی ترشح می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9678,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9677,
+            "text": "کلسی‌تونین",
+            "question_id": 4848,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9678,
+            "text": "پاراتیروئیدی",
+            "question_id": 4848,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4848,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4285,
+      "student_id": 871,
+      "question_id": 4849,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4849,
+        "text": "هورمون پاراتیروئیدی در پاسخ به کاهش ............... ترشح می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون‌های پاراتیروئیدی در پاسخ به کاهش کلسیم خوناب ترشح می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9679,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9679,
+            "text": "کلسیم خوناب",
+            "question_id": 4849,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9680,
+            "text": "کلسی‌تونین",
+            "question_id": 4849,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4849,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4286,
+      "student_id": 871,
+      "question_id": 4850,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4850,
+        "text": "هورمون ............... در هم‌ایستایی کلسیم نقش دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون‌های پاراتیروئیدی در هم‌ایستایی کلسیم نقش دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9682,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9681,
+            "text": "هورمون‌های تیروئیدی",
+            "question_id": 4850,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9682,
+            "text": "هورمون‌های پاراتیروئیدی",
+            "question_id": 4850,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4850,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4287,
+      "student_id": 871,
+      "question_id": 4851,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4851,
+        "text": "هورمون پاراتیروئیدی کلسیم را به ماده زمینه‌ای استخوان اضاف می‌کند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: هورمون پاراتیروئیدی، کلسیم را از ماده زمینه‌ای استخوان جدا و آزاد می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9684,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9683,
+            "text": "صحیح",
+            "question_id": 4851,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9684,
+            "text": "غلط",
+            "question_id": 4851,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4851,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4288,
+      "student_id": 871,
+      "question_id": 4852,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4852,
+        "text": "هورمون پاراتیروئیدی بازجذب کلسیم را در ............... افزایش می‌دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون پارارتیروئیدی بازجذب کلسیم در کلیه را افزایش می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9686,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9685,
+            "text": "روده",
+            "question_id": 4852,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9686,
+            "text": "کلیه",
+            "question_id": 4852,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4852,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4289,
+      "student_id": 871,
+      "question_id": 4853,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4853,
+        "text": "هورمون پارارتیروئیدی، ویتامین D را به شکلی تبدیل می‌کند که می‌تواند جذب کلسیم را از ............. افزایش دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون پاراتیروئیدی، ویتامین D را به شکلی تبدیل می‌کنند که می‌تواند جذب کلسیم از روده را افزایش دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9687,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9687,
+            "text": "روده",
+            "question_id": 4853,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9688,
+            "text": "کلیه",
+            "question_id": 4853,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4853,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4290,
+      "student_id": 871,
+      "question_id": 4854,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4854,
+        "text": "کمبود ویتامین D، باعث کاهش جذب کلسیم از .............. می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: کمبود ویتامین D باعث کاهش جذب کلسیم از روده می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9689,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9689,
+            "text": "روده",
+            "question_id": 4854,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9690,
+            "text": "کلیه",
+            "question_id": 4854,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4854,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4291,
+      "student_id": 871,
+      "question_id": 4855,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4855,
+        "text": "غده ................ از دو بخش قشری و مرکزی تشکیل شده است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: غده فوق کلیه از دو بخش قشری و مرکزی تشکیل شده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9692,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9691,
+            "text": "تیروئید",
+            "question_id": 4855,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9692,
+            "text": "فوق کلیه",
+            "question_id": 4855,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4855,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4292,
+      "student_id": 871,
+      "question_id": 4856,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4856,
+        "text": "دو بخش غده فوق کلیه .................. هستند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: غده فوق کلیه از دو بخش قشری و مرکزی تشکیل شده است که از همدیگر مستقل‌اند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9693,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9693,
+            "text": "مستقل از هم",
+            "question_id": 4856,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9694,
+            "text": "مرتبط با هم",
+            "question_id": 4856,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4856,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4293,
+      "student_id": 871,
+      "question_id": 4857,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4857,
+        "text": "بخش قشری غده فوق کلیه ساختار عصبی دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: بخش مرکزی غده فوق کلیه ساختار عصبی دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9696,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9695,
+            "text": "صحیح",
+            "question_id": 4857,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9696,
+            "text": "غلط",
+            "question_id": 4857,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4857,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4294,
+      "student_id": 871,
+      "question_id": 4858,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4858,
+        "text": "اپی‌نفرین و نوراپی‌نفرین از بخش .............. غده فوق کلیه ترشح می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: از بخش مرکزی غده فوق کلیه هورمون‌های اپی‌نفرین و نوراپی‌نفرین ترشح می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9697,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9697,
+            "text": "مرکزی",
+            "question_id": 4858,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9698,
+            "text": "قشری",
+            "question_id": 4858,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4858,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4295,
+      "student_id": 871,
+      "question_id": 4859,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4859,
+        "text": "هورمون‌های اپی‌نفرین و نوراپی‌نفرین بدن را برای پاسخ‌های .............. آماده می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون‌های اپی‌نفرین و نوراپی‌نفرین، بدن را برای پاسخ‌های کوتاه مدت آماده می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9700,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9699,
+            "text": "کوتاه مدت",
+            "question_id": 4859,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9700,
+            "text": "بلند مدت",
+            "question_id": 4859,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4859,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4296,
+      "student_id": 871,
+      "question_id": 4860,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4860,
+        "text": "هورمون‌های اپی‌نفرین و نوراپی‌نفرین، ضربان قلب و فشار خون و گلوکز خوناب را افزایش می‌دهند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: هورمون‌های اپی‌نفرین و نوراپی‌نفرین، ضربان قلب، فشار خون و میزان گلوکز خون را افزایش می‌دهند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9701,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9701,
+            "text": "صحیح",
+            "question_id": 4860,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9702,
+            "text": "غلط",
+            "question_id": 4860,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4860,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4297,
+      "student_id": 871,
+      "question_id": 4861,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4861,
+        "text": "بخش قشری غده فوق کلیه به تنش‌های ............... پاسخ می‌دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بخش قشری به تنش‌های طولانی مدت پاسخ می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9703,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9703,
+            "text": "طولانی مدت",
+            "question_id": 4861,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9704,
+            "text": "کوتاه مدت",
+            "question_id": 4861,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4861,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4298,
+      "student_id": 871,
+      "question_id": 4862,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4862,
+        "text": "بخش قری غده فوق کلیه ................ ترشح می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بخش قشری غده فوق کلیه با ترشح کورتیزول به تنش‌های طولانی مدت پاسخ می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9706,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9705,
+            "text": "اپی‌نفرین",
+            "question_id": 4862,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9706,
+            "text": "کورتیزول",
+            "question_id": 4862,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4862,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4299,
+      "student_id": 871,
+      "question_id": 4863,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4863,
+        "text": "بخش قشری غده فوق کلیه به تنش‌های طولانی مدت پاسخ .............. می‌دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بخش قشری غده فوق کلیه به تنش‌های طولانی مدت پاسخ دیرپا می‌دهد. سخن ما: منظور از دیرپا چیه؟ یعنی اینکه با ایجاد استرس و تنش در فرد، فوراً کورتیزول ترشح نمی‌شه و اگر این تنش و اضطراب در فرد طولانی بشه، کورتیزول ترشح میشه، و کلاً هورمون‌ها دیر اثر می‌کنند و اثری ماندگار دارند مخصوصاً در مقایسه با ناقل‌های عصبی.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9707,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9707,
+            "text": "دیرپا",
+            "question_id": 4863,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9708,
+            "text": "زود هنگام",
+            "question_id": 4863,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4863,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4300,
+      "student_id": 871,
+      "question_id": 4864,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4864,
+        "text": "هورمون کورتیزول باعث افزایش گلوکز خوناب نمی‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: هورمون کورتیزول، گلوکز خوناب را افزایش می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9710,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9709,
+            "text": "صحیح",
+            "question_id": 4864,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9710,
+            "text": "غلط",
+            "question_id": 4864,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4864,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4301,
+      "student_id": 871,
+      "question_id": 4865,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4865,
+        "text": "اگر تنش‌ها به مدت زیادی ادامه یابد، ............... دستگاه ایمنی را تضعیف می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر تنش‌ها به مدت زیادی ادامه یابند، کورتیزول دستگاه ایمنی را تضعیف می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9711,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9711,
+            "text": "کورتیزول",
+            "question_id": 4865,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9712,
+            "text": "نوراپی‌نفرین",
+            "question_id": 4865,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4865,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4302,
+      "student_id": 871,
+      "question_id": 4866,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4866,
+        "text": "هورمون آلدوسترون از ................ ترشح می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون آلدوسترون از بخش قشری غده فوق کلیه ترشح می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9713,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9713,
+            "text": "بخش قشری غده فوق کلیه",
+            "question_id": 4866,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9714,
+            "text": "کلیه",
+            "question_id": 4866,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4866,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4303,
+      "student_id": 871,
+      "question_id": 4867,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4867,
+        "text": "هورمون آلدوسترون باعث ........................ می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: آلدوسترون بازجذب سدیم را از کلیه افزایش می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9715,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9715,
+            "text": "افزایش بازجذب سدیم از کلیه",
+            "question_id": 4867,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9716,
+            "text": "افزایش بازجذب کلسیم در کلیه",
+            "question_id": 4867,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4867,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4304,
+      "student_id": 871,
+      "question_id": 4868,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4868,
+        "text": "به دنبال بازجذب سدیم آب نیز بازجذب می‌شود و فشار خون بالا می‌رود.",
+        "type": "true-false",
+        "answer": "سخن کتابک به دنبال بازجذب سدیم، آب هم بازجذب می‌شود و فشار خون بالا می‌رود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9717,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9717,
+            "text": "صحیح",
+            "question_id": 4868,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9718,
+            "text": "غلط",
+            "question_id": 4868,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4868,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4305,
+      "student_id": 871,
+      "question_id": 4869,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4869,
+        "text": "بخش ............... غده فوق کلیه، هورمون‌های جنسی زنانه و مردانه را در هر دو جنس ترشح می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بخش قشری غده فوق کلیه، هورمون‌های جنسی زنانه و مردانه را در هر دو جنس ترشح می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9720,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9719,
+            "text": "مرکزی",
+            "question_id": 4869,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9720,
+            "text": "قشری",
+            "question_id": 4869,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4869,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4306,
+      "student_id": 871,
+      "question_id": 4870,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4870,
+        "text": "غده لوزالمعده از دو قسمت ........................ تشکیل شده است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: غده لوزالمعده از دو قسمت درون‌ریز و برون‌ریز تشکیل شده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9722,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9721,
+            "text": "مرکزی و قشری",
+            "question_id": 4870,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9722,
+            "text": "درون‌ریز و برون‌ریز",
+            "question_id": 4870,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4870,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4307,
+      "student_id": 871,
+      "question_id": 4871,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4871,
+        "text": "بخش .............. غده لوزالمعده، آنزیم‌های گوارشی ترشح می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بخش برون‌ریز غده لوزالمعده، آنزیم‌های گوارشی ترشح می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9724,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9723,
+            "text": "درون‌ریز",
+            "question_id": 4871,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9724,
+            "text": "برون‌ریز",
+            "question_id": 4871,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4871,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4308,
+      "student_id": 871,
+      "question_id": 4872,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4872,
+        "text": "بیکربنات از بخش ................ لوزالمعده ترشح می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بیکربنات از بخش برون‌ریز لوزالمعده ترشح می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9725,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9725,
+            "text": "برون‌ریز",
+            "question_id": 4872,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9726,
+            "text": "درون‌ریز",
+            "question_id": 4872,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4872,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4309,
+      "student_id": 871,
+      "question_id": 4873,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4873,
+        "text": "بخش برون‌ریز لوزالمعده به صورت مجموعه‌ای از یاخته‌ها در بین بخش برون‌ریز است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: بخش درون‌ریز لوزالمعده به صورت مجموعه‌ای از یاخته‌ها بین بخش برون‌ریز است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9728,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9727,
+            "text": "صحیح",
+            "question_id": 4873,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9728,
+            "text": "غلط",
+            "question_id": 4873,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4873,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4310,
+      "student_id": 871,
+      "question_id": 4874,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4874,
+        "text": "بخش ............... لوزالمعده، جزایر لانگرهانس نام دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بخش درون‌ریز لوزالمعده، جزایر لانگرهانس نام دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9729,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9729,
+            "text": "درون‌ریز",
+            "question_id": 4874,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9730,
+            "text": "برون‌ریز",
+            "question_id": 4874,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4874,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4311,
+      "student_id": 871,
+      "question_id": 4875,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4875,
+        "text": "از بخش ................. لوزالمعده دو هورمون انسولین و گلوکاگون ترشح می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: از بخش درون‌ریز غده لوزالمعده دو هورمون انسولین و گلوکاگون ترشح می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9731,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9731,
+            "text": "درون‌ریز",
+            "question_id": 4875,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9732,
+            "text": "برون‌ریز",
+            "question_id": 4875,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4875,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4312,
+      "student_id": 871,
+      "question_id": 4876,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4876,
+        "text": "گلوکاگون در پاسخ به کاهش ............... خون ترشح می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گلوکاگون در پاسخ به کاهش گلوکز خون ترشح می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9733,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9733,
+            "text": "گلوکز",
+            "question_id": 4876,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9734,
+            "text": "کلسیم",
+            "question_id": 4876,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4876,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4313,
+      "student_id": 871,
+      "question_id": 4877,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4877,
+        "text": "هورمون گلوکاگون باعث تجزیه ......................... می‎شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: گلوکاگون باعث تجزیه گلیکوژن به گلوکز می‌شود. سخن ما: حواستون باشه که گلیکوژن به گلوککز تبدیل میشه نه برعکس.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9736,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9735,
+            "text": "گلوکز به گلیکوژن",
+            "question_id": 4877,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9736,
+            "text": "گلیکوژن به گلوکز",
+            "question_id": 4877,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4877,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4314,
+      "student_id": 871,
+      "question_id": 4878,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4878,
+        "text": "................ در پاسخ به افزایش گلوکز خون ترشح و باعث ورود گلوکز به یاخته‌ها می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: انسولین در پاسخ به افزایش گلوکز خوناب ترشح و باعث ورود گلوکز به یاخته‌ها می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9738,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9737,
+            "text": "گلوکاگون",
+            "question_id": 4878,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9738,
+            "text": "انسولین",
+            "question_id": 4878,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4878,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4315,
+      "student_id": 871,
+      "question_id": 4879,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4879,
+        "text": "انسولین باعث کاهش قند خون می‎شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: انسولین قند خون را کاهش می‌دهد. سخن ما: انسولین باعث ورود گلوکز به یاخته‌ها میشه یعنی گلوکز درون خون رو به درون یاخته‌های بدن می‌فرسته پس موجب کاهش قند خون میشه.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9739,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9739,
+            "text": "صحیح",
+            "question_id": 4879,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9740,
+            "text": "غلط",
+            "question_id": 4879,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4879,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4316,
+      "student_id": 871,
+      "question_id": 4880,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4880,
+        "text": "اگر گلوکز و به دنبال آن آب وارد ادرار شود، چنین وضعیتی به دیابت .............. معروف است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر یاخته‌ها نتوانند گلوکز را از خون بگیرند، غلظت گلوکز خون افزایش می‌یابد، به همین علت گلوکز و به دنبال آن آب وارد ادرار می‌شود، چنین وضعیتی به دیابت شیرین معروف است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9741,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9741,
+            "text": "شیرین",
+            "question_id": 4880,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9742,
+            "text": "بی‌مزه",
+            "question_id": 4880,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4880,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4317,
+      "student_id": 871,
+      "question_id": 4881,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4881,
+        "text": "اگر یاخته‌ها نتوانند گلوکز را از خون بگیرند، غلظت گلوکز در خون افزایش می‌یابد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: اگر یاخته‌ها نتوانند گلوکز را از خون بگیرند، غلظت گلوکز خون افزایش می‌یابد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9743,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9743,
+            "text": "صحیح",
+            "question_id": 4881,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9744,
+            "text": "غلط",
+            "question_id": 4881,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4881,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4318,
+      "student_id": 871,
+      "question_id": 4882,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4882,
+        "text": "در دیابت شیرین یاخته‌ها مجبورند انرژی مورد نیاز خود را از ................ یا حتی پروتئین‌ها به دست آورند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دیابت شیرین یاخته‌ها مجبورند انرژی مورد نیاز خود را از چربی‌ها یا حتی پروتئین‌ها به دست آورند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9745,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9745,
+            "text": "گلیکوژن",
+            "question_id": 4882,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9746,
+            "text": "چربی‌ها",
+            "question_id": 4882,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4882,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4319,
+      "student_id": 871,
+      "question_id": 4883,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4883,
+        "text": "بر اثر تجزیه چربی‌ها، محصولات .............. تولید می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بر اثر تجزیه چربی‌ها محصولات اسیدی تولید می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9748,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9747,
+            "text": "پروتئینی",
+            "question_id": 4883,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9748,
+            "text": "اسیدی",
+            "question_id": 4883,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4883,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4320,
+      "student_id": 871,
+      "question_id": 4884,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4884,
+        "text": "افراد مبتلا به دیابت باید بهداشت را بیش از پیش رعایت کنند و مراقب زخم‌ها و سوختگی‌های هر چند کوچک باشند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: افراد مبتلا به دیابت باید بهداشت را بیش از پیش رعایت کنند و مراقب زخم‌ها و سوختگی‌های هر چند کوچک باشند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9749,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9749,
+            "text": "صحیح",
+            "question_id": 4884,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9750,
+            "text": "غلط",
+            "question_id": 4884,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4884,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4321,
+      "student_id": 871,
+      "question_id": 4885,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4885,
+        "text": "دیابت بر ............... نوع است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیابت بر دو نوع است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9751,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9751,
+            "text": "دو",
+            "question_id": 4885,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9752,
+            "text": "سه",
+            "question_id": 4885,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4885,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4322,
+      "student_id": 871,
+      "question_id": 4886,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4886,
+        "text": "در دیابت نوع یک، انسولین ترشح ..............",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دیابت نوع یک، انسولین ترشح نمی‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9754,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9753,
+            "text": "می‌شود",
+            "question_id": 4886,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9754,
+            "text": "نمی‌شود",
+            "question_id": 4886,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4886,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4323,
+      "student_id": 871,
+      "question_id": 4887,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4887,
+        "text": "دیابت ...................، یک بیماری خود ایمنی است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیابت نوع یک، یک بیماری خود ایمنی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9755,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9755,
+            "text": "نوع یک",
+            "question_id": 4887,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9756,
+            "text": "نوع دو",
+            "question_id": 4887,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4887,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4324,
+      "student_id": 871,
+      "question_id": 4888,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4888,
+        "text": "در دیابت نوع یک، دستگاه ایمنی، یاخته‌های ترشح کننده ............... را در جزایر لانگرهانس از بین می‌برد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دیابت نوع یک، دستگاه ایمنی یاخته‌های ترشح کننده انسولین در جزایر لانگرهانس را از بین می‌برد. سخن ما: در دیابت نوع یک چون دستگاه ایمنی بدن، یاخته‌های خودی( یاخته‌های ترشح کننده انسولین) رو از بین میبره، بیماری خود ایمنی هست.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9757,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9757,
+            "text": "انسولین",
+            "question_id": 4888,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9758,
+            "text": "آنزیم",
+            "question_id": 4888,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4888,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4325,
+      "student_id": 871,
+      "question_id": 4889,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4889,
+        "text": "دیابت ................ با تزریق انسولین تحت کنترل در خواهد آمد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیابت نوع یک با تزریق انسولین تحت کنترل در خواهد آمد. سخن ما: دیابت نوع یک بخاطر کمبود یا نبود انسولین بود، پس با تزریق انسولین میشه این بیماری رو کنترل کرد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9759,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9759,
+            "text": "نوع یک",
+            "question_id": 4889,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9760,
+            "text": "نوع دو",
+            "question_id": 4889,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4889,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4326,
+      "student_id": 871,
+      "question_id": 4890,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4890,
+        "text": "در دیابت نوع دو، انسولین به مقدار کافی وجود دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در دیابت نوع دو انسولین به مقدار کافی وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9761,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9761,
+            "text": "صحیح",
+            "question_id": 4890,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9762,
+            "text": "غلط",
+            "question_id": 4890,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4890,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4327,
+      "student_id": 871,
+      "question_id": 4891,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4891,
+        "text": "در دیابت نوع دو ....................... به انسولین پاسخ نمی‎دهند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در دیابت نوع دو انسولین به مقدار کافی وجود دارد اما گیرنده‌های انسولین به آن پاسخ نمی‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9764,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9763,
+            "text": "مایع بین سلولی",
+            "question_id": 4891,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9764,
+            "text": "گیرنده‌های انسولین",
+            "question_id": 4891,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4891,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4328,
+      "student_id": 871,
+      "question_id": 4892,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4892,
+        "text": "دیابت نوع ............... از سن حدود چهل سالگی در نتیجه چاقی و عدم تحرک در افرادی که زمینه بیماری را دارند ظاهر می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: دیابت نوع دو از سن حدود چهل سالگی در نتیجه چاقی و عدم تحرک در افرادی که زمینه بیماری را دارند ظاهر می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9765,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9765,
+            "text": "دو",
+            "question_id": 4892,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9766,
+            "text": "یک",
+            "question_id": 4892,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4892,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4329,
+      "student_id": 871,
+      "question_id": 4893,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4893,
+        "text": "غده اپی‌فیز در بالای .................. قرار دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اپی‌فیز در بالای برجستگی‌های چهارگانه قرار دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9768,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9767,
+            "text": "اجسام مخطط",
+            "question_id": 4893,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9768,
+            "text": "برجستگی‌های چهارگانه",
+            "question_id": 4893,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4893,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4330,
+      "student_id": 871,
+      "question_id": 4894,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4894,
+        "text": "غده اپی‌فیز هورمون .............. ترشح می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: غده اپی‌فیز هورمون ملاتونین ترشح می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9770,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9769,
+            "text": "ملانین",
+            "question_id": 4894,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9770,
+            "text": "ملاتونین",
+            "question_id": 4894,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4894,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4331,
+      "student_id": 871,
+      "question_id": 4895,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4895,
+        "text": "مقدار هورمون ملاتونین در ............... به حداقل می‎رسد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: مقدار هورمون ملاتونین در شب به حداکثر و در ظهر به حداقل می‎رسد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9771,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9771,
+            "text": "ظهر",
+            "question_id": 4895,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9772,
+            "text": "شب",
+            "question_id": 4895,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4895,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4332,
+      "student_id": 871,
+      "question_id": 4896,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4896,
+        "text": "عملکرد هورمون ............... در انسان به خوبی معلوم نیست.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: عملکرد هورمون تیموسین در انسان به خوبی معلوم نیست.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9773,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9773,
+            "text": "ملاتونین",
+            "question_id": 4896,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9774,
+            "text": "تیموسین",
+            "question_id": 4896,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4896,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4333,
+      "student_id": 871,
+      "question_id": 4897,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4897,
+        "text": "به نظر می‌رسد هورمون ............. در تنظیم ریتم‌های شبانه روزی نقش دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: به نظر می‌رسد هورمون ملاتونین در تنظیم ریتم‌های شبانه روزی ارتباط دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9775,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9775,
+            "text": "ملاتونین",
+            "question_id": 4897,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9776,
+            "text": "تیموسین",
+            "question_id": 4897,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4897,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4334,
+      "student_id": 871,
+      "question_id": 4898,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4898,
+        "text": "هورمون تیموسین در ............... نقش دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون تیموسین در تمایز لنفوسیت‌ها نقش دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9777,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9777,
+            "text": "تمایز لنفوسیت‌ها",
+            "question_id": 4898,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9778,
+            "text": "تنظیم ریتم‌های شبانه روزی",
+            "question_id": 4898,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4898,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4335,
+      "student_id": 871,
+      "question_id": 4899,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4899,
+        "text": "یک یاخته فقط یک هورمون دریافت می‌کند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ممکن است یک یاخته، چند هورمون دریافت کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9780,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9779,
+            "text": "صحیح",
+            "question_id": 4899,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9780,
+            "text": "غلط",
+            "question_id": 4899,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4899,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4336,
+      "student_id": 871,
+      "question_id": 4900,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4900,
+        "text": "ممکن است چند یاخته، یک نوع هورمون را دریافت کنند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ممکن است چند یاخته، یک هورمون را دریافت کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9781,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9781,
+            "text": "صحیح",
+            "question_id": 4900,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9782,
+            "text": "غلط",
+            "question_id": 4900,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4900,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4337,
+      "student_id": 871,
+      "question_id": 4901,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4901,
+        "text": "بر اساس نوع هورمون و نوع یاخته هدف، پیام پیک به عملکرد خاصی تفسیر می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: بر اساس نوع هورمون و نوع یاخته هدف، پیام پیک به عملکرد خاصی تفسیر می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9783,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9783,
+            "text": "صحیح",
+            "question_id": 4901,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9784,
+            "text": "غلط",
+            "question_id": 4901,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4901,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4338,
+      "student_id": 871,
+      "question_id": 4902,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4902,
+        "text": "هورمون پاراتیروئیدی که کلسیم خون را افزایش می‌دهد، در کلیه ................",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون پاراتیروئیدی که کلسیم خون را افزایش می‌دهد، در کلیه بازجذب کلسیم را زیاد می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9786,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9785,
+            "text": "موجب دفع کلسیم می‌شود",
+            "question_id": 4902,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9786,
+            "text": "بازجذب کلسیم را افزایش می‌دهد",
+            "question_id": 4902,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4902,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4339,
+      "student_id": 871,
+      "question_id": 4903,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4903,
+        "text": "هورمون پاراتیروئیدی که کلسیم خون را افزایش می‌دهد، در استخوان .................",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هورمون پاراتیروئیدی که کلسیم خون را افزایش می‌دهد، در استخوان باعث تجزیه استخوان می‌شود و کلسیم را آزاد می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9788,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9787,
+            "text": "کلسیم را ذخیره می‌کند",
+            "question_id": 4903,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9788,
+            "text": "باعث تجزیه استخوان می‌شود و کلسیم را آزاد می‌کند.",
+            "question_id": 4903,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4903,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4340,
+      "student_id": 871,
+      "question_id": 4904,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4904,
+        "text": "هورمون‌ها در مقادیر خیلی کم ترشح می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: هورمون‌ها در مقادیر خیلی کم ترشح می‎شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9789,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9789,
+            "text": "صحیح",
+            "question_id": 4904,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9790,
+            "text": "غلط",
+            "question_id": 4904,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4904,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4341,
+      "student_id": 871,
+      "question_id": 4905,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4905,
+        "text": "هورمون2ها باید مقدار زیادی ترشح شوند تا اثرات خود را بر جای بگذارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: هورمون‌ها در مقادیر خیلی کم ترشح می‎شوند اما با همین مقدار کم اثرات خود را بر جای می‌گذارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9792,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9791,
+            "text": "صحیح",
+            "question_id": 4905,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9792,
+            "text": "غلط",
+            "question_id": 4905,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4905,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4342,
+      "student_id": 871,
+      "question_id": 4906,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4906,
+        "text": "چرخه تنظیم بازخوردی روش رایجی در تنظیم ترشح هورمون‌هاست.",
+        "type": "true-false",
+        "answer": "سخن کتاب: چرخه تنظیم بازخوردی روش رایجی در تنظیم ترشح هورمون‌هاست.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9793,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9793,
+            "text": "صحیح",
+            "question_id": 4906,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9794,
+            "text": "غلط",
+            "question_id": 4906,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4906,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4343,
+      "student_id": 871,
+      "question_id": 4907,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4907,
+        "text": "چرخه تنظیم بازخوردی به دو صورت درون‌ریز و برون‌ریز دیده می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: چرخه تنظیم بازخوردی به دو صورت مثبت و منفی دیده می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9796,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9795,
+            "text": "صحیح",
+            "question_id": 4907,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9796,
+            "text": "غلط",
+            "question_id": 4907,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4907,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4344,
+      "student_id": 871,
+      "question_id": 4908,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4908,
+        "text": "در چرخه تنظیم بازخوردی منفی، افزایش مقدار یک هورمون یا تاثیرات آن باعث افزایش ترشح همان هورمون می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در چرخه تنظیم بازخوردی منفی، افزایش ترشح یک هورمون یا اثرات آن باعث کاهش ترشح همان هورمون می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9798,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9797,
+            "text": "صحیح",
+            "question_id": 4908,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9798,
+            "text": "غلط",
+            "question_id": 4908,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4908,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4345,
+      "student_id": 871,
+      "question_id": 4909,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4909,
+        "text": "بیشتر هورمون‌ها توسط بازخورد ................. تنظیم می‌شوند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بیشتر هورمون‌ها توسط بازخورد منفی تنظیم می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9800,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9799,
+            "text": "مثبت",
+            "question_id": 4909,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9800,
+            "text": "منفی",
+            "question_id": 4909,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4909,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4346,
+      "student_id": 871,
+      "question_id": 4910,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4910,
+        "text": "تنظیم ترشح .................. مثالی از یک بازخورد منفی است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تنظیم انسولین مثالی از یک بازخورد منفی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9801,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9801,
+            "text": "انسولین",
+            "question_id": 4910,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9802,
+            "text": "اکسیی‌توسین",
+            "question_id": 4910,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4910,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4347,
+      "student_id": 871,
+      "question_id": 4911,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4911,
+        "text": "در تنظیم بازخوردی مثبت افزایش مقدار یک هورمون یا تاثیرات آن باعث افزایش ترشح همان هورمون می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در تنظیم بازخوردی مثبت افزایش مقدار یک هورمون یا تاثیرات آن باعث افزایش ترشح همان هورمون می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9803,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9803,
+            "text": "صحیح",
+            "question_id": 4911,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9804,
+            "text": "غلط",
+            "question_id": 4911,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4911,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4348,
+      "student_id": 871,
+      "question_id": 4912,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4912,
+        "text": "عملکرد اکسی‌توسین توسط تظیم بازخوردی مثبت ترشح می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: عملکرد هورمون اکسی‌توسین توسط چرخه بازخوردی مثبت انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9805,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9805,
+            "text": "صحیح",
+            "question_id": 4912,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9806,
+            "text": "غلط",
+            "question_id": 4912,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4912,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4349,
+      "student_id": 871,
+      "question_id": 4913,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4913,
+        "text": "در دنیای جانوران از ارتباط شیمیایی فقط برای ارتباط یاخته‌ها با یکدیگر استفاده می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در دنیای جانوران ارتباط شیمیایی نه فقط برای ارتباط یاخته‌ها با یکدیگر بلکه برای ارتباظ افراد با هم نیز استفاده می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9808,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9807,
+            "text": "صحیح",
+            "question_id": 4913,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9808,
+            "text": "غلط",
+            "question_id": 4913,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4913,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4350,
+      "student_id": 871,
+      "question_id": 4914,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4914,
+        "text": "فرومون‌ها موادی هستند که فقط از انسان ترشح می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: فرومون‌ها موادی هستند که از یک فرد ترشح می‌شوند و در فرد یا افراد دیگر از همان گونه پاسخ رفتاری ایجاد می‌کند. سخن ما: فرومون‌ها در انسان و جانوران دیگر یافت می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9810,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9809,
+            "text": "صحیح",
+            "question_id": 4914,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9810,
+            "text": "غلط",
+            "question_id": 4914,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4914,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4351,
+      "student_id": 871,
+      "question_id": 4915,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4915,
+        "text": "فرومون‌ها موادی هستند که از فرد ترشح و در فرد یا افرادی دیگر از ............... پاسخ رفتاری ایجاد می‌کنند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: فرومون‌ها موادی هستند که از یک فرد ترشح و بر فرد یا افرادی دیگر از همان گونه پاسخ رفتاری ایجاد می‌کند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9811,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9811,
+            "text": "همان گونه",
+            "question_id": 4915,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9812,
+            "text": "گونه دیگر",
+            "question_id": 4915,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4915,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4352,
+      "student_id": 871,
+      "question_id": 4916,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4916,
+        "text": "زنبور از فرومون‌ها برای ........................ استفاده می‌کند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: زنبورها از فرومون‌ها برای هشدار خطر حضور شکارچی استفاده می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9814,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9813,
+            "text": "تعیین قلمرو",
+            "question_id": 4916,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9814,
+            "text": "هشدار خطر حضور شکارچی",
+            "question_id": 4916,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4916,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4353,
+      "student_id": 871,
+      "question_id": 4917,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4917,
+        "text": "مارها از فرومون‌ها برای ............... استفاده می‌کنند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: مارها از فرومون‌ها برای جفت‌یابی استفاده می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9815,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9815,
+            "text": "جفت‌یابی",
+            "question_id": 4917,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9816,
+            "text": "تعیین قلمرو",
+            "question_id": 4917,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4917,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4354,
+      "student_id": 871,
+      "question_id": 4918,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T06:57:42.000000Z",
+      "updated_at": "2022-12-26T06:57:42.000000Z",
+      "chapter": "زیست شناسی(2) فصل4: تنظیم شیمیایی",
+      "question": {
+        "id": 4918,
+        "text": "گربه‌ها از فرومون‌ها برای تتعیین قلمرو خود استفاده می‌کنند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گربه‌ها از فرومون2ها برای تعیین قلمرو خود استفاده می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 9817,
+        "description": null,
+        "created_at": "2022-07-19T15:11:00.000000Z",
+        "updated_at": "2022-07-19T15:11:00.000000Z",
+        "options": [
+          {
+            "id": 9817,
+            "text": "صحیح",
+            "question_id": 4918,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          },
+          {
+            "id": 9818,
+            "text": "غلط",
+            "question_id": 4918,
+            "created_at": "2022-07-19T15:11:00.000000Z",
+            "updated_at": "2022-07-19T15:11:00.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 230,
+            "book_id": 169,
+            "start_page": 56,
+            "end_page": 62,
+            "label": "گفتار2:  غده های درون ریز",
+            "type": "اختصاصی",
+            "hardness": 70,
+            "parent_id": 228,
+            "created_at": "2021-09-26T07:38:07.000000Z",
+            "updated_at": "2022-10-31T15:59:48.000000Z",
+            "pivot": {
+              "question_id": 4918,
+              "sbox_id": 230
+            }
+          }
+        ]
+      }
+    }
+  ]

@@ -1,0 +1,5035 @@
+[
+    {
+      "id": 5206,
+      "student_id": 871,
+      "question_id": 5856,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5856,
+        "text": "یکی از راه‌های تامین ATP در ماهیچه‌ها، برداشت فسفات از مولکول ................ و انتقال آن به ADP است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: یکی از راه‌های تامین ATP در ماهیچه‌ها، برداشت فسفات از مولکول کراتین فسفات و انتقال آن به ADP است. سخن ما: با برداشت فسفات از کراتین فسفات، به کراتین تبدیل میشه.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11691,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11691,
+            "text": "کراتین فسفات",
+            "question_id": 5856,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11692,
+            "text": "کراتین",
+            "question_id": 5856,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5856,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5207,
+      "student_id": 871,
+      "question_id": 5857,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5857,
+        "text": "یکی از راه‌های تامین ATP در ماهیچه‌ها، برداشت فسفات از مولکول کراتین فسفات و انتقال آن به ADP است که به این روش ...................... می‌گویند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: یکی از راه‌های تامین ATP در ماهیچه‌ها، برداشت فسفات از مولکول کراتین فسفات و انتقال آن به ADP است که به این روش ساخته شدن ATP در سطح پیش ماده می‌گویند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11693,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11693,
+            "text": "ساخته شدن ATP در سطح پیش ماده",
+            "question_id": 5857,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11694,
+            "text": "ساخته شدن اکسایشی",
+            "question_id": 5857,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5857,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5208,
+      "student_id": 871,
+      "question_id": 5858,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5858,
+        "text": "در ...................، ATP از یون فسفات و انرژی حاصل از انتقال الکترون‌ها در راکیزه ساخته می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در ساخته شدن اکسایشی، ATP از یون فسفات و انرژی حاصل از انتقال الکترون‌ها در راکیزه ساخته می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11696,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11695,
+            "text": "ساخته شدن نوری",
+            "question_id": 5858,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11696,
+            "text": "ساخته شدن اکسایشی",
+            "question_id": 5858,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5858,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5209,
+      "student_id": 871,
+      "question_id": 5859,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5859,
+        "text": "ساخته شدن ................... ATP در سبزدیسه انجام می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: ساخته شدن نوری ATP در سبزدیسه انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11697,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11697,
+            "text": "نوری",
+            "question_id": 5859,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11698,
+            "text": "اکسایشی",
+            "question_id": 5859,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5859,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5210,
+      "student_id": 871,
+      "question_id": 5860,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5860,
+        "text": "اغلب، واژه تنفس یاخته‌ای را برای ...................... به کار می‌برند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اغلب، واژه تنفس یاخته‌ای را برای تنفس یاخته‌ای هوازی به کار می‌برند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11699,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11699,
+            "text": "تنفس یاخته‌ای هوازی",
+            "question_id": 5860,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11700,
+            "text": "تنفس یاخته‌ای بی‌هوازی",
+            "question_id": 5860,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5860,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5211,
+      "student_id": 871,
+      "question_id": 5861,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5861,
+        "text": "اولین مرحله تنفس یاخته‌ای .................. است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اولین مرحله تنفس یاخته‌ای، قندکافت و به معنی تجزیه گلوکز است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11701,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11701,
+            "text": "قندکافت",
+            "question_id": 5861,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11702,
+            "text": "اکسایش پیرووات",
+            "question_id": 5861,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5861,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5212,
+      "student_id": 871,
+      "question_id": 5862,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5862,
+        "text": "مرحله قندکافت در ...................... انجام می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: مرحله قندکافت در سیتوپلاسم انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11704,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11703,
+            "text": "راکیزه",
+            "question_id": 5862,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11704,
+            "text": "سیتوپلاسم",
+            "question_id": 5862,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5862,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5213,
+      "student_id": 871,
+      "question_id": 5863,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5863,
+        "text": "تجزیه گلوکز در مرحله قندکافت به صورت .................... انجام می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تجزیه گلوکز در قندکافت نه به صورت یک‌باره، بلکه به صورت مرحله‌ای انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11706,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11705,
+            "text": "یکباره",
+            "question_id": 5863,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11706,
+            "text": "مرحله‌ای",
+            "question_id": 5863,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5863,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5214,
+      "student_id": 871,
+      "question_id": 5864,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5864,
+        "text": "برای انجام واکنش‌های مربوط به تجزیه گلوکز انرژی فعال سازی نیاز است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: برای انجام واکنش‌های مربوط به تجزیه گلوکز، انرژی فعال سازی نیاز است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11707,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11707,
+            "text": "صحیح",
+            "question_id": 5864,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11708,
+            "text": "غلط",
+            "question_id": 5864,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5864,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5215,
+      "student_id": 871,
+      "question_id": 5865,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5865,
+        "text": "انرژی فعال سازی برای تجزیه گلوکز از انرژی ..................... به دست می‌آید.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: برای انجام واکنش‌های مربوط به تجزیه گلوکز، انرژی فعال سازی نیاز است. این انرژی از ATP به دست می‌آید.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11710,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11709,
+            "text": "کراتین فسفات",
+            "question_id": 5865,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11710,
+            "text": "مولکول ATP",
+            "question_id": 5865,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5865,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5216,
+      "student_id": 871,
+      "question_id": 5866,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5866,
+        "text": "در قندکافت از گلوکز و ATP، .................. ایجاد می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در قندکافت از گلوکز و ATP، قند فروکتوز با دو فسفات ایجاد می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11711,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11711,
+            "text": "قند فروکتوز با دو فسفات",
+            "question_id": 5866,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11712,
+            "text": "دو قند سه کربنی فسفاته",
+            "question_id": 5866,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5866,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5217,
+      "student_id": 871,
+      "question_id": 5867,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5867,
+        "text": "از تجزیه قند فروکتوز دو فسفاته، ................ به وجود می‌آید.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: از تجزیه قند فروکتوز دو فسفاته، دو قند سه کربنی فسفاته به وجود می‌آید.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11713,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11713,
+            "text": "دو قند سه کربنی فسفاته",
+            "question_id": 5867,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11714,
+            "text": "اسید دو فسفاته",
+            "question_id": 5867,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5867,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5218,
+      "student_id": 871,
+      "question_id": 5868,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5868,
+        "text": "قند سه کربنی فسفاته با گرقتن یک فسفات به .................. تبدیل می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: قند سه کربنی فسفاته با گرفتن یک فسفات به اسیدی سه کربنه تبدیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11716,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11715,
+            "text": "قند فروکتوز دو فسفاته",
+            "question_id": 5868,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11716,
+            "text": "اسیدی سه کربنه",
+            "question_id": 5868,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5868,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5219,
+      "student_id": 871,
+      "question_id": 5869,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5869,
+        "text": "هر اسید سه کربنه در نهایت به ...................... تبدیل می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: هر اسید سه کربنه در نهایت به پیرووات تبدیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11718,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11717,
+            "text": "قند فروکتوز",
+            "question_id": 5869,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11718,
+            "text": "پیرووات",
+            "question_id": 5869,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5869,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5220,
+      "student_id": 871,
+      "question_id": 5870,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5870,
+        "text": "در واکنش‌های قندکافت مولکول‌های NADH و ATP به وجود می‌آید.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در واکنش‌های قندکافت مولکول‌های NADH و ATP به وجود می‌آید.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11719,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11719,
+            "text": "صحیح",
+            "question_id": 5870,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11720,
+            "text": "غلط",
+            "question_id": 5870,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5870,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5221,
+      "student_id": 871,
+      "question_id": 5871,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5871,
+        "text": "NADH حامل الکترون است و ............... نوکلئوید دارد.",
+        "type": "multiple-choice",
+        "answer": " سخن کتاب: NADH حامل الکترون است و دو نوکلئوید دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11721,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11721,
+            "text": "دو",
+            "question_id": 5871,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11722,
+            "text": "یک",
+            "question_id": 5871,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5871,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5222,
+      "student_id": 871,
+      "question_id": 5872,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5872,
+        "text": "NADH از NAD مثبت ، به اضافه الکترون و پروتون تشکیل می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: NADH از NAD مثبت ، به اضافه الکترون و پروتون تشکیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11723,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11723,
+            "text": "صحیح",
+            "question_id": 5872,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11724,
+            "text": "غلط",
+            "question_id": 5872,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5872,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5223,
+      "student_id": 871,
+      "question_id": 5873,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5873,
+        "text": " NADH و NAD مثبت، با گرقتن الکترون به یکدیگر تبدیل می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: NADH و NAD مثبت، با گرقتن الکترون و از دست دادن الکترون به یکدیگر تبدیل می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11726,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11725,
+            "text": "صحیح",
+            "question_id": 5873,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11726,
+            "text": "غلط",
+            "question_id": 5873,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5873,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5224,
+      "student_id": 871,
+      "question_id": 5874,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5874,
+        "text": "NADH با از دست دادن الکترون ............... می‌یابد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: NADH با از دست دادن الکترون اکسایش می‌یابد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11728,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11727,
+            "text": "کاهش",
+            "question_id": 5874,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11728,
+            "text": "اکسایش",
+            "question_id": 5874,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5874,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5225,
+      "student_id": 871,
+      "question_id": 5875,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5875,
+        "text": "راکیزه دو غشا دارد: غشای بیرونی چین خورده و غشای درونی صاف است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: راکیزه دو غشا دارد: غشا بیرونی صاف و غشا درونی آن به داخل چین خورده است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11730,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11729,
+            "text": "صحیح",
+            "question_id": 5875,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11730,
+            "text": "غلط",
+            "question_id": 5875,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5875,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5226,
+      "student_id": 871,
+      "question_id": 5876,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5876,
+        "text": "بخش بیرونی راکیزه ..................... است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: فضای درون راکیزه به بخش داخلی و بخش بیرونی (فضای بین دو غشا) تقسیم میشود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11732,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11731,
+            "text": "فضای بیرون از راکیزه",
+            "question_id": 5876,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11732,
+            "text": "فضای بین دو غشا",
+            "question_id": 5876,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5876,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5227,
+      "student_id": 871,
+      "question_id": 5877,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5877,
+        "text": "راکیزه دنای مستقل از هسته و رناتن مخصوص به خود را دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: راکیزه دنای مستقل از هسته و رناتن مخصوص به خود را دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11733,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11733,
+            "text": "صحیح",
+            "question_id": 5877,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11734,
+            "text": "غلط",
+            "question_id": 5877,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5877,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5228,
+      "student_id": 871,
+      "question_id": 5878,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5878,
+        "text": "در راکیزه پروتئین‌سازی انجام نمی‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: راکیزه دنای مستقل از هسته و رناتن مخصوص به خود را دارد بنابراین در آن پروتئین‌سازی انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11736,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11735,
+            "text": "صحیح",
+            "question_id": 5878,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11736,
+            "text": "غلط",
+            "question_id": 5878,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5878,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5229,
+      "student_id": 871,
+      "question_id": 5879,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5879,
+        "text": "در دنای راکیزه ژن‌های مورد نیاز برای ساخته شدن انواعی از پروتئین‌های مورد نیاز در تنفس یاخته‌ای وجود دارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در دنای راکیزه ژن‌های مورد نیاز برای ساخته شدن انواعی از پروتئین‌های مورد نیاز در تنفس یاخته‌ای وجود دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11737,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11737,
+            "text": "صحیح",
+            "question_id": 5879,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11738,
+            "text": "غلط",
+            "question_id": 5879,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5879,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5230,
+      "student_id": 871,
+      "question_id": 5880,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5880,
+        "text": "راکیزه فقط هنگام تقسیم یاخته، تقسیم می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: راکیزه همراه با یاخته و نیز مستقل از آن تقسیم می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11740,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11739,
+            "text": "صحیح",
+            "question_id": 5880,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11740,
+            "text": "غلط",
+            "question_id": 5880,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5880,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5231,
+      "student_id": 871,
+      "question_id": 5881,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5881,
+        "text": "راکیزه برای انجام نقش خود در تنفس یاخته‌ای به پروتئین‌هایی وابسته است که ژن‌های آنها در هسته قرار دارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: راکیزه برای انجام نقش خود در تنفس یاخته‌ای به پروتئین‌هایی وابسته است که ژن‌های آنها در هسته قرار دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11741,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11741,
+            "text": "صحیح",
+            "question_id": 5881,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11742,
+            "text": "غلط",
+            "question_id": 5881,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5881,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5232,
+      "student_id": 871,
+      "question_id": 5882,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5882,
+        "text": "پروتئین‌هایی که ژن‌های آنها در هسته قرار دارد و راکیزه برای انجام نقش خود در تنفس یاخته‌ای به آنها نیاز دارد به وسیله رناتن‌های ................. ساخته می‌شوند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: راکیزه برای انجام نقش خود در تنفس یاخته‌ای به پروتئین‌هایی وابسته است که ژن‌های آنها در هسته قرار دارند و به وسیله رناتن‌های سیتوپلاسمی ساخته می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11743,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11743,
+            "text": "سیتوپلاسمی",
+            "question_id": 5882,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11744,
+            "text": "هسته‌ای",
+            "question_id": 5882,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19484,
+            "book_id": 803,
+            "start_page": 64,
+            "end_page": 68,
+            "label": "گفتار1: تأمین انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5882,
+              "sbox_id": 19484
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5233,
+      "student_id": 871,
+      "question_id": 5891,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5891,
+        "text": "مولکول گلوکز در تنفس هوازی باید تا حد تشکیل مولکول‌های ................ تجزیه شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: مولکول گلوکز در تنفس هوازی باید تا حد تشکیل مولکول‌های کربن‌دی‌اکسید تجزیه شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11761,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11761,
+            "text": "کربن‌دی‌اکسید",
+            "question_id": 5891,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11762,
+            "text": "کربن‌منو‌اکسید",
+            "question_id": 5891,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5891,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5234,
+      "student_id": 871,
+      "question_id": 5892,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5892,
+        "text": "بخشی از تجزیه گلوکز در قندکافت و اکسایش پیرووات، و بخش دیگر آن در ............... انجام می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: بخشی از تجزیه گلوکز در قندکافت و اکسایش پیرووات، و بخش دیگر آن در چرخه کربس انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11763,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11763,
+            "text": "چرخه کربس",
+            "question_id": 5892,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11764,
+            "text": "چرخه کالوین",
+            "question_id": 5892,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5892,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5235,
+      "student_id": 871,
+      "question_id": 5893,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5893,
+        "text": "در چرخه  کربس، استیل کوآنزیم A با مولکولی ................. ترکیب می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در چرخه کربس، استیل کوآنزیم A با مولکولی چهارکربنی ترکیب می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11766,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11765,
+            "text": "سه کربنی",
+            "question_id": 5893,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11766,
+            "text": "چهار کربنی",
+            "question_id": 5893,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5893,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5236,
+      "student_id": 871,
+      "question_id": 5894,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5894,
+        "text": "در چرخه کربس ضمن ترکیب استیل کوآنزیم A با مولکولی چهار کربنی، کوآنزیمA جدا و مولکولی ................. ایجاد می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در چرخه کربس ضمن ترکیب استیل کوآنزیم A با مولکولی چهار کربنی، کوآنزیمA جدا و مولکولی شش کربنی ایجاد می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11768,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11767,
+            "text": "سه کربنی",
+            "question_id": 5894,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11768,
+            "text": "شش کربنی",
+            "question_id": 5894,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5894,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5237,
+      "student_id": 871,
+      "question_id": 5895,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5895,
+        "text": "در چرخه کربس دو مولکول کربن‌دی‌اکسید آزاد می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در چرخه کربس دو مولکول کربن‌دی‌اکسید آزاد می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11769,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11769,
+            "text": "صحیح",
+            "question_id": 5895,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11770,
+            "text": "غلط",
+            "question_id": 5895,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5895,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5238,
+      "student_id": 871,
+      "question_id": 5896,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5896,
+        "text": "از اکسایش هر مولکول شش کربنی در واکنش‌های چرخه کربس، مولکول‌‌های .............. و FADH2 و ATP  در محل‌های متفاوتی از چرخه تشکیل می‌شوند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: از اکسایش هر مولکول شش کربنی در واکنش‌های چرخه کربس، مولکول‌‌های NADH و FADH2 و ATP  در محل‌های متفاوتی از چرخه تشکیل می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11771,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11771,
+            "text": "NADH",
+            "question_id": 5896,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11772,
+            "text": "NAD+",
+            "question_id": 5896,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5896,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5239,
+      "student_id": 871,
+      "question_id": 5897,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5897,
+        "text": "FADH2 ترکیبی نوکلئوتیددار است که حامل الکترون می‌باشد و از FAD ساخته می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: FADH2 ترکیبی نوکلئوتیددار است که حامل الکترون می‌باشد و از FAD ساخته می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11773,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11773,
+            "text": "صحیح",
+            "question_id": 5897,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11774,
+            "text": "غلط",
+            "question_id": 5897,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5897,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5240,
+      "student_id": 871,
+      "question_id": 5898,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5898,
+        "text": "با انجام قندکافت، اکسایش پیرووات و چرخه کربس، مولکول گلوکز تا تشکیل مولکول‌های کربن‌دی‌اکسید تجزیه می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: با انجام قندکافت، اکسایش پیرووات و چرخه کربس، مولکول گلوکز تا تشکیل مولکول‌های کربن‌دی‌اکسید تجزیه می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11775,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11775,
+            "text": "صحیح",
+            "question_id": 5898,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11776,
+            "text": "غلط",
+            "question_id": 5898,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5898,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5241,
+      "student_id": 871,
+      "question_id": 5899,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5899,
+        "text": "انرژی حاصل از تجزیه گلوکز فقط صرف ساخته شدن مولکول ATP می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: انرژی حاصل از تجزیه گلوکز صرف ساخته شدن ATP و مولکول‌های حامل الکترون ( NADH و FADH2) می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11778,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11777,
+            "text": "صحیح",
+            "question_id": 5899,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11778,
+            "text": "غلط",
+            "question_id": 5899,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5899,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5242,
+      "student_id": 871,
+      "question_id": 5900,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5900,
+        "text": "مولکول‌های NADH و FADH2 برای تولید ATP مصرف می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: مولکول‌های NADH و FADH2 برای تولید ATP مصرف می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11779,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11779,
+            "text": "صحیح",
+            "question_id": 5900,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11780,
+            "text": "غلط",
+            "question_id": 5900,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5900,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5243,
+      "student_id": 871,
+      "question_id": 5901,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5901,
+        "text": "زنجیره انتقال الکرتون از مولکول‌هایی تشکیل شده که در ................ قرار دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: زنجیره انتقال الکترون از مولکول‌هایی تشکیل شده که در غشای درونی راکیزه قرار دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11782,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11781,
+            "text": "غشای بیرونی راکیزه",
+            "question_id": 5901,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11782,
+            "text": "غشای درونی راکیزه",
+            "question_id": 5901,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5901,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5244,
+      "student_id": 871,
+      "question_id": 5902,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5902,
+        "text": "زنجیره انتقال الکرتون از مولکول‌هایی تشکیل شده که می‌توانند الکترون بگیرند یا از دست بدهند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: زنجیره انتقال الکرتون از مولکول‌هایی تشکیل شده که می‌توانند الکترون بگیرند یا از دست بدهند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11783,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11783,
+            "text": "صحیح",
+            "question_id": 5902,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11784,
+            "text": "غلط",
+            "question_id": 5902,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5902,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5245,
+      "student_id": 871,
+      "question_id": 5903,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5903,
+        "text": "در زنجیره انتقال الکترون، الکترون‌ها در نهایت به .............. مولکولی می‌رسند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در زنجیره انتقال الکترون، الکترون‌ها در نهایت به اکسیژن مولکولی می‌رسند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11786,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11785,
+            "text": "کربن‌دی‌اکسید",
+            "question_id": 5903,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11786,
+            "text": "اکسیژن",
+            "question_id": 5903,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5903,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5246,
+      "student_id": 871,
+      "question_id": 5904,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5904,
+        "text": "در زنجیره انتقال الکترون، اکسیژن با گرفتن الکترون به ................ تبدیل می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در زنجیره انتقال الکترون، اکسیژن با گرفتن الکترون به یون اکسید(اتم اکسیژن با دوبار منفی) تبدیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11787,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11787,
+            "text": "یون اکسید",
+            "question_id": 5904,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11788,
+            "text": "اتم اکسیژن",
+            "question_id": 5904,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5904,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5247,
+      "student_id": 871,
+      "question_id": 5905,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5905,
+        "text": "در زنجیره انتقال الکترون، یون‌های اکسید در ترکیب با پروتون‌ها، ................. را تشکیل می‌دهند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در زنجیره انتقال الکترون، یون‌های اکسید در ترکیب با پروتون‌ها، مولکول آب را تشکیل می‌دهند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11790,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11789,
+            "text": "مولکول اکسیژن",
+            "question_id": 5905,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11790,
+            "text": "مولکول آب",
+            "question_id": 5905,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5905,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5248,
+      "student_id": 871,
+      "question_id": 5906,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5906,
+        "text": "پروتون‌ها در ................ از زنجیره انتقال الکترون از بخش داخلی راکیزه به فضای بین دو غشا پمپ می‌شوند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: پروتون‌ها در سه بخش از زنجیره انتقال الکترون از بخش داخلی راکیزه به فضای بین دو غشا پمپ می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11791,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11791,
+            "text": "سه بخش",
+            "question_id": 5906,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11792,
+            "text": "دو بخش",
+            "question_id": 5906,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5906,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5249,
+      "student_id": 871,
+      "question_id": 5907,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5907,
+        "text": "در زنجیره انتقال الکترون، انرژی لازم برای انتقال پروتون‌ها از الکترون‌های پرانرژی NADH و …………… فراهم می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در زنجیره انتقال الکترون، انرژی لازم برای انتقال پروتون‌ها از الکترون‌های پرانرژی NADH و FADH2 فراهم می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11793,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11793,
+            "text": "FADH2",
+            "question_id": 5907,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11794,
+            "text": "FAD",
+            "question_id": 5907,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5907,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5250,
+      "student_id": 871,
+      "question_id": 5908,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5908,
+        "text": "در راکیزه با ورود پروتون‌ها از بخش داخلی راکیزه به فضای بین دو غشا، تراکم آنها در این فضا، نسبت به بخش داخلی افزایش می‌یابد. پروتون‌ها بر اساس شیب غلظت تمایل دارند که ...............",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در راکیزه با ورود پروتون‌ها از بخش داخلی راکیزه به فضای بین دو غشا، تراکم آنها در این فضا، نسبت به بخش داخلی افزایش می‌یابد. پروتون‌ها بر اساس شیب غلظت تمایل دارند که به سمت بخش داخلی برگردند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11796,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11795,
+            "text": "در همین محل بمانند",
+            "question_id": 5908,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11796,
+            "text": "به سمت بخش داخلی برگردند",
+            "question_id": 5908,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5908,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5251,
+      "student_id": 871,
+      "question_id": 5909,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5909,
+        "text": "در راکیزه پروتون‌هایی که به فضای بین دو غشا وارد شده اند از طریق .................... به بخش داخلی راکیزه بازمی‌گردند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در راکیزه با ورود پروتون‌ها از بخش داخلی راکیزه به فضای بین دو غشا، تراکم آنها در این فضا، نسبت به بخش داخلی افزایش می‌یابد. پروتون‌ها بر اساس شیب غلظت تمایل دارند که به سمت بخش داخلی برگردند. اما تنها راه پیشروی پروتون‌ها برای برگشتن به این بخش، مجموعه‌ای پروتئینی به نام آنزیم ATP ساز است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11797,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11797,
+            "text": "مجموعه پروتئینی آنزیم ATP ساز",
+            "question_id": 5909,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11798,
+            "text": "پمپ پروتئینی",
+            "question_id": 5909,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5909,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5252,
+      "student_id": 871,
+      "question_id": 5910,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5910,
+        "text": "در راکیزه پروتون‌هایی که به فضای بین دو غشا وارد شده‌اند از طریق ............. که در مجموعه پروتئینی آنزیم ATP ساز قرار دارد می‌گذرند و به بخش داخلی راکیزه بازمی‌گردند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در راکیزه با ورود پروتون‌ها از بخش داخلی راکیزه به فضای بین دو غشا، تراکم آنها در این فضا، نسبت به بخش داخلی افزایش می‌یابد. پروتون‌ها بر اساس شیب غلظت تمایل دارند که به سمت بخش داخلی برگردند. اما تنها راه پیشروی پروتون‌ها برای برگشتن به این بخش، مجموعه‌ای پروتئینی به نام آنزیم ATP ساز است. پروتون‌ها از کانالی که در این مجموعه قرار دارد می‌گذرند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11799,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11799,
+            "text": "کانال",
+            "question_id": 5910,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11800,
+            "text": "پمپ",
+            "question_id": 5910,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5910,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5253,
+      "student_id": 871,
+      "question_id": 5911,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5911,
+        "text": "در آنزیم ATP ساز، انرژی مورد نیاز برای تشکیل ATP از  ADP و گروه فسفات از .................... تامین می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در راکیزه با ورود پروتون‌ها از بخش داخلی راکیزه به فضای بین دو غشا، تراکم آنها در این فضا، نسبت به بخش داخلی افزایش می‌یابد. پروتون‌ها بر اساس شیب غلظت تمایل دارند که به سمت بخش داخلی برگردند. اما تنها راه پیشروی پروتون‌ها برای برگشتن به این بخش، مجموعه‌ای پروتئینی به نام آنزیم ATP ساز است. پروتون‌ها از کانالی که در این مجموعه قرار دارد می‌گذرند و انرژی مورد نیاز برای تشکیل ATP از ADP و گروه فسفات فراهم می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11802,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11801,
+            "text": "مولکول ATP",
+            "question_id": 5911,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11802,
+            "text": "عبور پروتون‌ها از کانال آنزیم ATP ساز",
+            "question_id": 5911,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19485,
+            "book_id": 803,
+            "start_page": 69,
+            "end_page": 72,
+            "label": "گفتار2: اکسایش بیشتر",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5911,
+              "sbox_id": 19485
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5254,
+      "student_id": 871,
+      "question_id": 5921,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5921,
+        "text": "در تنفس یاخته‌ای، ................ گیرنده نهایی الکترون است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در تنفس یاخته‌ای، اکسیژن گیرنده نهایی الکترون است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11822,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11821,
+            "text": "کربن‌دی‌اکسید",
+            "question_id": 5921,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11822,
+            "text": "اکسیژن",
+            "question_id": 5921,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5921,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5255,
+      "student_id": 871,
+      "question_id": 5922,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5922,
+        "text": "..................... از روش‌های تامین انرژی در شرایط کمبود یا نبود اکسیژن است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تخمیر از روش‌های تامین انرژی در شرایط کمبود یا نبود اکسیژن است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11823,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11823,
+            "text": "تخمیر",
+            "question_id": 5922,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11824,
+            "text": "اکسایش پیرووات",
+            "question_id": 5922,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5922,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5256,
+      "student_id": 871,
+      "question_id": 5923,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5923,
+        "text": "تخمیر در انواعی از جانداران رخ می‌دهد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: تخمیر در انواعی از جانداران رخ می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11825,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11825,
+            "text": "صحیح",
+            "question_id": 5923,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11826,
+            "text": "غلط",
+            "question_id": 5923,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5923,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5257,
+      "student_id": 871,
+      "question_id": 5924,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5924,
+        "text": "در فرایند تخمیر، راکیزه و در نتیجه زنجیره انتقال الکترون نقش دارند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در فرایند تخمیر، راکیزه و در نتیجه زنجیره انتقال الکترون نقش ندارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11828,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11827,
+            "text": "صحیح",
+            "question_id": 5924,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11828,
+            "text": "غلط",
+            "question_id": 5924,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5924,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5258,
+      "student_id": 871,
+      "question_id": 5925,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5925,
+        "text": "تخمیر الکلی و تخمیر لاکتیکی مانند تنفس هوازی با قندکافت آغاز می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: تخمیر الکلی و تخمیر لاکتیکی مانند تنفس هوازی با قندکافت آغاز می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11829,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11829,
+            "text": "صحیح",
+            "question_id": 5925,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11830,
+            "text": "غلط",
+            "question_id": 5925,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5925,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5259,
+      "student_id": 871,
+      "question_id": 5926,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5926,
+        "text": "در تخمیر الکلی و لاکتیکی، پیرووات ایجاد نمی‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: تخمیر الکلی و تخمیر لاکتیکی مانند تنفس هوازی با قندکافت آغاز می‌شوند و پیرووات ایجاد می‌کنند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11832,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11831,
+            "text": "صحیح",
+            "question_id": 5926,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11832,
+            "text": "غلط",
+            "question_id": 5926,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5926,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5260,
+      "student_id": 871,
+      "question_id": 5927,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5927,
+        "text": "برای تداوم قندکافت ....................... ضروری است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در قندکافت تشکیل پیرووات از قند فسفاته همراه با ایجاد NADH از NADمثبت است؛ بنابراین برای تداوم قندکافت NAD مثبت ضروری است و اگر نباشد قندکافت متوقف می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11833,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11833,
+            "text": "NAD+",
+            "question_id": 5927,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11834,
+            "text": "FADH2",
+            "question_id": 5927,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5927,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5261,
+      "student_id": 871,
+      "question_id": 5928,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5928,
+        "text": "در تخمیر، مولکول‌هایی ایجاد می‌شوند که در فرایند تشکیل آنها NADمثبت به وجود می‌آید.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در تخمیر، مولکول‌هایی ایجاد می‌شوند که در فرایند تشکیل آنها NADمثبت به وجود می‌آید.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11835,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11835,
+            "text": "صحیح",
+            "question_id": 5928,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11836,
+            "text": "غلط",
+            "question_id": 5928,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5928,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5262,
+      "student_id": 871,
+      "question_id": 5929,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5929,
+        "text": "ورآمدن خمیر نان به علت انجام تخمیر ................... است.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: ورآمدن خمیر نان به علت انجام تخمیر الکلی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11837,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11837,
+            "text": "الکلی",
+            "question_id": 5929,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11838,
+            "text": "لاکتیکی",
+            "question_id": 5929,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5929,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5263,
+      "student_id": 871,
+      "question_id": 5930,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5930,
+        "text": "در تخمیر .............. پیرووات حاصل از قندکافت کربن‌دی‌اکسید از دست می‌دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در تخمیر الکلی پیرووات حاصل از قندکافت با از دست دادن کربن‌دی‌اکسید به اتانال تبدیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11840,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11839,
+            "text": "لاکتیکی",
+            "question_id": 5930,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11840,
+            "text": "الکلی",
+            "question_id": 5930,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5930,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5264,
+      "student_id": 871,
+      "question_id": 5931,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5931,
+        "text": "در تخمیر الکلی، پیرووات حاصل از قندکافت با از دست دادن کربن‌دی‌اکسید به .................. تبدیل می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: در تخمیر الکلی پیرووات حاصل از قندکافت با از دست دادن کربن‌دی‌اکسید به اتانال تبدیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11842,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11841,
+            "text": "اتانول",
+            "question_id": 5931,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11842,
+            "text": "اتانال",
+            "question_id": 5931,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5931,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5265,
+      "student_id": 871,
+      "question_id": 5932,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5932,
+        "text": "ماهیچه‌های اسکلتی برای تجزیه کامل گلوکز به ................. نیاز دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: ماهیچه‌های اسکلتی برای تجزیه کامل گلوکز به اکسیژن نیاز دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11844,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11843,
+            "text": "لاکتات",
+            "question_id": 5932,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11844,
+            "text": "اکسیژن",
+            "question_id": 5932,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5932,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5266,
+      "student_id": 871,
+      "question_id": 5933,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5933,
+        "text": "ماهیچه‌های اسکلتی برای تجزیه کامل گلوکز به اکسیژن نیاز دارند و اگر اکسیژن کافی نباشد، لاکتات در ماهیچه‌ها تجمع می‌یابد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: ماهیچه‌های اسکلتی برای تجزیه کامل گلوکز به اکسیژن نیاز دارند و اگر اکسیژن کافی نباشد، لاکتات در ماهیچه‌ها تجمع می‌یابد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11845,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11845,
+            "text": "صحیح",
+            "question_id": 5933,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11846,
+            "text": "غلط",
+            "question_id": 5933,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5933,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5267,
+      "student_id": 871,
+      "question_id": 5934,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5934,
+        "text": "فعالیت شدید ماهیچه‌ها به اکسیژن فراوان نیاز دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: فعالیت شدید ماهیچه‌ها به اکسیژن فراوان نیاز دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11847,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11847,
+            "text": "صحیح",
+            "question_id": 5934,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11848,
+            "text": "غلط",
+            "question_id": 5934,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5934,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5268,
+      "student_id": 871,
+      "question_id": 5935,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5935,
+        "text": "اگر اکسیژن کافی وجود نداشته باشد، پیرووات حاصل از قندکافت وارد راکیزه‌ها نمی‌شود، بلکه با گرفتن الکترون‌های .............. به لاکتات تبدیل می‌شود.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: اگر اکسیژن کافی وجود نداشته باشد، پیرووات حاصل از قندکافت وارد راکیزه‌ها نمی‌شود، بلکه با گرفتن الکترون‌های NADH به لاکتات تبدیل می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11849,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11849,
+            "text": "NADH",
+            "question_id": 5935,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11850,
+            "text": "NAD+",
+            "question_id": 5935,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5935,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5269,
+      "student_id": 871,
+      "question_id": 5936,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5936,
+        "text": "انواعی از باکتری‌ها تخمیر لاکتیکی را انجام می‌دهند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: انواعی از باکتری‌ها تخمیر لاکتیکی را انجام می‌دهند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11851,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11851,
+            "text": "صحیح",
+            "question_id": 5936,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11852,
+            "text": "غلط",
+            "question_id": 5936,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5936,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5270,
+      "student_id": 871,
+      "question_id": 5937,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5937,
+        "text": "تخمیر ................. در تولید شیر و فراورده‌های شیری و خوراکی‌هایی مانند خیارشور نقش دارد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: تخمیر لاکتیکی در تولید شیر و فراورده‌های شیری و خوراکی‌هایی مانند خیارشور نقش دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11854,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11853,
+            "text": "الکلی",
+            "question_id": 5937,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11854,
+            "text": "لاکتیکی",
+            "question_id": 5937,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5937,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5271,
+      "student_id": 871,
+      "question_id": 5938,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5938,
+        "text": "تشکیل بافت پارانشیمی هوادار در گیاهان آبزی و شش ریشه در درخت حرا از سازکارهایی برای تامین اکسیژن گیاهانی است که به طور طبیعی در شرایط غرقابی رشد می‌کنند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گیاهانی که به طور طبیعی در شرایط غرقابی رشد می‌کنند، سازکارهایی برای تامین اکسیژن مورد نیاز دارند. تشکیل بافت پارانشیمی هوادار در گیاهان آبزی و شش ریشه در درخت حرا از این سازکارها است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11855,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11855,
+            "text": "صحیح",
+            "question_id": 5938,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11856,
+            "text": "غلط",
+            "question_id": 5938,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5938,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5272,
+      "student_id": 871,
+      "question_id": 5939,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5939,
+        "text": "اگر اکسیژن به هر علتی در محیط نباشد یا کم باشد، تخمیر انجام می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: اگر اکسیژن به هر علتی در محیط نباشد یا کم باشد، تخمیر انجام می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11857,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11857,
+            "text": "صحیح",
+            "question_id": 5939,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11858,
+            "text": "غلط",
+            "question_id": 5939,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5939,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5273,
+      "student_id": 871,
+      "question_id": 5940,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5940,
+        "text": "در گیاهان فقط تخمیر لاکتیکی وجود دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در گیاهان هر دو نوع تخمیر الکلی و لاکتیکی وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11860,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11859,
+            "text": "صحیح",
+            "question_id": 5940,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11860,
+            "text": "غلط",
+            "question_id": 5940,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5940,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5274,
+      "student_id": 871,
+      "question_id": 5941,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5941,
+        "text": "تجمع الکل یا لاکتیک اسید در یاخته گیاهی به مرگ آن می‌انجامد، بنابراین باید از یاخته دور شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: تجمع الکل یا لاکتیک اسید در یاخته گیاهی به مرگ آن می‌انجامد، بنابراین باید از یاخته دور شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11861,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11861,
+            "text": "صحیح",
+            "question_id": 5941,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11862,
+            "text": "غلط",
+            "question_id": 5941,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5941,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5275,
+      "student_id": 871,
+      "question_id": 5942,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5942,
+        "text": "رادیکال‌های آزاد به دلیل داشتن الکترون‌های ................. در ساختار خود، واکنش پذیری بالایی دارند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: رادیکال‌های آزاد به دلیل داشتن الکترون‌های جفت نشده در ساختار خود، واکنش پذیری بالایی دارند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11863,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11863,
+            "text": "جفت نشده",
+            "question_id": 5942,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11864,
+            "text": "جفت شده",
+            "question_id": 5942,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5942,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5276,
+      "student_id": 871,
+      "question_id": 5943,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5943,
+        "text": "رادیکال‌های آزاد می‌توانند در واکنش با مولکول‌های تشکیل دهنده بافت‌های بدن، به آنها آسیب برسانند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: رادیکال‌های آزاد می‌توانند در واکنش با مولکول‌های تشکیل دهنده بافت‌های بدن، به آنها آسیب برسانند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11865,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11865,
+            "text": "صحیح",
+            "question_id": 5943,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11866,
+            "text": "غلط",
+            "question_id": 5943,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5943,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5277,
+      "student_id": 871,
+      "question_id": 5944,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5944,
+        "text": "در فرایند تنفس هوازی امکان تشکیل رادیکال‌ آزاد از اکسیژن وجود ندارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در فرایند تنفس هوازی امکان تشکیل رادیکال‌ آزاد از اکسیژن وجود دارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11868,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11867,
+            "text": "صحیح",
+            "question_id": 5944,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11868,
+            "text": "غلط",
+            "question_id": 5944,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5944,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5278,
+      "student_id": 871,
+      "question_id": 5945,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5945,
+        "text": "اکسیژن با پذیرش الکترون در پایان زنجیره انتقال الکترون به یون اکسید تبدیل می‌شود که این یون‌های اکسید با یون‌های هیدروژن ترکیب می‌شوند و در نتیجه مولکول آب به وجود می‌آید.",
+        "type": "true-false",
+        "answer": "سخن کتاب: اکسیژن با پذیرش الکترون در پایان زنجیره انتقال الکترون به یون اکسید تبدیل می‌شود که این یون‌های اکسید با یون‌های هیدروژن ترکیب می‌شوند و در نتیجه مولکول آب به وجود می‌آید.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11869,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11869,
+            "text": "صحیح",
+            "question_id": 5945,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11870,
+            "text": "غلط",
+            "question_id": 5945,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5945,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5279,
+      "student_id": 871,
+      "question_id": 5946,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5946,
+        "text": "در انتهای زنجیره انتقال الکترون از ترکیب یون اکسید با یون هیدروژن، مولکول آب تشکیل می‌شود. اما گاه پیش می‌‌آید که درصدی از اکسیژن‌ها وارد واکنش تشکیل آب نمی‌شوند، بلکه به صورت رادیکال‌های آزاد در می‌آیند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: در انتهای زنجیره انتقال الکترون از ترکیب یون اکسید با یون هیدروژن، مولکول آب تشکیل می‌شود. اما گاه پیش می‌‌آید که درصدی از اکسیژن‌ها وارد واکنش تشکیل آب نمی‌شوند، بلکه به صورت رادیکال‌های آزاد درمی‌آیند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11871,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11871,
+            "text": "صحیح",
+            "question_id": 5946,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11872,
+            "text": "غلط",
+            "question_id": 5946,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5946,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5280,
+      "student_id": 871,
+      "question_id": 5947,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5947,
+        "text": "رادیکال‌های آزاد از عوامل تشکیل سرطان‌اند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: رادیکال‌های آزاد از عوامل تشکیل سرطان‌اند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11873,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11873,
+            "text": "صحیح",
+            "question_id": 5947,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11874,
+            "text": "غلط",
+            "question_id": 5947,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5947,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5281,
+      "student_id": 871,
+      "question_id": 5948,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5948,
+        "text": "راکیزه‌ها برای مقابله با اثرهای سمی رادیکال‌ها آزاد، به ترکیبات ................ وابسته‌اند.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: راکیزه‌ها برای مقابله با اثرهای سمی رادیکال‌ها آزاد، به ترکیبات پاداکسنده وابسته‌اند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11876,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11875,
+            "text": "دارای الکترون جفت نشده",
+            "question_id": 5948,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11876,
+            "text": "پاداکسنده",
+            "question_id": 5948,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5948,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5282,
+      "student_id": 871,
+      "question_id": 5949,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5949,
+        "text": "میوه و سبزیجات دارای ترکیبات پاداکسنده مانند کاروتنوئیدها هستند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: میوه و سبزیجات دارای ترکیبات پاداکسنده مانند کاروتنوئیدها هستند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11877,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11877,
+            "text": "صحیح",
+            "question_id": 5949,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11878,
+            "text": "غلط",
+            "question_id": 5949,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5949,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5283,
+      "student_id": 871,
+      "question_id": 5950,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5950,
+        "text": "پاداکسنده‌ها در واکنش با رادیکال‌های آزاد مانع از اثر تخریبی آنها بر مولکول‌های زیستی و در نتیجه تخریب بافت‌های بدن می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: پاداکسنده‌ها در واکنش با رادیکال‌های آزاد مانع از اثر تخریبی آنها بر مولکول‌های زیستی و در نتیجه تخریب بافت‌های بدن می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11879,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11879,
+            "text": "صحیح",
+            "question_id": 5950,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11880,
+            "text": "غلط",
+            "question_id": 5950,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5950,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5284,
+      "student_id": 871,
+      "question_id": 5951,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5951,
+        "text": "اگر رادیکال‌های آزاد در راکیزه تجمع یابند آن را تخریب می‌کنند و در نتیجه یاخته تخریب می‌شود.",
+        "type": "true-false",
+        "answer": "سخن کتاب: اگر رادیکال‌های آزاد در راکیزه تجمع یابند آن را تخریب می‌کنند و در نتیجه یاخته تخریب می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11881,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11881,
+            "text": "صحیح",
+            "question_id": 5951,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11882,
+            "text": "غلط",
+            "question_id": 5951,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5951,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5285,
+      "student_id": 871,
+      "question_id": 5952,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5952,
+        "text": "رادیکال‌های آزاد برای جبران کمبود الکترونی خود به مولکول‌های سازنده یاخته و اجزای آن، حمله می‌کنند و باعث تخریب آنها می‌شوند.",
+        "type": "true-false",
+        "answer": "سخن کتاب: رادیکال‌های آزاد برای جبران کمبود الکترونی خود به مولکول‌های سازنده یاخته و اجزای آن، حمله می‌کنند و باعث تخریب آنها می‌شوند.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11883,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11883,
+            "text": "صحیح",
+            "question_id": 5952,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11884,
+            "text": "غلط",
+            "question_id": 5952,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5952,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5286,
+      "student_id": 871,
+      "question_id": 5953,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5953,
+        "text": "مطالعات نشان می‌دهد که .............. سرعت تشکیل رادیکال‌های آزاد از اکسیژن را افزایش می‌دهد.",
+        "type": "multiple-choice",
+        "answer": "سخن کتاب: مطالعات نشان می‌دهد که الکل سرعت تشکیل رادیکال‌های آزاد از اکسیژن را افزایش می‌دهد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11886,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11885,
+            "text": "نقایص ژنی",
+            "question_id": 5953,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11886,
+            "text": "الکل",
+            "question_id": 5953,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5953,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5287,
+      "student_id": 871,
+      "question_id": 5954,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5954,
+        "text": "رادیکال‌های آزاد با حمله به DNA راکیزه، سبب تخریب راکیزه و در نتیجه مرگ یاخته‌های کبدی و بافت مردگی کبد می‌شوند. به همین علت اختلال در کار کبد و از کار افتادن آن از شایع‌ترین عوارض نوشیدن مشروبات الکلی است.",
+        "type": "true-false",
+        "answer": "سخن کتاب: رادیکال‌های آزاد با حمله به DNA راکیزه، سبب تخریب راکیزه و در نتیجه مرگ یاخته‌های کبدی و بافت مردگی کبد می‌شوند. به همین علت اختلال در کار کبد و از کار افتادن آن از شایع‌ترین عوارض نوشیدن مشروبات الکلی است.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11887,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11887,
+            "text": "صحیح",
+            "question_id": 5954,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11888,
+            "text": "غلط",
+            "question_id": 5954,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5954,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5288,
+      "student_id": 871,
+      "question_id": 5955,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5955,
+        "text": "گاهی نقص در ژن‌های مربوط به پروتئین‌های زنجیره انتقال الکترون، به تولید پروتئین‌های معیوب می‌انجامد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: گاهی نقص در ژن‌های مربوط به پروتئین‌های زنجیره انتقال الکترون، به تولید پروتئین‌های معیوب می‌انجامد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11889,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11889,
+            "text": "صحیح",
+            "question_id": 5955,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11890,
+            "text": "غلط",
+            "question_id": 5955,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5955,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5289,
+      "student_id": 871,
+      "question_id": 5956,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5956,
+        "text": "راکیزه‌ای که پروتئین‌های معیوب در زنجیره انتقال الکترون داشته باشد در مبارزه با رادیکال‌های آزاد عملکرد بهتری دارد.",
+        "type": "true-false",
+        "answer": "سخن کتاب: راکیزه‌ای که پروتئین‌های معیوب در زنجیره انتقال الکترون داشته باشد در مبارزه با رادیکال‌های آزاد، عملکرد مناسبی ندارد.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11892,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11891,
+            "text": "صحیح",
+            "question_id": 5956,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11892,
+            "text": "غلط",
+            "question_id": 5956,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19486,
+            "book_id": 803,
+            "start_page": 73,
+            "end_page": 76,
+            "label": "گفتار3: زیستن مستقل از اکسیژن",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 19469,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:16.000000Z",
+            "pivot": {
+              "question_id": 5956,
+              "sbox_id": 19486
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5290,
+      "student_id": 871,
+      "question_id": 5841,
+      "box": "0",
+      "description": null,
+      "star": 0,
+      "created_at": "2022-12-26T08:04:04.000000Z",
+      "updated_at": "2022-12-26T08:04:04.000000Z",
+      "chapter": "زیست شناسی(3) فصل5: از ماده به انرژی",
+      "question": {
+        "id": 5841,
+        "text": "در بدن ما انسان‌ها نسبت به زرافه، انرژی ما به شیوه متفاوتی از غذایی که می‌خوریم به دست می‌آید.",
+        "type": "true-false",
+        "answer": "سخن کتاب: با همه تفاوت‌هایی که بین ما و زرافه وجود دارد، انرژِ مورد نیاز ما به شیوه یکسانی از غذایی که می‌خوریم تامین می‌شود.",
+        "difficulty": "25",
+        "author": "تالیفی",
+        "question_creatable_type": "App\\Models\\Employee",
+        "question_creatable_id": 1,
+        "correctOpt_id": 11662,
+        "description": null,
+        "created_at": "2022-07-19T15:11:02.000000Z",
+        "updated_at": "2022-07-19T15:11:02.000000Z",
+        "options": [
+          {
+            "id": 11661,
+            "text": "صحیح",
+            "question_id": 5841,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          },
+          {
+            "id": 11662,
+            "text": "غلط",
+            "question_id": 5841,
+            "created_at": "2022-07-19T15:11:02.000000Z",
+            "updated_at": "2022-07-19T15:11:02.000000Z"
+          }
+        ],
+        "sboxes": [
+          {
+            "id": 19469,
+            "book_id": 803,
+            "start_page": 63,
+            "end_page": 76,
+            "label": "فصل5: از ماده به انرژی",
+            "type": "اختصاصی",
+            "hardness": 50,
+            "parent_id": 0,
+            "created_at": "2022-06-17T13:09:14.000000Z",
+            "updated_at": "2022-06-17T13:09:14.000000Z",
+            "pivot": {
+              "question_id": 5841,
+              "sbox_id": 19469
+            },
+            "book": {
+              "id": 803,
+              "dars": "زیست شناسی(3) ",
+              "maghta": "دوره دوم دبیرستان",
+              "paye": "دوازدهم",
+              "reshte": "علوم تجربی",
+              "dars_type": "اختصاصی",
+              "code": 112216,
+              "published_at": 1401,
+              "number_of_chapters": 8,
+              "En_name": "zist3",
+              "group_name": "زیست شناسی",
+              "En_group_name": "zist",
+              "zarib": "12",
+              "sakhti": "4",
+              "created_at": "2022-06-17T13:09:14.000000Z",
+              "updated_at": "2022-06-17T13:09:14.000000Z"
+            }
+          }
+        ]
+      }
+    }
+  ]
