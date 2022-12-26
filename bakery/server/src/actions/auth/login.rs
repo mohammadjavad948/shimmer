@@ -1,5 +1,5 @@
 use crate::{helpers::hash_token, middleware::auth::JWTPayload, state::State};
-use axum::{http::StatusCode, Extension, Json};
+use axum::{extract::Json, http::StatusCode, Extension};
 use database::{
     sea_orm::{ActiveModelTrait, ColumnTrait, EntityTrait, QueryFilter},
     session, user,
@@ -7,6 +7,7 @@ use database::{
 use jsonwebtoken::{encode, EncodingKey, Header};
 use pwhash::bcrypt;
 use serde::{Deserialize, Serialize};
+use std::sync::Arc;
 
 #[derive(Deserialize)]
 pub struct Payload {
@@ -20,10 +21,11 @@ pub struct Response {
     pub token: String,
 }
 
+#[axum_macros::debug_handler]
 pub async fn login(
+    Extension(state): Extension<Arc<State>>,
     Json(payload): Json<Payload>,
-    Extension(state): Extension<State>,
-) -> Result<Response, StatusCode> {
+) -> Result<Json<Response>, StatusCode> {
     // get secret
     let secret = std::env::var("SECRET").map_err(|_| StatusCode::UNAUTHORIZED)?;
     //get user
@@ -64,7 +66,7 @@ pub async fn login(
             .await
             .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
 
-        return Ok(Response { user, token });
+        return Ok(Json(Response { user, token }));
     }
 
     Err(StatusCode::NOT_FOUND)
