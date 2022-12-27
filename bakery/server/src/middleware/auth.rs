@@ -41,7 +41,7 @@ pub async fn get_user_session(
         .map_err(|_| StatusCode::UNAUTHORIZED)
 }
 
-#[derive(Clone)]
+#[derive(Clone, Serialize)]
 pub struct UserInfo {
     pub user_id: i32,
     pub session_id: i32,
@@ -63,6 +63,22 @@ pub async fn auth_middleware<B>(
         .and_then(|header| header.to_str().ok())
         .ok_or(StatusCode::UNAUTHORIZED)?;
 
+    let state: &Arc<State> = req
+        .extensions()
+        .get()
+        .ok_or(StatusCode::INTERNAL_SERVER_ERROR)?;
+
+    let user = check_auth_header(auth_header, state.clone()).await?;
+
+    req.extensions_mut().insert(user);
+
+    Ok(next.run(req).await)
+}
+
+pub async fn check_auth_header(
+    auth_header: &str,
+    state: Arc<State>,
+) -> Result<UserInfo, StatusCode> {
     let secret = std::env::var("SECRET").map_err(|_| StatusCode::UNAUTHORIZED)?;
 
     let mut validation = Validation::new(Algorithm::HS256);
@@ -80,21 +96,12 @@ pub async fn auth_middleware<B>(
 
     let hash = hash_token(auth_header.to_string());
 
-    let state: &Arc<State> = req
-        .extensions()
-        .get()
-        .ok_or(StatusCode::INTERNAL_SERVER_ERROR)?;
-
     let session = get_user_session(&state.db, token_message.claims.id, hash)
         .await?
         .ok_or(StatusCode::UNAUTHORIZED)?;
 
-    let user = UserInfo {
+    Ok(UserInfo {
         user_id: session.user_id,
         session_id: session.id,
-    };
-
-    req.extensions_mut().insert(user);
-
-    Ok(next.run(req).await)
+    })
 }

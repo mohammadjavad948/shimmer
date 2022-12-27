@@ -2009,6 +2009,7 @@ dependencies = [
  "axum",
  "axum-macros",
  "database",
+ "futures",
  "jsonwebtoken",
  "migrator",
  "pwhash",

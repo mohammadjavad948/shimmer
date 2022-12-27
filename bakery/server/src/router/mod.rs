@@ -2,10 +2,13 @@ use axum::routing::{get, post};
 use axum::{middleware, Router};
 
 use crate::actions::auth::{info, login, signup};
+use crate::actions::gateway::websocket_handler;
 use crate::middleware::auth::auth_middleware;
 
 pub fn routes() -> Router {
-    Router::new().nest("/auth", auth())
+    Router::new()
+        .nest("/auth", auth())
+        .route("/gateway", get(websocket_handler))
 }
 
 fn auth() -> Router {
