@@ -47,4 +47,31 @@ async fn websocket(stream: WebSocket, state: Arc<State>) {
             }
         }
     }
+
+    state
+        .rooms
+        .init_user(user.session_id.to_string(), None)
+        .await;
+
+    let mut room_reciever = state
+        .rooms
+        .room_reciever("global".into(), user.session_id.to_string())
+        .await
+        .unwrap();
+
+    tokio::spawn(async move {
+        while let Ok(data) = room_reciever.recv().await {
+            sender.send(Message::Text(data)).await.unwrap();
+        }
+    });
+
+    tokio::spawn(async move {
+        while let Some(Ok(Message::Text(data))) = receiver.next().await {
+            state
+                .rooms
+                .send_message_to_room("global".into(), data)
+                .await
+                .unwrap();
+        }
+    });
 }
