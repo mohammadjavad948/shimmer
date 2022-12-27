@@ -294,6 +294,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "axum-ws-rooms"
+version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0e3cc91710b90bde05957f9afcfbdb0a6e1e14d68daa24a100fb5244beecd976"
+dependencies = [
+ "futures",
+ "serde",
+ "serde_json",
+ "tokio",
+ "uuid",
+]
+
+[[package]]
 name = "bae"
 version = "0.1.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2008,6 +2021,7 @@ version = "0.1.0"
 dependencies = [
  "axum",
  "axum-macros",
+ "axum-ws-rooms",
  "database",
  "futures",
  "jsonwebtoken",

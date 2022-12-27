@@ -21,7 +21,10 @@ async fn main() {
     let db_url = std::env::var("DATABASE_URL").unwrap();
     let db: DatabaseConnection = Database::connect(db_url).await.unwrap();
 
-    let state = Arc::new(State { db });
+    let rooms = axum_ws_rooms::RoomsManager::new();
+    rooms.new_room("global".into(), None).await;
+
+    let state = Arc::new(State { db, rooms });
 
     // build our application with a single route
     let app = Router::new()
