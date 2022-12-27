@@ -10,8 +10,8 @@ pub fn routes() -> Router {
 
 fn auth() -> Router {
     Router::new()
-        .route("info", get(info))
+        .route("/info", get(info))
         .layer(middleware::from_fn(auth_middleware))
-        .route("login", post(login))
-        .route("signup", post(signup))
+        .route("/login", post(login))
+        .route("/signup", post(signup))
 }
