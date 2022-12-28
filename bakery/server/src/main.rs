@@ -14,7 +14,7 @@ mod state;
 #[tokio::main]
 async fn main() {
     tracing_subscriber::fmt()
-        .with_max_level(Level::TRACE)
+        .with_max_level(Level::DEBUG)
         .compact()
         .init();
 
@@ -23,6 +23,7 @@ async fn main() {
 
     let rooms = axum_ws_rooms::RoomsManager::new();
     rooms.new_room("global".into(), None).await;
+    rooms.new_room("room".into(), None).await;
 
     let state = Arc::new(State { db, rooms });
 

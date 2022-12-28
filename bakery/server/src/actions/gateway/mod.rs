@@ -53,25 +53,48 @@ async fn websocket(stream: WebSocket, state: Arc<State>) {
         .init_user(user.session_id.to_string(), None)
         .await;
 
-    let mut room_reciever = state
+    state
         .rooms
-        .room_reciever("global".into(), user.session_id.to_string())
+        .join_room("global".into(), user.session_id.to_string())
+        .await
+        .unwrap();
+
+    let mut user_receiver = state
+        .rooms
+        .get_user_receiver(user.session_id.to_string())
         .await
         .unwrap();
 
     let mut send_task = tokio::spawn(async move {
-        while let Ok(data) = room_reciever.recv().await {
+        while let Ok(data) = user_receiver.recv().await {
             sender.send(Message::Text(data)).await.unwrap();
         }
     });
 
+    let rec_state = state.clone();
     let mut recv_task = tokio::spawn(async move {
         while let Some(Ok(Message::Text(data))) = receiver.next().await {
-            state
-                .rooms
-                .send_message_to_room("global".into(), data)
-                .await
-                .unwrap();
+            if data.starts_with("join") {
+                rec_state
+                    .rooms
+                    .join_room("room".into(), user.session_id.to_string())
+                    .await
+                    .unwrap();
+            }
+
+            if data.starts_with("send") {
+                rec_state
+                    .rooms
+                    .send_message_to_room("room".into(), data)
+                    .await
+                    .unwrap();
+            } else {
+                rec_state
+                    .rooms
+                    .send_message_to_room("global".into(), data)
+                    .await
+                    .unwrap();
+            }
         }
     });
 
@@ -80,6 +103,8 @@ async fn websocket(stream: WebSocket, state: Arc<State>) {
         _ = (&mut send_task) => recv_task.abort(),
         _ = (&mut recv_task) => send_task.abort(),
     };
+
+    state.rooms.end_user(user.session_id.to_string()).await;
 
     println!("everything done!");
 }

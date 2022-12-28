@@ -295,11 +295,10 @@ dependencies = [
 
 [[package]]
 name = "axum-ws-rooms"
-version = "0.3.0"
+version = "0.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0e3cc91710b90bde05957f9afcfbdb0a6e1e14d68daa24a100fb5244beecd976"
+checksum = "33ee76a115bd8de1e35411e4185142ab189a8ca93ed7d9ca8c8104ac4744d0a3"
 dependencies = [
- "futures",
  "serde",
  "serde_json",
  "tokio",
