@@ -59,13 +59,13 @@ async fn websocket(stream: WebSocket, state: Arc<State>) {
         .await
         .unwrap();
 
-    tokio::spawn(async move {
+    let mut send_task = tokio::spawn(async move {
         while let Ok(data) = room_reciever.recv().await {
             sender.send(Message::Text(data)).await.unwrap();
         }
     });
 
-    tokio::spawn(async move {
+    let mut recv_task = tokio::spawn(async move {
         while let Some(Ok(Message::Text(data))) = receiver.next().await {
             state
                 .rooms
@@ -74,4 +74,12 @@ async fn websocket(stream: WebSocket, state: Arc<State>) {
                 .unwrap();
         }
     });
+
+    // If any one of the tasks exit, abort the other.
+    tokio::select! {
+        _ = (&mut send_task) => recv_task.abort(),
+        _ = (&mut recv_task) => send_task.abort(),
+    };
+
+    println!("everything done!");
 }
