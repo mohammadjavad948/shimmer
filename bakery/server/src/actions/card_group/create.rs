@@ -10,9 +10,9 @@ pub struct Payload {
 }
 
 pub async fn create(
-    Json(payload): Json<Payload>,
     Extension(state): Extension<Arc<State>>,
     Extension(user_info): Extension<UserInfo>,
+    Json(payload): Json<Payload>,
 ) -> Result<Json<card_group::Model>, StatusCode> {
     let data = card_group::ActiveModel {
         name: database::sea_orm::ActiveValue::Set(payload.name),
