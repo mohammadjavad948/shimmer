@@ -27,6 +27,11 @@ fn card_group() -> Router {
             "/",
             get(card_group::all::all).post(card_group::create::create),
         )
-        .route("/:id", get(card_group::one::one))
+        .route(
+            "/:id",
+            get(card_group::one::one)
+                .patch(card_group::edit::edit)
+                .delete(card_group::delete::delete),
+        )
         .layer(middleware::from_fn(auth_middleware))
 }
