@@ -26,7 +26,7 @@ export function LandingPage() {
               </a>
             </div>
             <div className="flex min-w-0 flex-1 justify-end">
-              <DefaultButton>
+              <DefaultButton size="lg">
                 login
               </DefaultButton>
             </div>
