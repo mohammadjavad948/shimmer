@@ -1,7 +1,7 @@
 export function Auth() {
   return (
     <div className="isolate bg-white flex h-[100vh] w-100 justify-center items-center overflow-hidden">
-      <div className="p-8 mx-5 rounded-lg border-2 border-grey-800 bg-white max-w-[100%] w-[300px] text-center">
+      <div className="p-8 mx-5 rounded-lg border-gray-500 border-2 bg-white max-w-[100%] w-[300px] text-center">
         <h3 className="font-bold text-2xl">
           Welcome
         </h3>
@@ -9,13 +9,13 @@ export function Auth() {
         <input
           type="text"
           placeholder="username"
-          className="mt-5 rounded-lg w-[100%] border-grey-400 border-1"
+          className="mt-5 rounded-lg w-[100%] border-gray-400 border-1"
         />
 
         <input
           type="password"
           placeholder="password"
-          className="mt-2 rounded-lg w-[100%] border-grey-400 border-1"
+          className="mt-2 rounded-lg w-[100%] border-gray-400 border-1"
         />
 
         <button
