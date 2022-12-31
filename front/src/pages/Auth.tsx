@@ -1,6 +1,6 @@
 export function Auth() {
   return (
-    <div className="isolate bg-white flex h-[100vh] w-100 justify-center items-center overflow-hidden">
+    <div className="isolate bg-gray-50 flex h-[100vh] w-100 justify-center items-center overflow-hidden">
       <div className="p-8 mx-5 rounded-lg border-gray-500 border-2 bg-white max-w-[100%] w-[300px] text-center">
         <h3 className="font-bold text-2xl">
           Welcome
