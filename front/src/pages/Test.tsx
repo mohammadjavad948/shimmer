@@ -1,10 +1,5 @@
-import { MainLayout } from "../layout/main";
+import { MainLayout } from '../layout/main';
 
-export function Test(){
-
-    return (
-        <MainLayout>
-            hi
-        </MainLayout>
-    )
+export function Test() {
+  return <MainLayout>hi</MainLayout>;
 }
