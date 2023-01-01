@@ -6,7 +6,7 @@ import {FaLayerGroup} from 'react-icons/fa';
 export default function Aside(){
 
     return (
-        <div className="bg-gray-300 flex-1 rounded-lg p-1 flex flex-col gap-1">
+        <div className="bg-gray-300 h-[100vh] w-11 p-1 flex flex-col gap-1">
             <AsideItem>
                 <MdDashboard size={25}/>
             </AsideItem>
