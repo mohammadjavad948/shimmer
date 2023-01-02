@@ -1,6 +1,14 @@
 import { Field, Formik, Form } from 'formik';
+import { login } from '../api/auth';
 
 export function Auth() {
+
+  async function dologin(val: any){
+    let data = await login(val);
+
+    console.log(data.data);
+  }
+
   return (
     <div className="w-100 isolate flex h-[100vh] items-center justify-center overflow-hidden bg-gray-50">
       <Formik
@@ -8,7 +16,7 @@ export function Auth() {
           username: '',
           password: '',
         }}
-        onSubmit={val => console.log(val)}
+        onSubmit={dologin}
       >
         <Form className="mx-5 w-[300px] max-w-[100%] rounded-lg border-2 border-gray-500 bg-white p-8 text-center">
           <h3 className="text-2xl font-bold">Welcome</h3>
