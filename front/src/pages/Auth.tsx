@@ -13,7 +13,7 @@ export function Auth() {
 
     setToken(data.data.token);
     
-    await router("/auth");
+    await router("/test");
   }
 
   return (
