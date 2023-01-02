@@ -1,12 +1,19 @@
 import { Field, Formik, Form } from 'formik';
+import { useNavigate } from 'react-router-dom';
 import { login } from '../api/auth';
+import useTokenStore from '../store/tokenStore';
 
 export function Auth() {
+
+  const setToken = useTokenStore(x => x.setToken);
+  const router = useNavigate();
 
   async function dologin(val: any){
     let data = await login(val);
 
-    console.log(data.data);
+    setToken(data.data.token);
+    
+    await router("/auth");
   }
 
   return (
