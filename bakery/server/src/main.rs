@@ -3,6 +3,7 @@ use database::sea_orm::{Database, DatabaseConnection};
 use router::routes;
 use state::State;
 use std::{net::SocketAddr, sync::Arc};
+use tower_http::cors::{Any, CorsLayer};
 use tracing::Level;
 
 mod actions;
@@ -31,6 +32,12 @@ async fn main() {
     let app = Router::new()
         .nest("/", routes())
         .layer(Extension(state))
+        .layer(
+            CorsLayer::new()
+                .allow_origin(Any)
+                .allow_headers(Any)
+                .allow_methods(Any),
+        )
         .layer(tower_http::trace::TraceLayer::new_for_http());
 
     // run it with hyper on localhost:5000
