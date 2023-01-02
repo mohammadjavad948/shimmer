@@ -1,5 +1,4 @@
-import axios from 'axios';
-import { authHeader } from './api';
+import { api, authHeader } from './api';
 
 export type CardGroup = {
   id: number;
@@ -10,31 +9,31 @@ export type CardGroup = {
 };
 
 export function allCardGroup() {
-  return axios.get<CardGroup[]>('/card-group/', {
+  return api.get<CardGroup[]>('/card-group', {
     headers: authHeader(),
   });
 }
 
 export function createCardGroup(data: any) {
-  return axios.post<CardGroup>('/card-group/', data, {
+  return api.post<CardGroup>('/card-group', data, {
     headers: authHeader(),
   });
 }
 
 export function updateCardGroup(id: number, data: any) {
-  return axios.patch<CardGroup>(`/card-group/${id}`, data, {
+  return api.patch<CardGroup>(`/card-group/${id}`, data, {
     headers: authHeader(),
   });
 }
 
 export function oneCardGroup(id: number) {
-  return axios.get<CardGroup>(`/card-group/${id}`, {
+  return api.get<CardGroup>(`/card-group/${id}`, {
     headers: authHeader(),
   });
 }
 
 export function removeCardGroup(id: number) {
-  return axios.delete(`/card-group/${id}`, {
+  return api.delete(`/card-group/${id}`, {
     headers: authHeader(),
   });
 }

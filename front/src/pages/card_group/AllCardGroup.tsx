@@ -1,8 +1,13 @@
 import { MainLayout } from "../../layout/main";
 import {AiOutlinePlus} from 'react-icons/ai';
+import { useQuery } from "@tanstack/react-query";
+import { allCardGroup } from "../../api/card_group";
 
 export default function AllCardGroup(){
 
+    const {data, isLoading} = useQuery(['card-group'], allCardGroup);
+
+    console.log(data);
     return (
         <MainLayout>
             <div
@@ -18,6 +23,9 @@ export default function AllCardGroup(){
                     New
                     <AiOutlinePlus size={18}/>
                 </button>
+                {!isLoading && (
+                    <div></div>
+                )}
             </div>
         </MainLayout>
     )
