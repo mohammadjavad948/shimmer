@@ -4,9 +4,7 @@ export function MainLayout({ children }: { children: any }) {
   return (
     <div className="flex h-screen w-screen bg-gray-100">
       {/* <Aside /> */}
-      <div className="flex-1 container p-5 mx-auto bg-gray-200">
-        {children}
-      </div>
+      <div className="container mx-auto flex-1 bg-gray-200 p-5">{children}</div>
     </div>
   );
 }
