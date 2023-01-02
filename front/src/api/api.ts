@@ -5,8 +5,8 @@ export const api = axios.create({
   baseURL: 'http://localhost:5000',
 });
 
-export function authHeader(){
+export function authHeader() {
   return {
-    auth: useTokenStore.getState().token
-  }
+    auth: useTokenStore.getState().token,
+  };
 }

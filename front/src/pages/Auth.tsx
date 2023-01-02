@@ -4,16 +4,15 @@ import { login } from '../api/auth';
 import useTokenStore from '../store/tokenStore';
 
 export function Auth() {
-
   const setToken = useTokenStore(x => x.setToken);
   const router = useNavigate();
 
-  async function dologin(val: any){
+  async function dologin(val: any) {
     let data = await login(val);
 
     setToken(data.data.token);
-    
-    await router("/test");
+
+    await router('/test');
   }
 
   return (
