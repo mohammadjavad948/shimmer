@@ -3,9 +3,11 @@ import { AiOutlinePlus } from 'react-icons/ai';
 import { useQuery } from '@tanstack/react-query';
 import { allCardGroup } from '../../api/card_group';
 import { BiLockAlt, BiShow } from 'react-icons/bi';
+import { useNavigate } from 'react-router-dom';
 
 export default function AllCardGroup() {
   const { data, isLoading } = useQuery(['card-group'], allCardGroup);
+  const navigate = useNavigate();
 
   return (
     <MainLayout>
@@ -14,7 +16,7 @@ export default function AllCardGroup() {
           Card Groups
         </span>
 
-        <button className="flex items-center gap-2 rounded-md bg-slate-300 py-2 px-4 font-semibold text-slate-800 hover:bg-slate-400">
+        <button onClick={() => navigate("/card-group/new")} className="flex items-center gap-2 rounded-md bg-slate-300 py-2 px-4 font-semibold text-slate-800 hover:bg-slate-400">
           New
           <AiOutlinePlus size={18} />
         </button>
