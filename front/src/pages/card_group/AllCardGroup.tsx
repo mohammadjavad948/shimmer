@@ -19,7 +19,7 @@ export default function AllCardGroup() {
           <AiOutlinePlus size={18} />
         </button>
       </div>
-      <div className="grid w-full grid-cols-1 gap-3 sm:grid-cols-3 md:grid-cols-4">
+      <div className="grid w-full grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3">
         {!isLoading &&
           data?.data.map((el, i) => {
             return (
