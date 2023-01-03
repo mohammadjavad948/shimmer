@@ -19,7 +19,7 @@ export default function AllCardGroup() {
           <AiOutlinePlus size={18} />
         </button>
       </div>
-      <div className="grid w-full grid-cols-4 gap-3">
+      <div className="grid w-full grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-3">
         {!isLoading &&
           data?.data.map((el, i) => {
             return (
@@ -27,6 +27,7 @@ export default function AllCardGroup() {
                 className="cursor-pointer rounded-lg bg-white p-4 hover:shadow-md"
                 key={i}
               >
+                <div className="flex justify-between">
                 <span className="flex items-center gap-2 text-lg font-bold">
                   {el.name}
 
@@ -42,6 +43,11 @@ export default function AllCardGroup() {
                     </span>
                   )}
                 </span>
+
+                <span className="py-1 px-2 text-sm rounded-full text-slate-600">
+                  {new Date(el.created_at + "Z").toLocaleDateString()}
+                </span>
+                </div>
               </div>
             );
           })}
