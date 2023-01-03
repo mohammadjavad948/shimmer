@@ -2,14 +2,15 @@ use axum::routing::{get, post};
 use axum::{middleware, Router};
 
 use crate::actions::auth::{info, login, sessions, signup};
-use crate::actions::card_group;
 use crate::actions::gateway::websocket_handler;
+use crate::actions::{card, card_group};
 use crate::middleware::auth::auth_middleware;
 
 pub fn routes() -> Router {
     Router::new()
         .nest("/auth", auth())
         .nest("/card-group", card_group())
+        .nest("/card", card())
         .route("/gateway", get(websocket_handler))
 }
 
@@ -33,6 +34,18 @@ fn card_group() -> Router {
             get(card_group::one::one)
                 .patch(card_group::edit::edit)
                 .delete(card_group::delete::delete),
+        )
+        .layer(middleware::from_fn(auth_middleware))
+}
+
+fn card() -> Router {
+    Router::new()
+        .route("/", get(card::all::all).post(card::create::create))
+        .route(
+            "/:id",
+            get(card::one::one)
+                .patch(card::edit::edit)
+                .delete(card::delete::delete),
         )
         .layer(middleware::from_fn(auth_middleware))
 }
