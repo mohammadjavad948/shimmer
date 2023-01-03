@@ -16,7 +16,10 @@ export default function AllCardGroup() {
           Card Groups
         </span>
 
-        <button onClick={() => navigate("/card-group/new")} className="flex items-center gap-2 rounded-md bg-slate-300 py-2 px-4 font-semibold text-slate-800 hover:bg-slate-400">
+        <button
+          onClick={() => navigate('/card-group/new')}
+          className="flex items-center gap-2 rounded-md bg-slate-300 py-2 px-4 font-semibold text-slate-800 hover:bg-slate-400"
+        >
           New
           <AiOutlinePlus size={18} />
         </button>
