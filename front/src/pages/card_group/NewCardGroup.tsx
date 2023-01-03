@@ -1,9 +1,19 @@
+import { useQueryClient } from '@tanstack/react-query';
 import { Field, Form, Formik } from 'formik';
+import { useNavigate } from 'react-router-dom';
+import { createCardGroup } from '../../api/card_group';
 import { MainLayout } from '../../layout/main';
 
 export function NewCardGroup() {
+
+  const navigate = useNavigate();
+  const query = useQueryClient();
+
   async function submit(val: any) {
-    console.log(val);
+    await createCardGroup(val);
+    await query.invalidateQueries(['card-group']);
+    
+    navigate("/card-group");
   }
 
   return (
