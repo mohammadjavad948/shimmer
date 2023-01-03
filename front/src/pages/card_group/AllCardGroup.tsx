@@ -19,7 +19,7 @@ export default function AllCardGroup() {
           <AiOutlinePlus size={18} />
         </button>
       </div>
-      <div className="grid w-full grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-3">
+      <div className="grid w-full grid-cols-1 gap-3 sm:grid-cols-3 md:grid-cols-4">
         {!isLoading &&
           data?.data.map((el, i) => {
             return (
@@ -28,25 +28,25 @@ export default function AllCardGroup() {
                 key={i}
               >
                 <div className="flex justify-between">
-                <span className="flex items-center gap-2 text-lg font-bold">
-                  {el.name}
+                  <span className="flex items-center gap-2 text-lg font-bold">
+                    {el.name}
 
-                  {el.is_public && (
-                    <span className="rounded-lg bg-gray-200 p-1 text-gray-700">
-                      <BiShow />
-                    </span>
-                  )}
+                    {el.is_public && (
+                      <span className="rounded-lg bg-gray-200 p-1 text-gray-700">
+                        <BiShow />
+                      </span>
+                    )}
 
-                  {!el.is_public && (
-                    <span className="rounded-lg bg-gray-200 p-1 text-gray-700">
-                      <BiLockAlt />
-                    </span>
-                  )}
-                </span>
+                    {!el.is_public && (
+                      <span className="rounded-lg bg-gray-200 p-1 text-gray-700">
+                        <BiLockAlt />
+                      </span>
+                    )}
+                  </span>
 
-                <span className="py-1 px-2 text-sm rounded-full text-slate-600">
-                  {new Date(el.created_at + "Z").toLocaleDateString()}
-                </span>
+                  <span className="rounded-full py-1 px-2 text-sm text-slate-600">
+                    {new Date(el.created_at + 'Z').toLocaleDateString()}
+                  </span>
                 </div>
               </div>
             );
