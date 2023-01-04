@@ -3,7 +3,7 @@ import TopBar from '../components/topbar';
 
 export function MainLayout({ children }: { children: any }) {
   return (
-    <div className="flex h-screen flex-col w-screen bg-gray-100 font-sans">
+    <div className="flex h-screen w-screen flex-col bg-gray-100 font-sans">
       <TopBar />
       <div className="flex flex-1 flex-col md:flex-row">
         <Aside />

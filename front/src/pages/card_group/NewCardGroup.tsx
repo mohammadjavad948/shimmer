@@ -5,15 +5,14 @@ import { createCardGroup } from '../../api/card_group';
 import { MainLayout } from '../../layout/main';
 
 export function NewCardGroup() {
-
   const navigate = useNavigate();
   const query = useQueryClient();
 
   async function submit(val: any) {
     await createCardGroup(val);
     await query.invalidateQueries(['card-group']);
-    
-    navigate("/card-group");
+
+    navigate('/card-group');
   }
 
   return (
