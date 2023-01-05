@@ -2,6 +2,7 @@ import { useQueryClient } from '@tanstack/react-query';
 import { Field, Form, Formik } from 'formik';
 import { useNavigate } from 'react-router-dom';
 import { createCard } from '../../api/card';
+import { AnswerForm } from '../../components/form/Answers';
 import { MainLayout } from '../../layout/main';
 
 export function NewCard() {
@@ -26,15 +27,21 @@ export function NewCard() {
 
         <span className="text-base font-semibold text-slate-700">New</span>
       </div>
-      <Formik initialValues={{ name: '' }} onSubmit={submit}>
-        <Form className="mx-auto flex w-full flex-col md:w-96">
-          <span className="text-sm text-slate-500">Name</span>
+      <Formik initialValues={{ question: '', answers: [], realAnswer: {}, groupId: null }} onSubmit={submit}>
+        <Form className="w-full flex-col grid gap-3 grid-cols-1 lg:grid-cols-2">
+          <div className="w-full flex flex-col">
+            <span className="text-sm text-slate-500">Question</span>
 
-          <Field
-            name="name"
-            type="text"
-            className="mt-1 rounded-lg ring-1 ring-slate-400"
-          />
+            <Field
+              name="question"
+              as="textarea"
+              rows="5"
+              cols="50"
+              className="mt-1 rounded-lg ring-1 ring-slate-400"
+            />
+          </div>
+
+          <AnswerForm name="answers"/>
 
           <button
             type="submit"
