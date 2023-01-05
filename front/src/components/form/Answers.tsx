@@ -128,7 +128,7 @@ function Quest(props: { style: any; item: Data; resize: any; index: number }) {
     <a.div
       ref={ref}
       style={props.style}
-      className="flex absolute z-30 w-full gap-2 rounded-md bg-white p-3"
+      className="absolute z-30 flex w-full gap-2 rounded-md bg-white p-3"
     >
       <div className="flex w-6 flex-col gap-2">
         <span className="rounded-sm bg-slate-300 p-1 text-slate-800">
@@ -142,9 +142,9 @@ function Quest(props: { style: any; item: Data; resize: any; index: number }) {
         </span>
       </div>
 
-      <div className="flex-1 flex">
-        <textarea rows={2} className="w-full h-full rounded-lg border-0 ring-0">
-            {props.item.data}
+      <div className="flex flex-1">
+        <textarea rows={2} className="h-full w-full rounded-lg border-0 ring-0">
+          {props.item.data}
         </textarea>
       </div>
     </a.div>
