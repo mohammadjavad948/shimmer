@@ -19,17 +19,23 @@ export function NewCard() {
   return (
     <MainLayout>
       <div className="mb-2 flex w-full gap-2">
-        <span className="text-base font-semibold text-slate-500">
-          Cards
-        </span>
+        <span className="text-base font-semibold text-slate-500">Cards</span>
 
         <span className="font-bold text-slate-500">&gt;</span>
 
         <span className="text-base font-semibold text-slate-700">New</span>
       </div>
-      <Formik initialValues={{ question: '', answers: [], realAnswer: {}, groupId: null }} onSubmit={submit}>
-        <Form className="w-full flex-col grid gap-3 grid-cols-1 lg:grid-cols-2">
-          <div className="w-full flex flex-col">
+      <Formik
+        initialValues={{
+          question: '',
+          answers: [],
+          realAnswer: {},
+          groupId: null,
+        }}
+        onSubmit={submit}
+      >
+        <Form className="grid w-full grid-cols-1 flex-col gap-3 lg:grid-cols-2">
+          <div className="flex w-full flex-col">
             <span className="text-sm text-slate-500">Question</span>
 
             <Field
@@ -41,7 +47,7 @@ export function NewCard() {
             />
           </div>
 
-          <AnswerForm name="answers"/>
+          <AnswerForm name="answers" />
 
           <button
             type="submit"

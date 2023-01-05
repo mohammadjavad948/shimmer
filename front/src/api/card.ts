@@ -7,7 +7,7 @@ export type Card = {
   real_answer: any;
   group_id: number;
   creator_id: number;
-  created_at: string
+  created_at: string;
 };
 
 export function allCards() {

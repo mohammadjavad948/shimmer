@@ -11,9 +11,7 @@ export default function AllCard() {
   return (
     <MainLayout>
       <div className="mb-2 flex w-full items-center justify-between">
-        <span className="text-base font-semibold text-slate-600">
-          Cards
-        </span>
+        <span className="text-base font-semibold text-slate-600">Cards</span>
 
         <button
           onClick={() => navigate('/card/new')}
