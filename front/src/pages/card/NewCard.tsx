@@ -45,16 +45,16 @@ export function NewCard() {
               cols="50"
               className="mt-1 rounded-lg ring-1 ring-slate-400"
             />
+
+            <button
+              type="submit"
+              className="mt-3 rounded-lg bg-slate-400 px-1 py-2 font-semibold text-slate-800"
+            >
+              Save
+            </button>
           </div>
 
           <AnswerForm name="answers" />
-
-          <button
-            type="submit"
-            className="mt-3 rounded-lg bg-slate-400 px-1 py-2 font-semibold text-slate-800"
-          >
-            Save
-          </button>
         </Form>
       </Formik>
     </MainLayout>
