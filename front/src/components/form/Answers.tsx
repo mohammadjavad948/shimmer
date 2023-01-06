@@ -115,7 +115,7 @@ function Answers(props: { data: FieldProps }) {
 
         <span
           onClick={newData}
-          className="rounded-lg bg-slate-300 px-2 py-2 font-bold text-slate-800 cursor-pointer"
+          className="cursor-pointer rounded-lg bg-slate-300 px-2 py-2 font-bold text-slate-800"
         >
           <AiOutlinePlus size={18} />
         </span>
@@ -128,14 +128,30 @@ function Answers(props: { data: FieldProps }) {
         }}
       >
         {transition((style, item, _, index) => (
-          <Quest count={data.length} style={style} swap={swap} item={item} remove={remove} resize={elResize} index={index} />
+          <Quest
+            count={data.length}
+            style={style}
+            swap={swap}
+            item={item}
+            remove={remove}
+            resize={elResize}
+            index={index}
+          />
         ))}
       </div>
     </div>
   );
 }
 
-function Quest(props: { style: any; item: Data; count: number; resize: any; remove:any; swap: any; index: number }) {
+function Quest(props: {
+  style: any;
+  item: Data;
+  count: number;
+  resize: any;
+  remove: any;
+  swap: any;
+  index: number;
+}) {
   const [ref, bounds] = useMeasure();
 
   useEffect(() => {
@@ -150,22 +166,35 @@ function Quest(props: { style: any; item: Data; count: number; resize: any; remo
     >
       <div className="flex w-6 flex-col gap-2">
         {props.index != 0 && (
-          <span className="rounded-sm bg-slate-300 p-1 text-slate-800 cursor-pointer" onClick={() => props.swap(props.index, props.index - 1)}>
+          <span
+            className="cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800"
+            onClick={() => props.swap(props.index, props.index - 1)}
+          >
             <AiOutlineCaretUp size={15} />
           </span>
         )}
-        <span className="rounded-sm bg-slate-300 p-1 text-slate-800 cursor-pointer" onClick={() => props.remove(props.index)}>
+        <span
+          className="cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800"
+          onClick={() => props.remove(props.index)}
+        >
           <AiFillDelete size={15} />
         </span>
         {props.count - 1 != props.index && (
-          <span className="rounded-sm bg-slate-300 p-1 text-slate-800 cursor-pointer" onClick={() => props.swap(props.index, props.index + 1)}>
+          <span
+            className="cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800"
+            onClick={() => props.swap(props.index, props.index + 1)}
+          >
             <AiOutlineCaretDown size={15} />
           </span>
         )}
       </div>
 
       <div className="flex flex-1">
-        <textarea value={props.item.data} rows={2} className="h-full w-full rounded-lg border-0 ring-0" />
+        <textarea
+          value={props.item.data}
+          rows={2}
+          className="h-full w-full rounded-lg border-0 ring-0"
+        />
       </div>
     </a.div>
   );
