@@ -12,7 +12,7 @@ import useMeasure from 'react-use-measure';
 export function AnswerForm(props: { name: string }) {
   return (
     <Field name={props.name}>
-      {(data: FieldProps) => <Answers data={data} />}
+      {(data: FieldProps) => <Answers data={data} name={props.name} />}
     </Field>
   );
 }
@@ -22,8 +22,8 @@ interface Data {
   data: string;
 }
 
-function Answers(props: { data: FieldProps }) {
-  const [data, setData] = useState<Data[]>([]);
+function Answers(props: { data: FieldProps, name: string }) {
+  let data: Data[] = props.data.field.value;
 
   const transition = useTransition(data, {
     from: (_item, index) => {
@@ -73,39 +73,40 @@ function Answers(props: { data: FieldProps }) {
   });
 
   function elResize(h: number, index: number) {
-    setData(el => {
-      return el.map((e, i) => {
-        if (i == index) {
-          e.h = h;
-        }
 
-        return e;
-      });
-    });
+    props.data.form.setFieldValue(props.name, data.map((e, i) => {
+      if (i == index) {
+        e.h = h;
+      }
+
+      return e;
+    }));
   }
 
   function newData() {
-    setData(d => {
-      return [...d, { data: 'quest', h: 0 }];
-    });
+    props.data.form.setFieldValue(props.name, [...data, { data: 'quest', h: 0 }]);
   }
 
   function remove(index: number) {
-    setData(d => {
-      return d.filter((_el, i) => i != index);
-    });
+    props.data.form.setFieldValue(props.name, data.filter((_el, i) => i != index));
   }
 
   function swap(index: number, sIndex: number) {
-    setData(d => {
-      let copy = [...d];
+      let copy = [...data];
 
       var b = copy[index];
       copy[index] = copy[sIndex];
       copy[sIndex] = b;
 
-      return copy;
-    });
+    props.data.form.setFieldValue(props.name, copy);
+  }
+
+  function change(index: number, value: any) {
+    let copy = [...data];
+
+    copy[index].data = value;
+
+    props.data.form.setFieldValue(props.name, copy);
   }
 
   return (
@@ -133,6 +134,7 @@ function Answers(props: { data: FieldProps }) {
             style={style}
             swap={swap}
             item={item}
+            change={change}
             remove={remove}
             resize={elResize}
             index={index}
@@ -150,6 +152,7 @@ function Quest(props: {
   resize: any;
   remove: any;
   swap: any;
+  change: any;
   index: number;
 }) {
   const [ref, bounds] = useMeasure();
@@ -193,6 +196,7 @@ function Quest(props: {
         <textarea
           value={props.item.data}
           rows={2}
+          onChange={(e) => props.change(props.index, e.target.value)}
           className="h-full w-full rounded-lg border-0 ring-0"
         />
       </div>
