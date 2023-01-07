@@ -36,14 +36,14 @@ export function NewCard() {
       >
         <Form className="grid w-full grid-cols-1 flex-col gap-3 lg:grid-cols-2">
           <div className="flex w-full flex-col">
-            <span className="text-sm mt-1 text-slate-500">Question</span>
+            <span className="text-sm mt-2 text-slate-500">Question</span>
 
             <Field
               name="question"
               as="textarea"
               rows="5"
               cols="50"
-              className="mt-5 rounded-lg ring-1 ring-slate-400"
+              className="mt-4 rounded-lg ring-1 ring-slate-400"
             />
 
             <button
