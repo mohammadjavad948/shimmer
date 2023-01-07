@@ -88,7 +88,7 @@ function Answers(props: { data: FieldProps; name: string }) {
   function newData() {
     props.data.form.setFieldValue(props.name, [
       ...data,
-      { data: 'quest', h: 0 },
+      { data: 'question', h: 0 },
     ]);
   }
 
