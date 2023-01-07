@@ -175,7 +175,7 @@ function Quest(props: {
       style={props.style}
       className="absolute z-30 flex w-full gap-2 rounded-md bg-white p-3"
     >
-      <div className="flex w-6 flex-col gap-2">
+      <div className="flex w-6 flex-col gap-1">
         {props.index != 0 && (
           <span
             className="cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800"
