@@ -22,7 +22,7 @@ interface Data {
   data: string;
 }
 
-function Answers(props: { data: FieldProps, name: string }) {
+function Answers(props: { data: FieldProps; name: string }) {
   let data: Data[] = props.data.field.value;
 
   const transition = useTransition(data, {
@@ -73,30 +73,38 @@ function Answers(props: { data: FieldProps, name: string }) {
   });
 
   function elResize(h: number, index: number) {
+    props.data.form.setFieldValue(
+      props.name,
+      data.map((e, i) => {
+        if (i == index) {
+          e.h = h;
+        }
 
-    props.data.form.setFieldValue(props.name, data.map((e, i) => {
-      if (i == index) {
-        e.h = h;
-      }
-
-      return e;
-    }));
+        return e;
+      })
+    );
   }
 
   function newData() {
-    props.data.form.setFieldValue(props.name, [...data, { data: 'quest', h: 0 }]);
+    props.data.form.setFieldValue(props.name, [
+      ...data,
+      { data: 'quest', h: 0 },
+    ]);
   }
 
   function remove(index: number) {
-    props.data.form.setFieldValue(props.name, data.filter((_el, i) => i != index));
+    props.data.form.setFieldValue(
+      props.name,
+      data.filter((_el, i) => i != index)
+    );
   }
 
   function swap(index: number, sIndex: number) {
-      let copy = [...data];
+    let copy = [...data];
 
-      var b = copy[index];
-      copy[index] = copy[sIndex];
-      copy[sIndex] = b;
+    var b = copy[index];
+    copy[index] = copy[sIndex];
+    copy[sIndex] = b;
 
     props.data.form.setFieldValue(props.name, copy);
   }
@@ -196,7 +204,7 @@ function Quest(props: {
         <textarea
           value={props.item.data}
           rows={2}
-          onChange={(e) => props.change(props.index, e.target.value)}
+          onChange={e => props.change(props.index, e.target.value)}
           className="h-full w-full rounded-lg border-0 ring-0"
         />
       </div>
