@@ -35,7 +35,7 @@ export function NewCard() {
       >
         <Form className="grid w-full grid-cols-1 flex-col gap-3 lg:grid-cols-2">
           <div className="flex w-full flex-col">
-            <span className="text-sm mt-2 text-slate-500">Question</span>
+            <span className="mt-2 text-sm text-slate-500">Question</span>
 
             <Field
               name="question"

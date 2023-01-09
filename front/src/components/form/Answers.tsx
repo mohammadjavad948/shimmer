@@ -119,7 +119,7 @@ function Answers(props: { data: FieldProps; name: string }) {
     props.data.form.setFieldValue(props.name, copy);
   }
 
-  function markAsAnswer(index: number){
+  function markAsAnswer(index: number) {
     props.data.form.setFieldValue(
       props.name,
       data.map((el, i) => {
@@ -129,7 +129,7 @@ function Answers(props: { data: FieldProps; name: string }) {
           copy.is_answer = false;
         }
 
-        if (i == index){
+        if (i == index) {
           copy.is_answer = true;
         }
 
@@ -222,7 +222,9 @@ function Quest(props: {
           </span>
         )}
         <span
-          className={`cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800 ${props.item.is_answer && "bg-green-300 text-green-900"}`}
+          className={`cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800 ${
+            props.item.is_answer && 'bg-green-300 text-green-900'
+          }`}
           onClick={() => props.answer(props.index)}
         >
           <AiFillCheckCircle size={15} />
