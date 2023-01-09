@@ -29,8 +29,7 @@ export function NewCard() {
         initialValues={{
           question: '',
           answers: [],
-          realAnswer: {},
-          groupId: null,
+          group_id: null,
         }}
         onSubmit={submit}
       >

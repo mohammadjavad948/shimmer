@@ -6,6 +6,7 @@ import {
   AiFillDelete,
   AiOutlineCaretDown,
   AiOutlineCaretUp,
+  AiFillCheckCircle,
 } from 'react-icons/ai';
 import useMeasure from 'react-use-measure';
 
@@ -19,6 +20,7 @@ export function AnswerForm(props: { name: string }) {
 
 interface Data {
   h: number;
+  is_answer: boolean;
   data: string;
 }
 
@@ -88,7 +90,7 @@ function Answers(props: { data: FieldProps; name: string }) {
   function newData() {
     props.data.form.setFieldValue(props.name, [
       ...data,
-      { data: 'question', h: 0 },
+      { data: 'question', h: 0, is_answer: false },
     ]);
   }
 
@@ -117,6 +119,25 @@ function Answers(props: { data: FieldProps; name: string }) {
     props.data.form.setFieldValue(props.name, copy);
   }
 
+  function markAsAnswer(index: number){
+    props.data.form.setFieldValue(
+      props.name,
+      data.map((el, i) => {
+        let copy = el;
+
+        if (copy.is_answer) {
+          copy.is_answer = false;
+        }
+
+        if (i == index){
+          copy.is_answer = true;
+        }
+
+        return copy;
+      })
+    );
+  }
+
   return (
     <div className="flex w-full flex-col">
       <div className="flex items-center justify-between">
@@ -141,6 +162,7 @@ function Answers(props: { data: FieldProps; name: string }) {
             count={data.length}
             style={style}
             swap={swap}
+            answer={markAsAnswer}
             item={item}
             change={change}
             remove={remove}
@@ -159,6 +181,7 @@ function Quest(props: {
   count: number;
   resize: any;
   remove: any;
+  answer: any;
   swap: any;
   change: any;
   index: number;
@@ -198,6 +221,12 @@ function Quest(props: {
             <AiOutlineCaretDown size={15} />
           </span>
         )}
+        <span
+          className={`cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800 ${props.item.is_answer && "bg-green-300 text-green-900"}`}
+          onClick={() => props.answer(props.index)}
+        >
+          <AiFillCheckCircle size={15} />
+        </span>
       </div>
 
       <div className="flex flex-1">
