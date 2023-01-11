@@ -45,13 +45,9 @@ export function NewCard() {
               className="mt-4 rounded-lg ring-0 border border-slate-300"
             />
 
-<span className="mt-4 text-sm text-slate-500">Select an option</span>
+<span className="mt-4 text-sm text-slate-500">Card Group</span>
 <select className="mt-2 bg-slate-50 border border-gray-300 text-slate-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5">
-  <option selected>Choose a country</option>
-  <option value="US">United States</option>
-  <option value="CA">Canada</option>
-  <option value="FR">France</option>
-  <option value="DE">Germany</option>
+  <option selected>Choose a Group</option>
 </select>
 
             <button
