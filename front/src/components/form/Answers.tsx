@@ -223,7 +223,7 @@ function Quest(props: {
         )}
         <span
           className={`cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800 ${
-            props.item.is_answer && 'bg-green-300 text-green-900'
+            props.item.is_answer && 'bg-green-200 text-green-900'
           }`}
           onClick={() => props.answer(props.index)}
         >
