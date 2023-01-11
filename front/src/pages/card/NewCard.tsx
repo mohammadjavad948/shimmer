@@ -42,13 +42,13 @@ export function NewCard() {
               as="textarea"
               rows="5"
               cols="50"
-              className="mt-4 rounded-lg ring-0 border border-slate-300"
+              className="mt-4 rounded-lg border border-slate-300 ring-0"
             />
 
-<span className="mt-4 text-sm text-slate-500">Card Group</span>
-<select className="mt-2 bg-slate-50 border border-gray-300 text-slate-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5">
-  <option selected>Choose a Group</option>
-</select>
+            <span className="mt-4 text-sm text-slate-500">Card Group</span>
+            <select className="mt-2 w-full rounded-lg border border-gray-300 bg-slate-50 p-2.5 text-sm text-slate-900 focus:border-blue-500 focus:ring-blue-500">
+              <option selected>Choose a Group</option>
+            </select>
 
             <button
               type="submit"
