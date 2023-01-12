@@ -12,6 +12,14 @@ export function NewCard() {
   const { data } = useQuery(['card-group'], allCardGroup);
 
   async function submit(val: any) {
+    val.answers = val.answers.map((el: any, index: any) => {
+      if(el.is_answer){
+        val.real_answer = {index};
+      }
+
+      return el.data;
+    });
+    
     await createCard(val);
     await query.invalidateQueries(['card']);
 
