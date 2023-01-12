@@ -1,13 +1,15 @@
-import { useQueryClient } from '@tanstack/react-query';
+import { useQuery, useQueryClient } from '@tanstack/react-query';
 import { Field, Form, Formik } from 'formik';
 import { useNavigate } from 'react-router-dom';
 import { createCard } from '../../api/card';
+import { allCardGroup } from '../../api/card_group';
 import { AnswerForm } from '../../components/form/Answers';
 import { MainLayout } from '../../layout/main';
 
 export function NewCard() {
   const navigate = useNavigate();
   const query = useQueryClient();
+  const { data } = useQuery(['card-group'], allCardGroup);
 
   async function submit(val: any) {
     await createCard(val);
@@ -46,9 +48,15 @@ export function NewCard() {
             />
 
             <span className="mt-4 text-sm text-slate-500">Card Group</span>
-            <select className="mt-2 w-full rounded-lg border border-gray-300 bg-slate-50 p-2.5 text-sm text-slate-900 focus:border-blue-500 focus:ring-blue-500">
+
+            <Field as="select" name="group_id" className="mt-2 w-full rounded-lg border border-gray-300 bg-slate-50 p-2.5 text-sm text-slate-900 focus:border-blue-500 focus:ring-blue-500">
               <option selected>Choose a Group</option>
-            </select>
+              {data?.data?.map((el, index) => {
+                return (
+                  <option value={el.id} key={index}>{el.name}</option>
+                )
+              })}
+            </Field>
 
             <button
               type="submit"
