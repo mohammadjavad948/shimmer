@@ -29,11 +29,26 @@ export default function AllCard() {
                 className="cursor-pointer rounded-lg bg-white p-4 hover:shadow-md"
                 key={i}
               >
-                <div className="flex justify-between">
-                  <span className="flex items-center gap-2 text-lg font-bold">
+                <span className="flex items-center gap-2 text-lg font-bold">
                     {el[0].question}
-                  </span>
+                </span>
 
+                <div className="mt-3 flex flex-col gap-1 pl-3 divide-y">
+                  {el[0].answers.map((a: any, i: any) => {
+                    return (
+                      <div key={i} className="py-1">
+                        {a}
+                        {i === el[0].real_answer.index && (
+                          <span className="text-lg font-bold text-green-600 ml-2">
+                            &#10003;
+                          </span>
+                        )}
+                      </div>
+                    )
+                  })}
+                </div>
+
+                <div className="flex justify-between mt-4">
                   <span className="rounded-full text-sm flex items-center bg-gray-200 px-3 text-gray-700">
                     {el[1].name}      
                   </span>
