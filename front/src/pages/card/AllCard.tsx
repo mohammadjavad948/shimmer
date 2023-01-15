@@ -31,11 +31,15 @@ export default function AllCard() {
               >
                 <div className="flex justify-between">
                   <span className="flex items-center gap-2 text-lg font-bold">
-                    {el.question}
+                    {el[0].question}
+                  </span>
+
+                  <span className="rounded-full text-sm flex items-center bg-gray-200 px-3 text-gray-700">
+                    {el[1].name}      
                   </span>
 
                   <span className="rounded-full py-1 px-2 text-sm text-slate-600">
-                    {new Date(el.created_at + 'Z').toLocaleDateString()}
+                    {new Date(el[0].created_at + 'Z').toLocaleDateString()}
                   </span>
                 </div>
               </div>
