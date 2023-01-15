@@ -23,13 +23,14 @@ pub async fn create(
         answers: database::sea_orm::ActiveValue::Set(payload.answers),
         real_answer: database::sea_orm::ActiveValue::Set(payload.real_answer),
         creator_id: database::sea_orm::ActiveValue::Set(user_info.user_id),
+        group_id: database::sea_orm::ActiveValue::Set(payload.group_id),
         ..Default::default()
     };
 
-    let data = data
-        .insert(&state.db)
-        .await
-        .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
+    let data = data.insert(&state.db).await.map_err(|e| {
+        tracing::error!("{e}");
+        StatusCode::INTERNAL_SERVER_ERROR
+    })?;
 
     Ok(Json(data))
 }

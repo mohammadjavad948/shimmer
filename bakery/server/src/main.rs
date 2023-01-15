@@ -4,6 +4,7 @@ use router::routes;
 use state::State;
 use std::{net::SocketAddr, sync::Arc};
 use tower_http::cors::{Any, CorsLayer};
+use tracing::Level;
 
 mod actions;
 mod helpers;
@@ -13,7 +14,10 @@ mod state;
 
 #[tokio::main]
 async fn main() {
-    console_subscriber::init();
+    tracing_subscriber::fmt()
+        .with_max_level(Level::DEBUG)
+        .compact()
+        .init();
 
     let db_url = std::env::var("DATABASE_URL").unwrap();
     let db: DatabaseConnection = Database::connect(db_url).await.unwrap();
