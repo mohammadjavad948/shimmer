@@ -1,5 +1,5 @@
 import { MainLayout } from '../../layout/main';
-import { AiOutlinePlus } from 'react-icons/ai';
+import { AiOutlineDelete, AiOutlinePlus } from 'react-icons/ai';
 import { useQuery } from '@tanstack/react-query';
 import { useNavigate } from 'react-router-dom';
 import { allCards } from '../../api/card';
@@ -26,10 +26,10 @@ export default function AllCard() {
           data?.data.map((el, i) => {
             return (
               <div
-                className="cursor-pointer rounded-lg bg-white p-4 hover:shadow-md"
+                className="rounded-lg bg-white p-4 hover:shadow-md"
                 key={i}
               >
-                <span className="flex items-center gap-2 text-lg font-bold">
+                <span className="flex items-center gap-2 text-lg font-bold cursor-pointer hover:text-slate-800 hover:underline">
                     {el[0].question}
                 </span>
 
@@ -51,6 +51,10 @@ export default function AllCard() {
                 <div className="flex justify-between mt-4">
                   <span className="rounded-full text-sm flex items-center bg-gray-200 px-3 text-gray-700">
                     {el[1].name}      
+                  </span>
+
+                  <span className="px-2 py-1 rounded-lg text-red-600 hover:bg-red-200 cursor-pointer">
+                    <AiOutlineDelete size={18}/>
                   </span>
 
                   <span className="rounded-full py-1 px-2 text-sm text-slate-600">
