@@ -10,6 +10,7 @@ pub struct Model {
     pub id: i32,
     pub card_id: i32,
     pub user_id: i32,
+    pub card_group_id: i32,
     pub start_date: DateTime,
     pub level: i32,
     pub history: Json,
@@ -27,6 +28,14 @@ pub enum Relation {
     )]
     Card,
     #[sea_orm(
+        belongs_to = "super::card_group::Entity",
+        from = "Column::CardGroupId",
+        to = "super::card_group::Column::Id",
+        on_update = "Cascade",
+        on_delete = "Cascade"
+    )]
+    CardGroup,
+    #[sea_orm(
         belongs_to = "super::user::Entity",
         from = "Column::UserId",
         to = "super::user::Column::Id",
@@ -39,6 +48,12 @@ pub enum Relation {
 impl Related<super::card::Entity> for Entity {
     fn to() -> RelationDef {
         Relation::Card.def()
+    }
+}
+
+impl Related<super::card_group::Entity> for Entity {
+    fn to() -> RelationDef {
+        Relation::CardGroup.def()
     }
 }
 
