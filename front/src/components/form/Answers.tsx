@@ -199,26 +199,26 @@ function Quest(props: {
       className="absolute z-30 flex w-full gap-2 rounded-md bg-white p-3"
     >
       <div className="flex w-6 flex-col gap-1">
-          <button
-            disabled={props.index == 0}
-            className="disabled:cursor-default disabled:text-slate-400 cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800"
-            onClick={() => props.swap(props.index, props.index - 1)}
-          >
-            <AiOutlineCaretUp size={15} />
-          </button>
+        <button
+          disabled={props.index == 0}
+          className="cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800 disabled:cursor-default disabled:text-slate-400"
+          onClick={() => props.swap(props.index, props.index - 1)}
+        >
+          <AiOutlineCaretUp size={15} />
+        </button>
         <span
           className="cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800"
           onClick={() => props.remove(props.index)}
         >
           <AiFillDelete size={15} />
         </span>
-          <button
+        <button
           disabled={props.count - 1 == props.index}
-            className="disabled:cursor-default disabled:text-slate-400 cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800"
-            onClick={() => props.swap(props.index, props.index + 1)}
-          >
-            <AiOutlineCaretDown size={15} />
-          </button>
+          className="cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800 disabled:cursor-default disabled:text-slate-400"
+          onClick={() => props.swap(props.index, props.index + 1)}
+        >
+          <AiOutlineCaretDown size={15} />
+        </button>
         <span
           className={`cursor-pointer rounded-sm bg-slate-300 p-1 text-slate-800 ${
             props.item.is_answer && 'bg-green-200 text-green-900'

@@ -15,8 +15,8 @@ export function NewCard() {
     let copy = Object.assign({}, val);
 
     copy.answers = val.answers.map((el: any, index: any) => {
-      if(el.is_answer){
-        copy.real_answer = {index};
+      if (el.is_answer) {
+        copy.real_answer = { index };
       }
 
       return el.data;
@@ -61,12 +61,18 @@ export function NewCard() {
 
             <span className="mt-4 text-sm text-slate-500">Card Group</span>
 
-            <Field as="select" name="group_id" className="mt-2 w-full rounded-lg border border-gray-300 bg-slate-50 p-2.5 text-sm text-slate-900 focus:border-blue-500 focus:ring-blue-500">
+            <Field
+              as="select"
+              name="group_id"
+              className="mt-2 w-full rounded-lg border border-gray-300 bg-slate-50 p-2.5 text-sm text-slate-900 focus:border-blue-500 focus:ring-blue-500"
+            >
               <option selected>Choose a Group</option>
               {data?.data?.map((el, index) => {
                 return (
-                  <option value={el.id} key={index}>{el.name}</option>
-                )
+                  <option value={el.id} key={index}>
+                    {el.name}
+                  </option>
+                );
               })}
             </Field>
 
