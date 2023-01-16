@@ -21,6 +21,11 @@ impl MigrationTrait for Migration {
                     .col(ColumnDef::new(CardsInPocket::CardId).integer().not_null())
                     .col(ColumnDef::new(CardsInPocket::UserId).integer().not_null())
                     .col(
+                        ColumnDef::new(CardsInPocket::CardGroupId)
+                            .integer()
+                            .not_null(),
+                    )
+                    .col(
                         ColumnDef::new(CardsInPocket::StartDate)
                             .date_time()
                             .not_null()
@@ -57,6 +62,7 @@ pub enum CardsInPocket {
     Table,
     Id,
     CardId,
+    CardGroupId,
     UserId,
     StartDate,
     History,

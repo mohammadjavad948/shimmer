@@ -51,6 +51,18 @@ impl MigrationTrait for Migration {
         manager
             .create_foreign_key(
                 ForeignKey::create()
+                    .name("FK_card_group_pocket")
+                    .from(CardsInPocket::Table, CardsInPocket::CardGroupId)
+                    .to(CardGroup::Table, CardGroup::Id)
+                    .on_delete(ForeignKeyAction::Cascade)
+                    .on_update(ForeignKeyAction::Cascade)
+                    .to_owned(),
+            )
+            .await?;
+
+        manager
+            .create_foreign_key(
+                ForeignKey::create()
                     .name("FK_user_pocket")
                     .from(CardsInPocket::Table, CardsInPocket::UserId)
                     .to(User::Table, User::Id)
