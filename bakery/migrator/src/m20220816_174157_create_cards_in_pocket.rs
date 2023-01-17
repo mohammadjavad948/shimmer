@@ -37,7 +37,6 @@ impl MigrationTrait for Migration {
                             .not_null()
                             .default(1),
                     )
-                    .col(ColumnDef::new(CardsInPocket::History).json().not_null())
                     .col(
                         ColumnDef::new(CardsInPocket::CreatedAt)
                             .date_time()
@@ -65,7 +64,6 @@ pub enum CardsInPocket {
     CardGroupId,
     UserId,
     StartDate,
-    History,
     Level,
     CreatedAt,
 }
