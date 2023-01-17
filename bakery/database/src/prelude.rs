@@ -3,5 +3,6 @@
 pub use super::card::Entity as Card;
 pub use super::card_group::Entity as CardGroup;
 pub use super::cards_in_pocket::Entity as CardsInPocket;
+pub use super::pocket_history::Entity as PocketHistory;
 pub use super::session::Entity as Session;
 pub use super::user::Entity as User;
