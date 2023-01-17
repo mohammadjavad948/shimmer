@@ -4,6 +4,7 @@ use crate::{
     m20220816_111225_create_user::User, m20220816_123945_create_card_group::CardGroup,
     m20220816_124525_create_card::Card, m20220816_174157_create_cards_in_pocket::CardsInPocket,
     m20221225_142400_create_session::Session,
+    m20230117_100105_create_pocket_history::PocketHistory,
 };
 
 #[derive(DeriveMigrationName)]
@@ -54,6 +55,18 @@ impl MigrationTrait for Migration {
                     .name("FK_card_group_pocket")
                     .from(CardsInPocket::Table, CardsInPocket::CardGroupId)
                     .to(CardGroup::Table, CardGroup::Id)
+                    .on_delete(ForeignKeyAction::Cascade)
+                    .on_update(ForeignKeyAction::Cascade)
+                    .to_owned(),
+            )
+            .await?;
+
+        manager
+            .create_foreign_key(
+                ForeignKey::create()
+                    .name("FK_pocket_history")
+                    .from(PocketHistory::Table, PocketHistory::PocketId)
+                    .to(CardsInPocket::Table, CardsInPocket::Id)
                     .on_delete(ForeignKeyAction::Cascade)
                     .on_update(ForeignKeyAction::Cascade)
                     .to_owned(),
