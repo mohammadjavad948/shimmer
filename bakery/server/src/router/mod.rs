@@ -47,5 +47,6 @@ fn card() -> Router {
                 .patch(card::edit::edit)
                 .delete(card::delete::delete),
         )
+        .route("/:id/pocket", post(card::add_to_pocket::add_card_to_pocket))
         .layer(middleware::from_fn(auth_middleware))
 }
