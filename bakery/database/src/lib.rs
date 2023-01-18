@@ -10,3 +10,4 @@ pub mod session;
 pub mod user;
 
 pub use sea_orm;
+pub use sea_orm::ActiveValue;
