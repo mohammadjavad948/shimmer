@@ -35,7 +35,7 @@ pub async fn add_card_to_pocket(
     .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
 
     pocket_history::ActiveModel {
-        message: database::sea_orm::ActiveValue::Set("added to pocket".into()),
+        message: database::sea_orm::ActiveValue::Set("Add card to pocket".into()),
         pocket_id: database::sea_orm::ActiveValue::Set(pivot.id),
         event: database::sea_orm::ActiveValue::Set("ADD".into()),
         ..Default::default()
