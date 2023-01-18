@@ -1,11 +1,10 @@
 use crate::{middleware::auth::UserInfo, state::State};
 use axum::{extract::Json, http::StatusCode, Extension};
 use database::{
-    card, cards_in_pocket,
+    card, cards_in_pocket, pocket_history,
     sea_orm::{ActiveModelTrait, EntityTrait},
 };
 use serde::Deserialize;
-use serde_json::json;
 use std::sync::Arc;
 
 #[derive(Deserialize)]
@@ -29,6 +28,16 @@ pub async fn add_card_to_pocket(
         user_id: database::sea_orm::ActiveValue::Set(user_info.user_id),
         card_group_id: database::sea_orm::ActiveValue::Set(card.group_id),
         level: database::sea_orm::ActiveValue::Set(0),
+        ..Default::default()
+    }
+    .insert(&state.db)
+    .await
+    .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
+
+    pocket_history::ActiveModel {
+        message: database::sea_orm::ActiveValue::Set("added to pocket".into()),
+        pocket_id: database::sea_orm::ActiveValue::Set(pivot.id),
+        event: database::sea_orm::ActiveValue::Set("ADD".into()),
         ..Default::default()
     }
     .insert(&state.db)
