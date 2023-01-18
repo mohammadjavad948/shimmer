@@ -18,7 +18,7 @@ impl MigrationTrait for Migration {
                             .auto_increment()
                             .primary_key(),
                     )
-                    .col(ColumnDef::new(PocketHistory::Type).string().not_null())
+                    .col(ColumnDef::new(PocketHistory::Event).string().not_null())
                     .col(ColumnDef::new(PocketHistory::PocketId).integer().not_null())
                     .col(ColumnDef::new(PocketHistory::Message).string().not_null())
                     .col(
@@ -45,7 +45,7 @@ pub enum PocketHistory {
     Table,
     Id,
     PocketId,
-    Type,
+    Event,
     Message,
     CreatedAt,
 }
