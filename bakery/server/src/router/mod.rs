@@ -3,7 +3,7 @@ use axum::{middleware, Router};
 
 use crate::actions::auth::{info, login, sessions, signup};
 use crate::actions::gateway::websocket_handler;
-use crate::actions::{card, card_group};
+use crate::actions::{card, card_group, pocket};
 use crate::middleware::auth::auth_middleware;
 
 pub fn routes() -> Router {
@@ -47,6 +47,10 @@ fn card() -> Router {
                 .patch(card::edit::edit)
                 .delete(card::delete::delete),
         )
-        .route("/:id/pocket", post(card::add_to_pocket::add_card_to_pocket))
+        .route(
+            "/:id/pocket",
+            get(pocket::one::one).post(card::add_to_pocket::add_card_to_pocket),
+        )
+        .route("/fetch", get(pocket::fetch_next::fetch_next))
         .layer(middleware::from_fn(auth_middleware))
 }
