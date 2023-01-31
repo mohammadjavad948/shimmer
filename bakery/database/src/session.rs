@@ -11,7 +11,7 @@ pub struct Model {
     pub user_id: i32,
     pub session_hash: String,
     pub is_online: bool,
-    pub last_usage: DateTime,
+    pub last_usage: DateTimeWithTimeZone,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

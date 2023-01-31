@@ -11,9 +11,9 @@ pub struct Model {
     pub card_id: i32,
     pub user_id: i32,
     pub card_group_id: i32,
-    pub start_date: DateTime,
+    pub start_date: DateTimeWithTimeZone,
     pub level: i32,
-    pub created_at: DateTime,
+    pub created_at: DateTimeWithTimeZone,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

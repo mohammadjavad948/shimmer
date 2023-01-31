@@ -28,7 +28,7 @@ impl MigrationTrait for Migration {
                     .col(ColumnDef::new(CardGroup::CreatorId).integer().not_null())
                     .col(
                         ColumnDef::new(CardGroup::CreatedAt)
-                            .date_time()
+                            .timestamp_with_time_zone()
                             .not_null()
                             .extra("DEFAULT NOW()".into()),
                     )

@@ -11,7 +11,7 @@ pub struct Model {
     pub name: String,
     pub is_public: bool,
     pub creator_id: i32,
-    pub created_at: DateTime,
+    pub created_at: DateTimeWithTimeZone,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

@@ -27,7 +27,7 @@ impl MigrationTrait for Migration {
                     )
                     .col(
                         ColumnDef::new(CardsInPocket::StartDate)
-                            .date_time()
+                            .timestamp_with_time_zone()
                             .not_null()
                             .extra("DEFAULT NOW()".into()),
                     )
@@ -39,7 +39,7 @@ impl MigrationTrait for Migration {
                     )
                     .col(
                         ColumnDef::new(CardsInPocket::CreatedAt)
-                            .date_time()
+                            .timestamp_with_time_zone()
                             .not_null()
                             .extra("DEFAULT NOW()".into()),
                     )

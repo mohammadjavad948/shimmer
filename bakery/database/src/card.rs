@@ -13,7 +13,7 @@ pub struct Model {
     pub real_answer: Json,
     pub group_id: i32,
     pub creator_id: i32,
-    pub created_at: DateTime,
+    pub created_at: DateTimeWithTimeZone,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

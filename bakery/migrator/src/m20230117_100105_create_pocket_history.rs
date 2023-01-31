@@ -23,7 +23,7 @@ impl MigrationTrait for Migration {
                     .col(ColumnDef::new(PocketHistory::Message).string().not_null())
                     .col(
                         ColumnDef::new(PocketHistory::CreatedAt)
-                            .date_time()
+                            .timestamp_with_time_zone()
                             .not_null()
                             .extra("DEFAULT NOW()".into()),
                     )
