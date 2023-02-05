@@ -13,7 +13,7 @@ use database::{
     },
     ActiveValue,
 };
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use std::sync::Arc;
 
 #[derive(Deserialize)]
@@ -21,12 +21,18 @@ pub struct Payload {
     pub answer_index: u64,
 }
 
+#[derive(Serialize)]
+pub struct Response {
+    pub answer: u64,
+}
+
 pub async fn submit_answer(
     Path(id): Path<i32>,
     Extension(state): Extension<Arc<State>>,
     Extension(user_info): Extension<UserInfo>,
     Json(payload): Json<Payload>,
-) -> Result<(), StatusCode> {
+) -> Result<Json<Response>, StatusCode> {
+    // TODO check for date validation
     let pocket = cards_in_pocket::Entity::find()
         .filter(cards_in_pocket::Column::CardId.eq(id))
         .filter(cards_in_pocket::Column::UserId.eq(user_info.user_id))
@@ -42,11 +48,11 @@ pub async fn submit_answer(
         .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?
         .ok_or(StatusCode::NOT_FOUND)?;
 
-    if card.real_answer["index"]
+    let answer = card.real_answer["index"]
         .as_u64()
-        .ok_or(StatusCode::INTERNAL_SERVER_ERROR)?
-        == payload.answer_index
-    {
+        .ok_or(StatusCode::INTERNAL_SERVER_ERROR)?;
+
+    if answer == payload.answer_index {
         let mut date = Utc::now();
         date = date + Days::new(calc_days_by_level(pocket.level));
 
@@ -96,7 +102,7 @@ pub async fn submit_answer(
         .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?;
     }
 
-    return Ok(());
+    return Ok(Json(Response { answer }));
 }
 
 fn calc_days_by_level(level: i32) -> u64 {
