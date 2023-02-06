@@ -11,6 +11,7 @@ pub fn routes() -> Router {
         .nest("/auth", auth())
         .nest("/card-group", card_group())
         .nest("/card", card())
+        .nest("/pocket", pocket())
         .route("/gateway", get(websocket_handler))
 }
 
@@ -47,10 +48,16 @@ fn card() -> Router {
                 .patch(card::edit::edit)
                 .delete(card::delete::delete),
         )
+        .layer(middleware::from_fn(auth_middleware))
+}
+
+fn pocket() -> Router {
+    Router::new()
         .route(
-            "/:id/pocket",
-            get(pocket::one::one).post(card::add_to_pocket::add_card_to_pocket),
+            "/:id",
+            get(pocket::one::one).post(pocket::submit_answer::submit_answer),
         )
-        .route("/fetch", get(pocket::fetch_next::fetch_next))
+        .route("/", get(pocket::fetch_next::fetch_next))
+        .route("/:id/add", post(card::add_to_pocket::add_card_to_pocket))
         .layer(middleware::from_fn(auth_middleware))
 }
