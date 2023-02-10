@@ -9,7 +9,7 @@ use std::sync::Arc;
 pub async fn fetch_next(
     Extension(state): Extension<Arc<State>>,
     Extension(user_info): Extension<UserInfo>,
-) -> Result<Json<(database::card::Model, cards_in_pocket::Model)>, StatusCode> {
+) -> Result<Json<database::card::Model>, StatusCode> {
     let date = chrono::Utc::now();
 
     let data = cards_in_pocket::Entity::find()
@@ -38,5 +38,5 @@ pub async fn fetch_next(
         .map_err(|_| StatusCode::INTERNAL_SERVER_ERROR)?
         .ok_or(StatusCode::NOT_FOUND)?;
 
-    Ok(Json((card, data)))
+    Ok(Json(card))
 }

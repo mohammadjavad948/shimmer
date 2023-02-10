@@ -48,6 +48,7 @@ fn card() -> Router {
                 .patch(card::edit::edit)
                 .delete(card::delete::delete),
         )
+        .route("/:id/history", get(card::history::history))
         .layer(middleware::from_fn(auth_middleware))
 }
 
@@ -57,7 +58,9 @@ fn pocket() -> Router {
             "/:id",
             get(pocket::one::one).post(pocket::submit_answer::submit_answer),
         )
-        .route("/", get(pocket::fetch_next::fetch_next))
-        .route("/:id/add", post(card::add_to_pocket::add_card_to_pocket))
+        .route(
+            "/",
+            get(pocket::fetch_next::fetch_next).post(card::add_to_pocket::add_card_to_pocket),
+        )
         .layer(middleware::from_fn(auth_middleware))
 }
